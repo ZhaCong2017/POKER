@@ -1,0 +1,5305 @@
+Ac Jc Kc Qc Tc 
+Tc Ac - - - - - - Jc Kc Qc - - 21.2725
+Jc Ac - Tc - - - - Kc Qc - - - 21.6025
+Kc Ac - - - - - - Jc Qc Tc - - 23.2588
+Ac - - - - - - - Jc Kc Qc Tc - 27.8431
+- - - - - - - - Ac Jc Kc Qc Tc 31.82
+
+9c Ac Jc Kc Qc 
+Qc Ac - 9c - - - - Jc Kc - - - 21.1144
+Ac 9c - - - - - - Jc Kc Qc - - 21.5225
+Jc Ac - - - - - - 9c Kc Qc - - 22.16
+Kc Ac - 9c - - - - Jc Qc - - - 22.6863
+Ac - - - - - - - 9c Jc Kc Qc - 27.3463
+
+8c Ac Jc Kc Qc 
+Qc Ac - Kc - - - - 8c Jc - - - 20.7712
+Ac 8c - - - - - - Jc Kc Qc - - 21.41
+Jc Ac - 8c - - - - Kc Qc - - - 21.7337
+Kc Ac - 8c - - - - Jc Qc - - - 22.7337
+Ac - - 8c - - - - Jc Kc Qc - - 27.3519
+
+7c Ac Jc Kc Qc 
+Jc Ac - 7c - - - - Kc Qc - - - 20.9737
+Qc Ac - 7c - - - - Jc Kc - - - 21.445
+Kc Ac - 7c - - - - Jc Qc - - - 21.9819
+Ac 7c - - - - - - Jc Kc Qc - - 22.3975
+Ac - - 7c - - - - Jc Kc Qc - - 27.7706
+
+6c Ac Jc Kc Qc 
+Qc Ac - 6c - - - - Jc Kc - - - 20.7856
+Jc Ac - 6c - - - - Kc Qc - - - 21.525
+Ac 6c - - - - - - Jc Kc Qc - - 22.1038
+Kc Ac - 6c - - - - Jc Qc - - - 23.3631
+Ac - - 6c - - - - Jc Kc Qc - - 26.4706
+
+5c Ac Jc Kc Qc 
+Ac 5c - - - - - - Jc Kc Qc - - 21.8744
+Qc Ac - 5c - - - - Jc Kc - - - 21.9019
+Jc Ac - 5c - - - - Kc Qc - - - 22.9312
+Kc Ac - 5c - - - - Jc Qc - - - 24.3744
+Ac - - 5c - - - - Jc Kc Qc - - 26.9669
+
+4c Ac Jc Kc Qc 
+Ac 4c - - - - - - Jc Kc Qc - - 21.4013
+Jc Ac - 4c - - - - Kc Qc - - - 22.6925
+Qc Ac - 4c - - - - Jc Kc - - - 23.225
+Kc Ac - 4c - - - - Jc Qc - - - 23.3237
+Ac - - 4c - - - - Jc Kc Qc - - 26.5088
+
+3c Ac Jc Kc Qc 
+Ac 3c - - - - - - Jc Kc Qc - - 21.2463
+Qc Ac - 3c - - - - Jc Kc - - - 21.8294
+Jc Ac - 3c - - - - Kc Qc - - - 22.91
+Kc Ac - 3c - - - - Jc Qc - - - 23.5644
+Ac - - 3c - - - - Jc Kc Qc - - 25.9031
+
+2c Ac Jc Kc Qc 
+Jc Ac - 2c - - - - Kc Qc - - - 21.245
+Ac 2c - - - - - - Jc Kc Qc - - 21.695
+Qc Ac - 2c - - - - Jc Kc - - - 21.7306
+Kc Ac - 2c - - - - Jc Qc - - - 24.5056
+Ac - - 2c - - - - Jc Kc Qc - - 26.1194
+
+9c Ac Kc Qc Tc 
+Qc Ac - Kc - - - - 9c Tc - - - 20.8106
+Kc Ac - 9c - - - - Qc Tc - - - 21.5475
+Ac 9c - Tc - - - - Kc Qc - - - 21.74
+Tc Ac - 9c - - - - Kc Qc - - - 22.2356
+Ac - - - - - - - 9c Kc Qc Tc - 27.0888
+
+8c Ac Kc Qc Tc 
+Qc Ac - Kc - - - - 8c Tc - - - 20.1156
+Ac 8c - - - - - - Kc Qc Tc - - 21.4562
+Tc Ac - 8c - - - - Kc Qc - - - 21.6213
+Kc Ac - 8c - - - - Qc Tc - - - 21.9525
+Ac - - 8c - - - - Kc Qc Tc - - 27.2444
+
+7c Ac Kc Qc Tc 
+Qc Ac - 7c - - - - Kc Tc - - - 21.0706
+Tc Ac - 7c - - - - Kc Qc - - - 22.3587
+Ac 7c - - - - - - Kc Qc Tc - - 22.7819
+Kc Ac - 7c - - - - Qc Tc - - - 23.7031
+Ac - - 7c - - - - Kc Qc Tc - - 26.49
+
+6c Ac Kc Qc Tc 
+Qc Ac - 6c - - - - Kc Tc - - - 21.2337
+Ac 6c - - - - - - Kc Qc Tc - - 21.5619
+Kc Ac - 6c - - - - Qc Tc - - - 23.3475
+Tc Ac - 6c - - - - Kc Qc - - - 23.5631
+Ac - - 6c - - - - Kc Qc Tc - - 27.175
+
+5c Ac Kc Qc Tc 
+Ac 5c - - - - - - Kc Qc Tc - - 21.6769
+Qc Ac - 5c - - - - Kc Tc - - - 22.3656
+Tc Ac - 5c - - - - Kc Qc - - - 22.8813
+Kc Ac - 5c - - - - Qc Tc - - - 22.9119
+Ac - - 5c - - - - Kc Qc Tc - - 27.6313
+
+4c Ac Kc Qc Tc 
+Tc Ac - 4c - - - - Kc Qc - - - 21.8937
+Ac 4c - - - - - - Kc Qc Tc - - 22.8363
+Qc Ac - 4c - - - - Kc Tc - - - 23.1413
+Kc Ac - 4c - - - - Qc Tc - - - 24.3494
+Ac - - 4c - - - - Kc Qc Tc - - 26.505
+
+3c Ac Kc Qc Tc 
+Qc Ac - 3c - - - - Kc Tc - - - 21.6181
+Kc Ac - 3c - - - - Qc Tc - - - 22.2463
+Ac 3c - - - - - - Kc Qc Tc - - 22.25
+Tc Ac - 3c - - - - Kc Qc - - - 22.3181
+Ac - - - - - - - 3c Kc Qc Tc - 26.4613
+
+2c Ac Kc Qc Tc 
+Qc Ac - 2c - - - - Kc Tc - - - 21.1375
+Kc Ac - 2c - - - - Qc Tc - - - 22.5975
+Ac 2c - - - - - - Kc Qc Tc - - 23.005
+Tc Ac - 2c - - - - Kc Qc - - - 24.5012
+Ac - - 2c - - - - Kc Qc Tc - - 27.2344
+
+8c 9c Ac Kc Qc 
+Kc Ac - 8c - - - - 9c Qc - - - 21.0387
+Ac 9c - 8c - - - - Kc Qc - - - 21.845
+Ac 8c - 9c - - - - Kc Qc - - - 22.2588
+Qc Ac - Kc - - - - 8c 9c - - - 22.5706
+Ac - - 8c - - - - 9c Kc Qc - - 26.75
+
+7c 9c Ac Kc Qc 
+Ac 7c - 9c - - - - Kc Qc - - - 21.255
+Qc Ac - 7c - - - - 9c Kc - - - 21.5138
+Ac 9c - 7c - - - - Kc Qc - - - 22.2663
+Kc Ac - 7c - - - - 9c Qc - - - 22.7719
+Ac - - 7c - - - - 9c Kc Qc - - 25.9194
+
+6c 9c Ac Kc Qc 
+Qc Ac - Kc - - - - 6c 9c - - - 20.7219
+Ac 9c - 6c - - - - Kc Qc - - - 20.8363
+Kc Ac - 6c - - - - 9c Qc - - - 22.3363
+Ac 6c - - - - - - 9c Kc Qc - - 23.2175
+Ac - - 6c - - - - 9c Kc Qc - - 26.0963
+
+5c 9c Ac Kc Qc 
+Qc Ac - 5c - - - - 9c Kc - - - 21.2025
+Kc Ac - 5c - - - - 9c Qc - - - 21.4956
+Ac 9c - 5c - - - - Kc Qc - - - 22.3575
+Ac 5c - - - - - - 9c Kc Qc - - 22.4469
+Ac - - 5c - - - - 9c Kc Qc - - 25.2388
+
+4c 9c Ac Kc Qc 
+Ac 4c - - - - - - 9c Kc Qc - - 21.7269
+Ac 9c - 4c - - - - Kc Qc - - - 21.9662
+Qc Ac - 4c - - - - 9c Kc - - - 22.0906
+Kc Ac - 4c - - - - 9c Qc - - - 22.7456
+Ac - - 4c - - - - 9c Kc Qc - - 26.8263
+
+3c 9c Ac Kc Qc 
+Kc Ac - 3c - - - - 9c Qc - - - 21.7781
+Qc Ac - 3c - - - - 9c Kc - - - 22.0694
+Ac 3c - - - - - - 9c Kc Qc - - 22.5781
+Ac 9c - 3c - - - - Kc Qc - - - 23.1275
+Ac - - 3c - - - - 9c Kc Qc - - 25.9394
+
+2c 9c Ac Kc Qc 
+Ac 2c - 9c - - - - Kc Qc - - - 21.1525
+Qc Ac - 2c - - - - 9c Kc - - - 22.0756
+Kc Ac - 2c - - - - 9c Qc - - - 22.3775
+Ac 9c - 2c - - - - Kc Qc - - - 23.0525
+Ac - - 2c - - - - 9c Kc Qc - - 25.8
+
+7c 8c Ac Kc Qc 
+Kc Ac - 7c - - - - 8c Qc - - - 20.77
+Ac 8c - 7c - - - - Kc Qc - - - 21.3719
+Qc Ac - Kc - - - - 7c 8c - - - 21.8
+Ac 7c - 8c - - - - Kc Qc - - - 22.7781
+Ac - - 7c - - - - 8c Kc Qc - - 25.4094
+
+6c 8c Ac Kc Qc 
+Ac 6c - 8c - - - - Kc Qc - - - 21.005
+Qc Ac - 6c - - - - 8c Kc - - - 21.1588
+Kc Ac - 6c - - - - 8c Qc - - - 22.5375
+Ac 8c - 6c - - - - Kc Qc - - - 22.6569
+Ac - - - - - - - 6c 8c Kc Qc - 26.145
+
+5c 8c Ac Kc Qc 
+Qc Ac - 5c - - - - 8c Kc - - - 20.0125
+Kc Ac - 5c - - - - 8c Qc - - - 21.7775
+Ac 5c - 8c - - - - Kc Qc - - - 22.0306
+Ac 8c - 5c - - - - Kc Qc - - - 22.3819
+Ac - - 8c 5c - - - Kc Qc - - - 26.1319
+
+4c 8c Ac Kc Qc 
+Qc Ac - 8c 4c - - - Kc - - - - 20.7388
+Ac 4c - 8c - - - - Kc Qc - - - 21.1187
+Ac 8c - 4c - - - - Kc Qc - - - 21.6725
+Kc Ac - 4c - - - - 8c Qc - - - 21.6931
+Ac - - - - - - - 4c 8c Kc Qc - 25.1825
+
+3c 8c Ac Kc Qc 
+Qc Ac - 3c - - - - 8c Kc - - - 20.4237
+Kc Ac - 3c - - - - 8c Qc - - - 21.7606
+Ac 8c - 3c - - - - Kc Qc - - - 21.8494
+Ac 3c - 8c - - - - Kc Qc - - - 22.6956
+Ac - - 3c - - - - 8c Kc Qc - - 26.4737
+
+2c 8c Ac Kc Qc 
+Qc Ac - 2c - - - - 8c Kc - - - 21.58
+Ac 2c - 8c - - - - Kc Qc - - - 21.6938
+Kc Ac - 2c - - - - 8c Qc - - - 22.6625
+Ac 8c - 2c - - - - Kc Qc - - - 23.4219
+Ac - - 8c 2c - - - Kc Qc - - - 25.6425
+
+6c 7c Ac Kc Qc 
+Kc Ac - 6c - - - - 7c Qc - - - 20.0613
+Qc Ac - Kc - - - - 6c 7c - - - 21.6406
+Ac 6c - 7c - - - - Kc Qc - - - 21.7669
+Ac 7c - 6c - - - - Kc Qc - - - 22.1444
+Ac - - 6c - - - - 7c Kc Qc - - 25.6431
+
+5c 7c Ac Kc Qc 
+Kc Ac - 7c 5c - - - Qc - - - - 21.3075
+Qc Ac - 5c - - - - 7c Kc - - - 21.4269
+Ac 7c - 5c - - - - Kc Qc - - - 21.8106
+Ac 5c - 7c - - - - Kc Qc - - - 22.4781
+Ac - - - - - - - 5c 7c Kc Qc - 25.6475
+
+4c 7c Ac Kc Qc 
+Ac 4c - 7c - - - - Kc Qc - - - 20.6912
+Qc Ac - 7c 4c - - - Kc - - - - 21.1012
+Kc Ac - 7c 4c - - - Qc - - - - 21.7463
+Ac 7c - 4c - - - - Kc Qc - - - 22.5681
+Ac - - 4c - - - - 7c Kc Qc - - 26.9219
+
+3c 7c Ac Kc Qc 
+Kc Ac - 7c 3c - - - Qc - - - - 21.2038
+Ac 7c - 3c - - - - Kc Qc - - - 21.6344
+Qc Ac - 7c 3c - - - Kc - - - - 21.925
+Ac 3c - 7c - - - - Kc Qc - - - 23.21
+Ac - - 3c - - - - 7c Kc Qc - - 25.0006
+
+2c 7c Ac Kc Qc 
+Qc Ac - 7c 2c - - - Kc - - - - 21.5562
+Ac 2c - 7c - - - - Kc Qc - - - 21.5719
+Kc Ac - 2c - - - - 7c Qc - - - 22.27
+Ac 7c - 2c - - - - Kc Qc - - - 22.5131
+Ac - - - - - - - 2c 7c Kc Qc - 25.4281
+
+5c 6c Ac Kc Qc 
+Qc Ac - 6c 5c - - - Kc - - - - 19.93
+Ac 5c - 6c - - - - Kc Qc - - - 21.5438
+Kc Ac - 6c 5c - - - Qc - - - - 21.87
+Ac 6c - 5c - - - - Kc Qc - - - 22.8006
+Ac - - 5c - - - - 6c Kc Qc - - 25.7188
+
+4c 6c Ac Kc Qc 
+Ac 4c - 6c - - - - Kc Qc - - - 20.5931
+Kc Ac - 4c - - - - 6c Qc - - - 20.8337
+Qc Ac - 6c 4c - - - Kc - - - - 21.8219
+Ac 6c - 4c - - - - Kc Qc - - - 23.0975
+Ac - - 6c 4c - - - Kc Qc - - - 25.955
+
+3c 6c Ac Kc Qc 
+Ac 3c - 6c - - - - Kc Qc - - - 21.4506
+Qc Ac - 3c - - - - 6c Kc - - - 21.4681
+Ac 6c - 3c - - - - Kc Qc - - - 22.4306
+Kc Ac - 6c 3c - - - Qc - - - - 22.435
+Ac - - 3c - - - - 6c Kc Qc - - 25.605
+
+2c 6c Ac Kc Qc 
+Qc Ac - 6c 2c - - - Kc - - - - 20.8162
+Ac 2c - 6c - - - - Kc Qc - - - 21.3369
+Kc Ac - 2c - - - - 6c Qc - - - 21.3738
+Ac 6c - 2c - - - - Kc Qc - - - 23.5131
+Ac - - 2c - - - - 6c Kc Qc - - 24.675
+
+4c 5c Ac Kc Qc 
+Kc Ac - 5c 4c - - - Qc - - - - 21.9381
+Ac 4c - 5c - - - - Kc Qc - - - 22.03
+Qc Ac - 5c 4c - - - Kc - - - - 22.0331
+Ac 5c - 4c - - - - Kc Qc - - - 22.1975
+Ac - - - - - - - 4c 5c Kc Qc - 25.2237
+
+3c 5c Ac Kc Qc 
+Qc Ac - 5c 3c - - - Kc - - - - 22.0581
+Ac 3c - 5c - - - - Kc Qc - - - 22.4825
+Ac 5c - 3c - - - - Kc Qc - - - 23.0562
+Kc Ac - 5c 3c - - - Qc - - - - 23.3913
+Ac - - 5c 3c - - - Kc Qc - - - 25.7275
+
+2c 5c Ac Kc Qc 
+Qc Ac - 5c 2c - - - Kc - - - - 20.9387
+Ac 2c - 5c - - - - Kc Qc - - - 21.6844
+Ac 5c - 2c - - - - Kc Qc - - - 22.1138
+Kc Ac - 5c 2c - - - Qc - - - - 22.1162
+Ac - - 5c 2c - - - Kc Qc - - - 25.0394
+
+3c 4c Ac Kc Qc 
+Qc Ac - 4c 3c - - - Kc - - - - 19.3975
+Kc Ac - 4c 3c - - - Qc - - - - 20.1975
+Ac 4c - 3c - - - - Kc Qc - - - 22.2669
+Ac 3c - 4c - - - - Kc Qc - - - 22.9963
+Ac - - 4c 3c - - - Kc Qc - - - 26.6181
+
+2c 4c Ac Kc Qc 
+Qc Ac - 4c 2c - - - Kc - - - - 21.2775
+Ac 2c - 4c - - - - Kc Qc - - - 21.3156
+Kc Ac - 4c 2c - - - Qc - - - - 21.8819
+Ac 4c - 2c - - - - Kc Qc - - - 22.5206
+Ac - - 4c 2c - - - Kc Qc - - - 25.6719
+
+2c 3c Ac Kc Qc 
+Ac 2c - 3c - - - - Kc Qc - - - 20.6112
+Qc Ac - 3c 2c - - - Kc - - - - 21.7563
+Kc Ac - 3c 2c - - - Qc - - - - 22.5888
+Ac 3c - 2c - - - - Kc Qc - - - 22.8194
+Ac - - 3c 2c - - - Kc Qc - - - 25.8325
+
+9c Ac Jc Kc Tc 
+Jc Ac - - - - - - 9c Kc Tc - - 20.3813
+Tc Ac - 9c - - - - Jc Kc - - - 21.33
+Ac 9c - - - - - - Jc Kc Tc - - 21.6063
+Kc Ac - - - - - - 9c Jc Tc - - 22.6737
+Ac - - - - - - - 9c Jc Kc Tc - 28.3806
+
+8c Ac Jc Kc Tc 
+Jc Ac - 8c - - - - Kc Tc - - - 21.0537
+Tc Ac - 8c - - - - Jc Kc - - - 21.5875
+Ac 8c - - - - - - Jc Kc Tc - - 21.7
+Kc Ac - 8c - - - - Jc Tc - - - 22.4875
+Ac - - - - - - - 8c Jc Kc Tc - 25.5556
+
+7c Ac Jc Kc Tc 
+Tc Ac - - - - - - 7c Jc Kc - - 20.8919
+Jc Ac - 7c - - - - Kc Tc - - - 21.5175
+Ac 7c - - - - - - Jc Kc Tc - - 22.0912
+Kc Ac - 7c - - - - Jc Tc - - - 22.3438
+Ac - - 7c - - - - Jc Kc Tc - - 27.03
+
+6c Ac Jc Kc Tc 
+Ac 6c - Tc - - - - Jc Kc - - - 21.3662
+Tc Ac - 6c - - - - Jc Kc - - - 21.9356
+Jc Ac - 6c - - - - Kc Tc - - - 22.0537
+Kc Ac - 6c - - - - Jc Tc - - - 22.7362
+Ac - - 6c - - - - Jc Kc Tc - - 28.5475
+
+5c Ac Jc Kc Tc 
+Ac 5c - - - - - - Jc Kc Tc - - 21.6162
+Tc Ac - 5c - - - - Jc Kc - - - 21.9494
+Jc Ac - 5c - - - - Kc Tc - - - 22.2938
+Kc Ac - 5c - - - - Jc Tc - - - 22.8544
+Ac - - 5c - - - - Jc Kc Tc - - 26.6944
+
+4c Ac Jc Kc Tc 
+Ac 4c - - - - - - Jc Kc Tc - - 20.8888
+Jc Ac - 4c - - - - Kc Tc - - - 21.03
+Kc Ac - 4c - - - - Jc Tc - - - 22.735
+Tc Ac - 4c - - - - Jc Kc - - - 23.0094
+Ac - - 4c - - - - Jc Kc Tc - - 27.285
+
+3c Ac Jc Kc Tc 
+Ac 3c - - - - - - Jc Kc Tc - - 21.2825
+Tc Ac - 3c - - - - Jc Kc - - - 21.4006
+Jc Ac - 3c - - - - Kc Tc - - - 21.9762
+Kc Ac - 3c - - - - Jc Tc - - - 22.125
+Ac - - 3c - - - - Jc Kc Tc - - 26.7931
+
+2c Ac Jc Kc Tc 
+Tc Ac - 2c - - - - Jc Kc - - - 21.7281
+Kc Ac - 2c - - - - Jc Tc - - - 21.815
+Ac 2c - - - - - - Jc Kc Tc - - 22.5362
+Jc Ac - 2c - - - - Kc Tc - - - 22.69
+Ac - - 2c - - - - Jc Kc Tc - - 26.2406
+
+8c 9c Ac Jc Kc 
+Jc Ac - Kc - - - - 8c 9c - - - 20.9387
+Ac 9c - 8c - - - - Jc Kc - - - 21.1688
+Kc Ac - - - - - - 8c 9c Jc - - 21.365
+Ac 8c - 9c - - - - Jc Kc - - - 22.2644
+Ac - - 8c - - - - 9c Jc Kc - - 26.4088
+
+7c 9c Ac Jc Kc 
+Jc Ac - 7c - - - - 9c Kc - - - 20.1525
+Ac 9c - 7c - - - - Jc Kc - - - 20.77
+Kc Ac - 7c - - - - 9c Jc - - - 21.9613
+Ac 7c - - - - - - 9c Jc Kc - - 22.0994
+Ac - - 7c - - - - 9c Jc Kc - - 25.4881
+
+6c 9c Ac Jc Kc 
+Ac 9c - 6c - - - - Jc Kc - - - 21.5037
+Ac 6c - - - - - - 9c Jc Kc - - 22.3162
+Jc Ac - 6c - - - - 9c Kc - - - 22.6213
+Kc Ac - 6c - - - - 9c Jc - - - 23.8487
+Ac - - 6c - - - - 9c Jc Kc - - 26.1169
+
+5c 9c Ac Jc Kc 
+Jc Ac - 5c - - - - 9c Kc - - - 20.4725
+Ac 9c - 5c - - - - Jc Kc - - - 21.3425
+Ac 5c - - - - - - 9c Jc Kc - - 22.0475
+Kc Ac - 5c - - - - 9c Jc - - - 23.6581
+Ac - - 5c - - - - 9c Jc Kc - - 26.7469
+
+4c 9c Ac Jc Kc 
+Jc Ac - 4c - - - - 9c Kc - - - 21.0525
+Ac 4c - - - - - - 9c Jc Kc - - 21.5244
+Ac 9c - 4c - - - - Jc Kc - - - 21.9112
+Kc Ac - 4c - - - - 9c Jc - - - 22.6075
+Ac - - 4c - - - - 9c Jc Kc - - 26.3556
+
+3c 9c Ac Jc Kc 
+Jc Ac - 3c - - - - 9c Kc - - - 20.9062
+Ac 3c - - - - - - 9c Jc Kc - - 21.0037
+Kc Ac - 3c - - - - 9c Jc - - - 22.7781
+Ac 9c - 3c - - - - Jc Kc - - - 23.5238
+Ac - - 3c - - - - 9c Jc Kc - - 26.2156
+
+2c 9c Ac Jc Kc 
+Ac 2c - - - - - - 9c Jc Kc - - 21.6219
+Jc Ac - 2c - - - - 9c Kc - - - 22.1925
+Ac 9c - 2c - - - - Jc Kc - - - 22.715
+Kc Ac - 2c - - - - 9c Jc - - - 22.9144
+Ac - - 2c - - - - 9c Jc Kc - - 26.6462
+
+7c 8c Ac Jc Kc 
+Jc Ac - Kc - - - - 7c 8c - - - 20.2519
+Kc Ac - Jc - - - - 7c 8c - - - 20.8813
+Ac 8c - 7c - - - - Jc Kc - - - 22.1619
+Ac 7c - 8c - - - - Jc Kc - - - 22.545
+Ac - - 7c - - - - 8c Jc Kc - - 25.7544
+
+6c 8c Ac Jc Kc 
+Jc Ac - 6c - - - - 8c Kc - - - 20.7763
+Kc Ac - 6c - - - - 8c Jc - - - 20.9725
+Ac 8c - 6c - - - - Jc Kc - - - 21.2862
+Ac 6c - 8c - - - - Jc Kc - - - 21.7219
+Ac - - - - - - - 6c 8c Jc Kc - 26.3231
+
+5c 8c Ac Jc Kc 
+Ac 5c - 8c - - - - Jc Kc - - - 21.2087
+Jc Ac - 5c - - - - 8c Kc - - - 21.505
+Ac 8c - 5c - - - - Jc Kc - - - 21.9513
+Kc Ac - 5c - - - - 8c Jc - - - 23.0119
+Ac - - Kc 5c - - - 8c Jc - - - 25.5069
+
+4c 8c Ac Jc Kc 
+Jc Ac - 4c - - - - 8c Kc - - - 20.5825
+Kc Ac - 4c - - - - 8c Jc - - - 21.89
+Ac 4c - 8c - - - - Jc Kc - - - 21.9263
+Ac 8c - 4c - - - - Jc Kc - - - 22.7275
+Ac - - - - - - - 4c 8c Jc Kc - 25.5994
+
+3c 8c Ac Jc Kc 
+Jc Ac - 3c - - - - 8c Kc - - - 20.7113
+Ac 8c - 3c - - - - Jc Kc - - - 21.6763
+Ac 3c - 8c - - - - Jc Kc - - - 22.2013
+Kc Ac - 3c - - - - 8c Jc - - - 22.69
+Ac - - 8c 3c - - - Jc Kc - - - 25.1119
+
+2c 8c Ac Jc Kc 
+Jc Ac - 2c - - - - 8c Kc - - - 21.4225
+Ac 2c - 8c - - - - Jc Kc - - - 21.7806
+Ac 8c - 2c - - - - Jc Kc - - - 21.9219
+Kc Ac - 2c - - - - 8c Jc - - - 22.1094
+Ac - - 2c - - - - 8c Jc Kc - - 26.4713
+
+6c 7c Ac Jc Kc 
+Jc Ac - Kc - - - - 6c 7c - - - 20.7019
+Kc Ac - 6c - - - - 7c Jc - - - 20.7181
+Ac 6c - - - - - - 7c Jc Kc - - 21.5931
+Ac 7c - 6c - - - - Jc Kc - - - 21.6262
+Ac - - Jc - - - - 6c 7c Kc - - 25.3656
+
+5c 7c Ac Jc Kc 
+Jc Ac - 5c - - - - 7c Kc - - - 20.3913
+Ac 5c - 7c - - - - Jc Kc - - - 20.575
+Kc Ac - 5c - - - - 7c Jc - - - 21.4713
+Ac 7c - 5c - - - - Jc Kc - - - 22.3675
+Ac - - 7c 5c - - - Jc Kc - - - 25.4781
+
+4c 7c Ac Jc Kc 
+Jc Ac - 4c - - - - 7c Kc - - - 20.79
+Kc Ac - 4c - - - - 7c Jc - - - 21.14
+Ac 7c - 4c - - - - Jc Kc - - - 21.6831
+Ac 4c - 7c - - - - Jc Kc - - - 21.9062
+Ac - - 4c - - - - 7c Jc Kc - - 25.5525
+
+3c 7c Ac Jc Kc 
+Jc Ac - 3c - - - - 7c Kc - - - 20.4688
+Ac 3c - 7c - - - - Jc Kc - - - 20.9419
+Kc Ac - 3c - - - - 7c Jc - - - 21.2706
+Ac 7c - 3c - - - - Jc Kc - - - 23.1225
+Ac - - 3c - - - - 7c Jc Kc - - 25.4269
+
+2c 7c Ac Jc Kc 
+Jc Ac - 7c 2c - - - Kc - - - - 21.6187
+Ac 7c - 2c - - - - Jc Kc - - - 21.9769
+Kc Ac - 2c - - - - 7c Jc - - - 22.5863
+Ac 2c - 7c - - - - Jc Kc - - - 22.8575
+Ac - - 7c 2c - - - Jc Kc - - - 24.9
+
+5c 6c Ac Jc Kc 
+Jc Ac - 6c 5c - - - Kc - - - - 21.05
+Kc Ac - 6c 5c - - - Jc - - - - 21.0681
+Ac 5c - 6c - - - - Jc Kc - - - 21.1281
+Ac 6c - 5c - - - - Jc Kc - - - 22.5431
+Ac - - 6c 5c - - - Jc Kc - - - 26.3831
+
+4c 6c Ac Jc Kc 
+Jc Ac - 4c - - - - 6c Kc - - - 21.1475
+Ac 4c - 6c - - - - Jc Kc - - - 21.5269
+Ac 6c - 4c - - - - Jc Kc - - - 22.1912
+Kc Ac - 6c 4c - - - Jc - - - - 22.3988
+Ac - - - - - - - 4c 6c Jc Kc - 25.9425
+
+3c 6c Ac Jc Kc 
+Kc Ac - 6c 3c - - - Jc - - - - 21.3713
+Jc Ac - 6c 3c - - - Kc - - - - 21.515
+Ac 6c - 3c - - - - Jc Kc - - - 21.6719
+Ac 3c - 6c - - - - Jc Kc - - - 21.8113
+Ac - - 6c 3c - - - Jc Kc - - - 25.3475
+
+2c 6c Ac Jc Kc 
+Jc Ac - 6c 2c - - - Kc - - - - 20.5938
+Ac 2c - 6c - - - - Jc Kc - - - 22.5069
+Kc Ac - 6c 2c - - - Jc - - - - 22.9025
+Ac 6c - 2c - - - - Jc Kc - - - 24.0737
+Ac - - 6c 2c - - - Jc Kc - - - 27.2031
+
+4c 5c Ac Jc Kc 
+Kc Ac - 5c 4c - - - Jc - - - - 20.9762
+Ac 5c - 4c - - - - Jc Kc - - - 21.1725
+Jc Ac - 5c 4c - - - Kc - - - - 21.9275
+Ac 4c - 5c - - - - Jc Kc - - - 22.7512
+Ac - - 5c 4c - - - Jc Kc - - - 25.9963
+
+3c 5c Ac Jc Kc 
+Jc Ac - 3c - - - - 5c Kc - - - 20.2675
+Ac 3c - 5c - - - - Jc Kc - - - 22.1425
+Kc Ac - 5c 3c - - - Jc - - - - 22.3519
+Ac 5c - 3c - - - - Jc Kc - - - 23.0669
+Ac - - 5c 3c - - - Jc Kc - - - 25.5931
+
+2c 5c Ac Jc Kc 
+Kc Ac - 5c 2c - - - Jc - - - - 21.5012
+Jc Ac - 5c 2c - - - Kc - - - - 21.845
+Ac 2c - 5c - - - - Jc Kc - - - 22.1169
+Ac 5c - 2c - - - - Jc Kc - - - 22.5694
+Ac - - 5c 2c - - - Jc Kc - - - 25.5075
+
+3c 4c Ac Jc Kc 
+Kc Ac - 4c 3c - - - Jc - - - - 21.4431
+Ac 3c - 4c - - - - Jc Kc - - - 21.5513
+Ac 4c - 3c - - - - Jc Kc - - - 22.6206
+Jc Ac - 4c 3c - - - Kc - - - - 22.6887
+Ac - - 3c - - - - 4c Jc Kc - - 25.4475
+
+2c 4c Ac Jc Kc 
+Kc Ac - 4c 2c - - - Jc - - - - 20.5837
+Ac 2c - 4c - - - - Jc Kc - - - 21.3394
+Jc Ac - 4c 2c - - - Kc - - - - 21.7437
+Ac 4c - 2c - - - - Jc Kc - - - 23.5494
+Ac - - 4c 2c - - - Jc Kc - - - 26.4225
+
+2c 3c Ac Jc Kc 
+Ac 2c - 3c - - - - Jc Kc - - - 21.7294
+Jc Ac - 3c 2c - - - Kc - - - - 21.7763
+Ac 3c - 2c - - - - Jc Kc - - - 23.3219
+Kc Ac - 3c 2c - - - Jc - - - - 23.6219
+Ac - - 3c 2c - - - Jc Kc - - - 25.9306
+
+8c 9c Ac Kc Tc 
+Ac 9c - - - - - - 8c Kc Tc - - 20.6938
+Tc Ac - 8c - - - - 9c Kc - - - 21.4944
+Ac 8c - - - - - - 9c Kc Tc - - 21.5975
+Kc Ac - - - - - - 8c 9c Tc - - 22.2481
+Ac - - Kc - - - - 8c 9c Tc - - 27.1581
+
+7c 9c Ac Kc Tc 
+Ac 9c - 7c - - - - Kc Tc - - - 21.215
+Tc Ac - 7c - - - - 9c Kc - - - 21.3356
+Ac 7c - 9c - - - - Kc Tc - - - 21.9587
+Kc Ac - 7c - - - - 9c Tc - - - 22.4825
+Ac - - Kc - - - - 7c 9c Tc - - 26.7075
+
+6c 9c Ac Kc Tc 
+Ac 9c - 6c - - - - Kc Tc - - - 21.1287
+Tc Ac - 6c - - - - 9c Kc - - - 21.3913
+Kc Ac - 6c - - - - 9c Tc - - - 22.0369
+Ac 6c - - - - - - 9c Kc Tc - - 22.4319
+Ac - - 6c - - - - 9c Kc Tc - - 26.5481
+
+5c 9c Ac Kc Tc 
+Ac 5c - Tc - - - - 9c Kc - - - 20.9088
+Tc Ac - 5c - - - - 9c Kc - - - 21.1737
+Ac 9c - 5c - - - - Kc Tc - - - 21.4862
+Kc Ac - 5c - - - - 9c Tc - - - 22.9606
+Ac - - Tc - - - - 5c 9c Kc - - 25.2712
+
+4c 9c Ac Kc Tc 
+Ac 9c - 4c - - - - Kc Tc - - - 20.105
+Ac 4c - - - - - - 9c Kc Tc - - 21.4506
+Kc Ac - 4c - - - - 9c Tc - - - 23.0106
+Tc Ac - 4c - - - - 9c Kc - - - 23.08
+Ac - - 4c - - - - 9c Kc Tc - - 26.085
+
+3c 9c Ac Kc Tc 
+Tc Ac - 3c - - - - 9c Kc - - - 21.7975
+Kc Ac - 3c - - - - 9c Tc - - - 22.2269
+Ac 3c - 9c - - - - Kc Tc - - - 22.5312
+Ac 9c - 3c - - - - Kc Tc - - - 23.0088
+Ac - - Kc 3c - - - 9c Tc - - - 26.1144
+
+2c 9c Ac Kc Tc 
+Tc Ac - 2c - - - - 9c Kc - - - 20.8512
+Ac 2c - 9c - - - - Kc Tc - - - 21.1225
+Ac 9c - 2c - - - - Kc Tc - - - 22.3275
+Kc Ac - 2c - - - - 9c Tc - - - 24.1462
+Ac - - 2c - - - - 9c Kc Tc - - 26.2962
+
+7c 8c Ac Kc Tc 
+Ac 8c - 7c - - - - Kc Tc - - - 20.815
+Tc Ac - Kc - - - - 7c 8c - - - 21.7144
+Ac 7c - 8c - - - - Kc Tc - - - 21.9988
+Kc Ac - 7c - - - - 8c Tc - - - 22.1987
+Ac - - 8c - - - - 7c Kc Tc - - 25.5187
+
+6c 8c Ac Kc Tc 
+Tc Ac - 6c - - - - 8c Kc - - - 20.4794
+Kc Ac - 6c - - - - 8c Tc - - - 21.2825
+Ac 6c - 8c - - - - Kc Tc - - - 21.6575
+Ac 8c - 6c - - - - Kc Tc - - - 22.2844
+Ac - - 6c - - - - 8c Kc Tc - - 24.6812
+
+5c 8c Ac Kc Tc 
+Tc Ac - 8c 5c - - - Kc - - - - 20.4031
+Ac 5c - - - - - - 8c Kc Tc - - 20.415
+Ac 8c - 5c - - - - Kc Tc - - - 20.805
+Kc Ac - 5c - - - - 8c Tc - - - 22.2825
+Ac - - 8c 5c - - - Kc Tc - - - 25.2519
+
+4c 8c Ac Kc Tc 
+Ac 4c - 8c - - - - Kc Tc - - - 20.6912
+Tc Ac - 8c 4c - - - Kc - - - - 20.905
+Ac 8c - 4c - - - - Kc Tc - - - 21.8269
+Kc Ac - 4c - - - - 8c Tc - - - 23.1513
+Ac - - Kc 4c - - - 8c Tc - - - 25.8231
+
+3c 8c Ac Kc Tc 
+Ac 8c - 3c - - - - Kc Tc - - - 20.9131
+Tc Ac - 8c 3c - - - Kc - - - - 21.5869
+Ac 3c - 8c - - - - Kc Tc - - - 22.025
+Kc Ac - 3c - - - - 8c Tc - - - 24.2494
+Ac - - - - - - - 3c 8c Kc Tc - 25.3325
+
+2c 8c Ac Kc Tc 
+Ac 2c - 8c - - - - Kc Tc - - - 20.7669
+Tc Ac - 2c - - - - 8c Kc - - - 21.6063
+Ac 8c - 2c - - - - Kc Tc - - - 23.2206
+Kc Ac - 2c - - - - 8c Tc - - - 23.655
+Ac - - 8c 2c - - - Kc Tc - - - 25.0631
+
+6c 7c Ac Kc Tc 
+Kc Ac - 6c - - - - 7c Tc - - - 20.6231
+Tc Ac - 6c - - - - 7c Kc - - - 21.1869
+Ac 7c - 6c - - - - Kc Tc - - - 21.4862
+Ac 6c - 7c - - - - Kc Tc - - - 21.9075
+Ac - - 6c - - - - 7c Kc Tc - - 26.0088
+
+5c 7c Ac Kc Tc 
+Ac 5c - 7c - - - - Kc Tc - - - 20.9156
+Kc Ac - 5c - - - - 7c Tc - - - 21.4525
+Tc Ac - 7c 5c - - - Kc - - - - 21.5987
+Ac 7c - 5c - - - - Kc Tc - - - 23.1519
+Ac - - 7c 5c - - - Kc Tc - - - 25.3388
+
+4c 7c Ac Kc Tc 
+Tc Ac - 4c - - - - 7c Kc - - - 20.6669
+Ac 4c - 7c - - - - Kc Tc - - - 20.7956
+Ac 7c - Tc 4c - - - Kc - - - - 21.3988
+Kc Ac - 4c - - - - 7c Tc - - - 22.1631
+Ac - - 7c 4c - - - Kc Tc - - - 26.0963
+
+3c 7c Ac Kc Tc 
+Ac 3c - 7c - - - - Kc Tc - - - 20.5413
+Tc Ac - 7c 3c - - - Kc - - - - 21.6331
+Kc Ac - 3c - - - - 7c Tc - - - 22.2706
+Ac 7c - 3c - - - - Kc Tc - - - 22.8263
+Ac - - 7c 3c - - - Kc Tc - - - 24.5894
+
+2c 7c Ac Kc Tc 
+Tc Ac - Kc 2c - - - 7c - - - - 20.8581
+Ac 2c - 7c - - - - Kc Tc - - - 21.6063
+Kc Ac - 2c - - - - 7c Tc - - - 21.8619
+Ac 7c - 2c - - - - Kc Tc - - - 23.1975
+Ac - - 2c - - - - 7c Kc Tc - - 25.1294
+
+5c 6c Ac Kc Tc 
+Tc Ac - 5c - - - - 6c Kc - - - 20.5963
+Kc Ac - 6c 5c - - - Tc - - - - 20.8025
+Ac 5c - 6c - - - - Kc Tc - - - 21.2138
+Ac 6c - 5c - - - - Kc Tc - - - 21.5163
+Ac - - 6c 5c - - - Kc Tc - - - 25.3662
+
+4c 6c Ac Kc Tc 
+Ac 4c - 6c - - - - Kc Tc - - - 20.7812
+Kc Ac - 6c 4c - - - Tc - - - - 21.1231
+Tc Ac - 4c - - - - 6c Kc - - - 21.5519
+Ac 6c - 4c - - - - Kc Tc - - - 22.1744
+Ac - - 6c 4c - - - Kc Tc - - - 27.1769
+
+3c 6c Ac Kc Tc 
+Tc Ac - 6c 3c - - - Kc - - - - 20.6513
+Ac 6c - 3c - - - - Kc Tc - - - 21.525
+Ac 3c - 6c - - - - Kc Tc - - - 21.82
+Kc Ac - 3c - - - - 6c Tc - - - 22.1537
+Ac - - 6c 3c - - - Kc Tc - - - 26.2944
+
+2c 6c Ac Kc Tc 
+Tc Ac - 6c 2c - - - Kc - - - - 21.0475
+Ac 2c - 6c - - - - Kc Tc - - - 21.1025
+Kc Ac - 6c 2c - - - Tc - - - - 22.84
+Ac 6c - 2c - - - - Kc Tc - - - 23.5394
+Ac - - 6c 2c - - - Kc Tc - - - 26.1756
+
+4c 5c Ac Kc Tc 
+Kc Ac - 5c 4c - - - Tc - - - - 20.3363
+Ac 4c - 5c - - - - Kc Tc - - - 20.6169
+Tc Ac - 5c 4c - - - Kc - - - - 20.9244
+Ac 5c - 4c - - - - Kc Tc - - - 21.6169
+Ac - - 5c 4c - - - Kc Tc - - - 25.4944
+
+3c 5c Ac Kc Tc 
+Kc Ac - 5c 3c - - - Tc - - - - 20.7119
+Tc Ac - 5c 3c - - - Kc - - - - 21.4587
+Ac 3c - 5c - - - - Kc Tc - - - 21.9194
+Ac 5c - 3c - - - - Kc Tc - - - 22.2456
+Ac - - 5c 3c - - - Kc Tc - - - 24.5656
+
+2c 5c Ac Kc Tc 
+Tc Ac - 5c 2c - - - Kc - - - - 21.6131
+Ac 2c - 5c - - - - Kc Tc - - - 21.6675
+Kc Ac - 5c 2c - - - Tc - - - - 21.9144
+Ac 5c - 2c - - - - Kc Tc - - - 22.6369
+Ac - - 5c 2c - - - Kc Tc - - - 26.0912
+
+3c 4c Ac Kc Tc 
+Tc Ac - 4c 3c - - - Kc - - - - 21.5675
+Ac 3c - 4c - - - - Kc Tc - - - 21.7756
+Kc Ac - 4c 3c - - - Tc - - - - 22.3931
+Ac 4c - 3c - - - - Kc Tc - - - 22.4363
+Ac - - 4c 3c - - - Kc Tc - - - 26.4406
+
+2c 4c Ac Kc Tc 
+Tc Ac - 4c 2c - - - Kc - - - - 20.7719
+Ac 4c - 2c - - - - Kc Tc - - - 21.6206
+Ac 2c - 4c - - - - Kc Tc - - - 22.0525
+Kc Ac - 4c 2c - - - Tc - - - - 22.1462
+Ac - - 4c 2c - - - Kc Tc - - - 24.7887
+
+2c 3c Ac Kc Tc 
+Ac 2c - 3c - - - - Kc Tc - - - 21.2531
+Ac 3c - 2c - - - - Kc Tc - - - 23.3594
+Tc Ac - 3c 2c - - - Kc - - - - 23.9144
+Kc Ac - 3c 2c - - - Tc - - - - 24.6931
+Ac - - 3c 2c - - - Kc Tc - - - 26.5656
+
+7c 8c 9c Ac Kc 
+Ac 8c - 7c - - - - 9c Kc - - - 20.2094
+Ac 9c - 7c - - - - 8c Kc - - - 20.615
+Ac 7c - Kc - - - - 8c 9c - - - 21.1131
+Kc Ac - - - - - - 7c 8c 9c - - 22.38
+Ac - - Kc - - - - 7c 8c 9c - - 25.9506
+
+6c 8c 9c Ac Kc 
+Ac 9c - Kc - - - - 6c 8c - - - 20.3137
+Ac 6c - 8c - - - - 9c Kc - - - 21.1456
+Kc Ac - 6c - - - - 8c 9c - - - 21.7113
+Ac 8c - 6c - - - - 9c Kc - - - 22.3581
+Ac - - 8c 6c - - - 9c Kc - - - 25.1275
+
+5c 8c 9c Ac Kc 
+Ac 9c - 5c - - - - 8c Kc - - - 19.6887
+Ac 8c - 5c - - - - 9c Kc - - - 20.6719
+Ac 5c - 8c - - - - 9c Kc - - - 21.5012
+Kc Ac - 5c - - - - 8c 9c - - - 22.8694
+Ac - - Kc - - - - 5c 8c 9c - - 25.57
+
+4c 8c 9c Ac Kc 
+Ac 4c - 8c - - - - 9c Kc - - - 21.0925
+Ac 8c - 4c - - - - 9c Kc - - - 21.2681
+Ac 9c - 4c - - - - 8c Kc - - - 21.8325
+Kc Ac - 4c - - - - 8c 9c - - - 22.5575
+Ac - - Kc 4c - - - 8c 9c - - - 25.2594
+
+3c 8c 9c Ac Kc 
+Ac 8c - 3c - - - - 9c Kc - - - 20.8344
+Ac 9c - 3c - - - - 8c Kc - - - 21.02
+Ac 3c - - - - - - 8c 9c Kc - - 21.155
+Kc Ac - 3c - - - - 8c 9c - - - 23.1162
+Ac - - Kc 3c - - - 8c 9c - - - 25.1562
+
+2c 8c 9c Ac Kc 
+Ac 9c - 2c - - - - 8c Kc - - - 20.9425
+Ac 2c - Kc - - - - 8c 9c - - - 21.1375
+Kc Ac - 8c 2c - - - 9c - - - - 22.1863
+Ac 8c - 2c - - - - 9c Kc - - - 22.7219
+Ac - - 2c - - - - 8c 9c Kc - - 26.0225
+
+6c 7c 9c Ac Kc 
+Ac 7c - 6c - - - - 9c Kc - - - 20.2906
+Ac 9c - 7c 6c - - - Kc - - - - 20.5575
+Ac 6c - 7c - - - - 9c Kc - - - 20.8988
+Kc Ac - - - - - - 6c 7c 9c - - 21.1494
+Ac - - Kc - - - - 6c 7c 9c - - 24.9263
+
+5c 7c 9c Ac Kc 
+Kc Ac - 7c 5c - - - 9c - - - - 21.0094
+Ac 9c - 5c - - - - 7c Kc - - - 21.1138
+Ac 7c - 5c - - - - 9c Kc - - - 21.3006
+Ac 5c - 7c - - - - 9c Kc - - - 21.5912
+Ac - - 7c 5c - - - 9c Kc - - - 24.9981
+
+4c 7c 9c Ac Kc 
+Ac 9c - 7c 4c - - - Kc - - - - 19.6125
+Ac 4c - 7c - - - - 9c Kc - - - 19.6931
+Kc Ac - 4c - - - - 7c 9c - - - 21.2412
+Ac 7c - 4c - - - - 9c Kc - - - 22.8481
+Ac - - - - - - - 4c 7c 9c Kc - 24.7237
+
+3c 7c 9c Ac Kc 
+Ac 9c - 7c 3c - - - Kc - - - - 19.805
+Ac 3c - 7c - - - - 9c Kc - - - 21.6338
+Ac 7c - 3c - - - - 9c Kc - - - 22.535
+Kc Ac - 3c - - - - 7c 9c - - - 22.7006
+Ac - - 7c - - - - 3c 9c Kc - - 26.0519
+
+2c 7c 9c Ac Kc 
+Ac 9c - 2c - - - - 7c Kc - - - 20.425
+Ac 2c - 7c - - - - 9c Kc - - - 21.1956
+Ac 7c - 2c - - - - 9c Kc - - - 21.7869
+Kc Ac - 2c - - - - 7c 9c - - - 22.0275
+Ac - - 7c 2c - - - 9c Kc - - - 24.9912
+
+5c 6c 9c Ac Kc 
+Ac 9c - 6c 5c - - - Kc - - - - 20.14
+Ac 5c - 6c - - - - 9c Kc - - - 20.9762
+Kc Ac - 6c 5c - - - 9c - - - - 21.0994
+Ac 6c - 5c - - - - 9c Kc - - - 22.2025
+Ac - - 6c 5c - - - 9c Kc - - - 25.8494
+
+4c 6c 9c Ac Kc 
+Ac 9c - 6c 4c - - - Kc - - - - 21.1313
+Kc Ac - 4c - - - - 6c 9c - - - 21.2262
+Ac 4c - 6c - - - - 9c Kc - - - 21.7875
+Ac 6c - 4c - - - - 9c Kc - - - 22.6581
+Ac - - - - - - - 4c 6c 9c Kc - 25.285
+
+3c 6c 9c Ac Kc 
+Ac 9c - 6c 3c - - - Kc - - - - 20.8438
+Ac 6c - 3c - - - - 9c Kc - - - 20.9656
+Kc Ac - 3c - - - - 6c 9c - - - 21.4706
+Ac 3c - 6c - - - - 9c Kc - - - 21.4988
+Ac - - 6c 3c - - - 9c Kc - - - 26.2512
+
+2c 6c 9c Ac Kc 
+Ac 9c - 6c 2c - - - Kc - - - - 20.97
+Ac 2c - 6c - - - - 9c Kc - - - 21.4369
+Kc Ac - 2c - - - - 6c 9c - - - 22.5681
+Ac 6c - 2c - - - - 9c Kc - - - 23.7113
+Ac - - 6c 2c - - - 9c Kc - - - 24.9206
+
+4c 5c 9c Ac Kc 
+Ac 9c - 5c 4c - - - Kc - - - - 21.1513
+Kc Ac - 4c - - - - 5c 9c - - - 21.1594
+Ac 5c - 4c - - - - 9c Kc - - - 21.5475
+Ac 4c - 5c - - - - 9c Kc - - - 21.61
+Ac - - 5c 4c - - - 9c Kc - - - 25.0912
+
+3c 5c 9c Ac Kc 
+Ac 3c - - - - - - 5c 9c Kc - - 20.47
+Ac 9c - 3c - - - - 5c Kc - - - 21.0212
+Kc Ac - 5c 3c - - - 9c - - - - 22.3006
+Ac 5c - 3c - - - - 9c Kc - - - 22.9744
+Ac - - 5c 3c - - - 9c Kc - - - 24.8244
+
+2c 5c 9c Ac Kc 
+Kc Ac - 5c 2c - - - 9c - - - - 21.6063
+Ac 5c - 9c 2c - - - Kc - - - - 21.77
+Ac 2c - 5c - - - - 9c Kc - - - 21.8
+Ac 9c - 5c 2c - - - Kc - - - - 22.1688
+Ac - - 5c 2c - - - 9c Kc - - - 25.0362
+
+3c 4c 9c Ac Kc 
+Ac 3c - Kc 4c - - - 9c - - - - 19.5844
+Ac 4c - 3c - - - - 9c Kc - - - 20.8419
+Kc Ac - 4c 3c - - - 9c - - - - 22.38
+Ac 9c - 4c 3c - - - Kc - - - - 22.7125
+Ac - - 4c 3c - - - 9c Kc - - - 26.2262
+
+2c 4c 9c Ac Kc 
+Ac 4c - 2c - - - - 9c Kc - - - 21.3031
+Ac 2c - 4c - - - - 9c Kc - - - 21.7631
+Ac 9c - 4c 2c - - - Kc - - - - 22.3188
+Kc Ac - 4c 2c - - - 9c - - - - 22.845
+Ac - - 4c 2c - - - 9c Kc - - - 26.2844
+
+2c 3c 9c Ac Kc 
+Ac 9c - 3c 2c - - - Kc - - - - 20.1025
+Ac 2c - 3c - - - - 9c Kc - - - 21.2019
+Ac 3c - 9c 2c - - - Kc - - - - 22.4137
+Kc Ac - 3c 2c - - - 9c - - - - 23.1975
+Ac - - 3c 2c - - - 9c Kc - - - 25.83
+
+6c 7c 8c Ac Kc 
+Ac 7c - 6c - - - - 8c Kc - - - 20.4562
+Ac 6c - 7c - - - - 8c Kc - - - 20.4856
+Ac 8c - 6c - - - - 7c Kc - - - 20.6425
+Kc Ac - - - - - - 6c 7c 8c - - 22.3288
+Ac - - Kc - - - - 6c 7c 8c - - 26.5156
+
+5c 7c 8c Ac Kc 
+Ac 5c - Kc - - - - 7c 8c - - - 19.4675
+Ac 7c - 5c - - - - 8c Kc - - - 20.3213
+Ac 8c - 5c - - - - 7c Kc - - - 21.0275
+Kc Ac - 5c - - - - 7c 8c - - - 21.4212
+Ac - - Kc - - - - 5c 7c 8c - - 25.3719
+
+4c 7c 8c Ac Kc 
+Ac 4c - 8c 7c - - - Kc - - - - 20.1963
+Ac 7c - 4c - - - - 8c Kc - - - 20.2987
+Ac 8c - 7c 4c - - - Kc - - - - 20.745
+Kc Ac - 4c - - - - 7c 8c - - - 21.0981
+Ac - - 4c - - - - 7c 8c Kc - - 26.2244
+
+3c 7c 8c Ac Kc 
+Ac 7c - 3c - - - - 8c Kc - - - 19.4638
+Ac 8c - 3c - - - - 7c Kc - - - 20.9681
+Ac 3c - Kc - - - - 7c 8c - - - 20.9744
+Kc Ac - 3c - - - - 7c 8c - - - 22.0119
+Ac - - 8c 3c - - - 7c Kc - - - 24.5138
+
+2c 7c 8c Ac Kc 
+Ac 2c - Kc - - - - 7c 8c - - - 20.3275
+Ac 7c - 8c 2c - - - Kc - - - - 20.945
+Kc Ac - 2c - - - - 7c 8c - - - 21.7481
+Ac 8c - 2c - - - - 7c Kc - - - 22.2225
+Ac - - 7c 2c - - - 8c Kc - - - 25.9981
+
+5c 6c 8c Ac Kc 
+Ac 6c - 5c - - - - 8c Kc - - - 20.1763
+Ac 8c - 6c 5c - - - Kc - - - - 20.6469
+Ac 5c - Kc - - - - 6c 8c - - - 20.7763
+Kc Ac - 6c 5c - - - 8c - - - - 21.1131
+Ac - - - - - - - 5c 6c 8c Kc - 24.0637
+
+4c 6c 8c Ac Kc 
+Ac 6c - Kc 4c - - - 8c - - - - 18.9381
+Ac 8c - 6c 4c - - - Kc - - - - 19.6431
+Ac 4c - 6c - - - - 8c Kc - - - 19.9975
+Kc Ac - 6c 4c - - - 8c - - - - 20.2506
+Ac - - Kc 4c - - - 6c 8c - - - 24.6775
+
+3c 6c 8c Ac Kc 
+Ac 3c - 6c - - - - 8c Kc - - - 20.87
+Kc Ac - 6c 3c - - - 8c - - - - 21.0287
+Ac 6c - 3c - - - - 8c Kc - - - 21.0744
+Ac 8c - 6c 3c - - - Kc - - - - 22.3856
+Ac - - Kc 3c - - - 6c 8c - - - 25.2138
+
+2c 6c 8c Ac Kc 
+Ac 2c - Kc - - - - 6c 8c - - - 19.425
+Ac 6c - 8c 2c - - - Kc - - - - 19.7775
+Kc Ac - 2c - - - - 6c 8c - - - 21.6513
+Ac 8c - 6c 2c - - - Kc - - - - 22.8
+Ac - - 6c 2c - - - 8c Kc - - - 25.0619
+
+4c 5c 8c Ac Kc 
+Ac 5c - 4c - - - - 8c Kc - - - 20.4575
+Ac 4c - 8c 5c - - - Kc - - - - 20.9188
+Ac 8c - 5c 4c - - - Kc - - - - 21.1269
+Kc Ac - 5c 4c - - - 8c - - - - 21.4119
+Ac - - 5c - - - - 4c 8c Kc - - 24.6356
+
+3c 5c 8c Ac Kc 
+Ac 3c - 5c - - - - 8c Kc - - - 20.3025
+Ac 5c - 3c - - - - 8c Kc - - - 20.5312
+Ac 8c - 5c 3c - - - Kc - - - - 20.71
+Kc Ac - 3c - - - - 5c 8c - - - 21.9106
+Ac - - 3c - - - - 5c 8c Kc - - 25.4331
+
+2c 5c 8c Ac Kc 
+Ac 2c - 5c - - - - 8c Kc - - - 20.74
+Ac 5c - 2c - - - - 8c Kc - - - 20.79
+Kc Ac - 5c 2c - - - 8c - - - - 21.2913
+Ac 8c - 5c 2c - - - Kc - - - - 21.6994
+Ac - - 5c 2c - - - 8c Kc - - - 26.2306
+
+3c 4c 8c Ac Kc 
+Ac 4c - 3c - - - - 8c Kc - - - 19.66
+Ac 3c - 4c - - - - 8c Kc - - - 20.565
+Ac 8c - 4c 3c - - - Kc - - - - 21.2925
+Kc Ac - 4c 3c - - - 8c - - - - 21.85
+Ac - - 4c 3c - - - 8c Kc - - - 25.2706
+
+2c 4c 8c Ac Kc 
+Ac 4c - 2c - - - - 8c Kc - - - 20.1838
+Ac 2c - 8c 4c - - - Kc - - - - 21.2812
+Ac 8c - 4c 2c - - - Kc - - - - 22.0294
+Kc Ac - 4c 2c - - - 8c - - - - 22.8275
+Ac - - 4c 2c - - - 8c Kc - - - 25.745
+
+2c 3c 8c Ac Kc 
+Ac 2c - 8c 3c - - - Kc - - - - 20.2437
+Ac 3c - 2c - - - - 8c Kc - - - 20.64
+Kc Ac - 3c 2c - - - 8c - - - - 21.7812
+Ac 8c - 3c 2c - - - Kc - - - - 22.2719
+Ac - - 2c - - - - 3c 8c Kc - - 24.5694
+
+5c 6c 7c Ac Kc 
+Ac 7c - 6c 5c - - - Kc - - - - 19.2306
+Ac 6c - 5c - - - - 7c Kc - - - 20.3213
+Kc Ac - - - - - - 5c 6c 7c - - 20.8888
+Ac 5c - 7c 6c - - - Kc - - - - 21.6581
+Ac - - Kc - - - - 5c 6c 7c - - 26.1444
+
+4c 6c 7c Ac Kc 
+Ac 7c - 6c 4c - - - Kc - - - - 19.7563
+Ac 4c - 6c - - - - 7c Kc - - - 20.0837
+Ac 6c - 7c 4c - - - Kc - - - - 21.2106
+Kc Ac - - - - - - 4c 6c 7c - - 23.0969
+Ac - - 4c - - - - 6c 7c Kc - - 24.0469
+
+3c 6c 7c Ac Kc 
+Ac 7c - 6c 3c - - - Kc - - - - 20.7325
+Ac 3c - 7c 6c - - - Kc - - - - 20.7887
+Ac 6c - 7c 3c - - - Kc - - - - 20.9025
+Kc Ac - 3c - - - - 6c 7c - - - 21.5287
+Ac - - Kc 3c - - - 6c 7c - - - 24.3463
+
+2c 6c 7c Ac Kc 
+Ac 2c - Kc - - - - 6c 7c - - - 19.7706
+Ac 7c - 6c 2c - - - Kc - - - - 21.1488
+Ac 6c - 7c 2c - - - Kc - - - - 21.3231
+Kc Ac - 2c - - - - 6c 7c - - - 22.4694
+Ac - - Kc 2c - - - 6c 7c - - - 25.3619
+
+4c 5c 7c Ac Kc 
+Ac 4c - 7c 5c - - - Kc - - - - 20.2956
+Ac 5c - 7c 4c - - - Kc - - - - 20.305
+Ac 7c - 5c 4c - - - Kc - - - - 20.4662
+Kc Ac - 4c - - - - 5c 7c - - - 21.0619
+Ac - - Kc - - - - 4c 5c 7c - - 24.84
+
+3c 5c 7c Ac Kc 
+Ac 7c - 5c 3c - - - Kc - - - - 20.61
+Ac 5c - 7c 3c - - - Kc - - - - 20.9062
+Kc Ac - 5c 3c - - - 7c - - - - 21.0688
+Ac 3c - 7c 5c - - - Kc - - - - 21.245
+Ac - - 3c - - - - 5c 7c Kc - - 25.0963
+
+2c 5c 7c Ac Kc 
+Ac 2c - 7c 5c - - - Kc - - - - 20.37
+Ac 7c - 2c - - - - 5c Kc - - - 21.0487
+Ac 5c - 7c 2c - - - Kc - - - - 21.3981
+Kc Ac - 2c - - - - 5c 7c - - - 21.9387
+Ac - - Kc 2c - - - 5c 7c - - - 24.5875
+
+3c 4c 7c Ac Kc 
+Ac 3c - 7c 4c - - - Kc - - - - 19.945
+Ac 4c - 7c 3c - - - Kc - - - - 21.0531
+Ac 7c - 4c 3c - - - Kc - - - - 21.4481
+Kc Ac - 4c 3c - - - 7c - - - - 21.8275
+Ac - - 3c - - - - 4c 7c Kc - - 24.9538
+
+2c 4c 7c Ac Kc 
+Ac 4c - 2c - - - - 7c Kc - - - 20.64
+Ac 7c - 4c 2c - - - Kc - - - - 21.6694
+Ac 2c - 7c 4c - - - Kc - - - - 21.7925
+Kc Ac - 4c 2c - - - 7c - - - - 22.3431
+Ac - - 4c 2c - - - 7c Kc - - - 24.7781
+
+2c 3c 7c Ac Kc 
+Ac 3c - 7c 2c - - - Kc - - - - 20.9356
+Ac 2c - 7c 3c - - - Kc - - - - 21.2288
+Ac 7c - 3c 2c - - - Kc - - - - 21.78
+Kc Ac - 3c 2c - - - 7c - - - - 22.6625
+Ac - - 3c 2c - - - 7c Kc - - - 24.8644
+
+4c 5c 6c Ac Kc 
+Kc Ac - - - - - - 4c 5c 6c - - 19.9681
+Ac 6c - 5c 4c - - - Kc - - - - 20.335
+Ac 4c - 6c 5c - - - Kc - - - - 20.705
+Ac 5c - 4c - - - - 6c Kc - - - 20.775
+Ac - - Kc - - - - 4c 5c 6c - - 26.0769
+
+3c 5c 6c Ac Kc 
+Ac 3c - 6c 5c - - - Kc - - - - 20.445
+Ac 6c - 5c 3c - - - Kc - - - - 20.9294
+Kc Ac - 5c 3c - - - 6c - - - - 21.1725
+Ac 5c - 6c 3c - - - Kc - - - - 22.2694
+Ac - - 5c - - - - 3c 6c Kc - - 24.7588
+
+2c 5c 6c Ac Kc 
+Ac 2c - 5c - - - - 6c Kc - - - 20.04
+Kc Ac - 2c - - - - 5c 6c - - - 20.8506
+Ac 5c - 2c - - - - 6c Kc - - - 21.665
+Ac 6c - 5c 2c - - - Kc - - - - 22.1688
+Ac - - Kc 2c - - - 5c 6c - - - 24.7156
+
+3c 4c 6c Ac Kc 
+Ac 4c - 6c 3c - - - Kc - - - - 20.3969
+Ac 6c - 4c 3c - - - Kc - - - - 20.4363
+Ac 3c - 4c - - - - 6c Kc - - - 20.985
+Kc Ac - - - - - - 3c 4c 6c - - 20.9937
+Ac - - Kc - - - - 3c 4c 6c - - 24.6756
+
+2c 4c 6c Ac Kc 
+Ac 2c - 6c 4c - - - Kc - - - - 20.2412
+Ac 6c - 4c 2c - - - Kc - - - - 20.3137
+Ac 4c - 6c 2c - - - Kc - - - - 20.7006
+Kc Ac - 4c 2c - - - 6c - - - - 20.8487
+Ac - - 4c 2c - - - 6c Kc - - - 25.4231
+
+2c 3c 6c Ac Kc 
+Kc Ac - 6c 3c 2c - - - - - - - 21.4431
+Ac 2c - 3c - - - - 6c Kc - - - 22.165
+Ac 6c - 3c 2c - - - Kc - - - - 22.245
+Ac 3c - 6c 2c - - - Kc - - - - 22.8594
+Ac - - 3c 2c - - - 6c Kc - - - 24.5287
+
+3c 4c 5c Ac Kc 
+Ac 3c - 5c 4c - - - Kc - - - - 20.2594
+Kc Ac - - - - - - 3c 4c 5c - - 20.9544
+Ac 5c - 4c 3c - - - Kc - - - - 21.4662
+Ac 4c - 5c 3c - - - Kc - - - - 21.9237
+Ac - - Kc - - - - 3c 4c 5c - - 26.19
+
+2c 4c 5c Ac Kc 
+Kc Ac - 2c - - - - 4c 5c - - - 20.4294
+Ac 4c - 5c 2c - - - Kc - - - - 21.31
+Ac 2c - 5c 4c - - - Kc - - - - 21.7162
+Ac 5c - 4c 2c - - - Kc - - - - 21.7388
+Ac - - 5c 2c - - - 4c Kc - - - 23.7175
+
+2c 3c 5c Ac Kc 
+Kc Ac - 3c 2c - - - 5c - - - - 20.3981
+Ac 2c - 5c 3c - - - Kc - - - - 20.9487
+Ac 3c - 5c 2c - - - Kc - - - - 20.9912
+Ac 5c - 3c 2c - - - Kc - - - - 21.3281
+Ac - - 3c 2c - - - 5c Kc - - - 24.9412
+
+2c 3c 4c Ac Kc 
+Kc Ac - 3c 2c - - - 4c - - - - 20.0594
+Ac 3c - 4c 2c - - - Kc - - - - 21.6175
+Ac 2c - 4c 3c - - - Kc - - - - 22.0169
+Ac 4c - 3c 2c - - - Kc - - - - 22.8725
+Ac - - 2c - - - - 3c 4c Kc - - 24.8213
+
+9c Ac Jc Qc Tc 
+Tc Ac - 9c - - - - Jc Qc - - - 21.1575
+Jc Ac - - - - - - 9c Qc Tc - - 21.485
+Qc Ac - - - - - - 9c Jc Tc - - 22.0469
+Ac 9c - - - - - - Jc Qc Tc - - 22.1588
+Ac - - - - - - - 9c Jc Qc Tc - 29.45
+
+8c Ac Jc Qc Tc 
+Jc Ac - 8c - - - - Qc Tc - - - 21.1775
+Tc Ac - 8c - - - - Jc Qc - - - 21.9206
+Qc Ac - - - - - - 8c Jc Tc - - 22.2537
+Ac 8c - - - - - - Jc Qc Tc - - 23.1725
+Ac - - - - - - - 8c Jc Qc Tc - 27.9775
+
+7c Ac Jc Qc Tc 
+Ac 7c - - - - - - Jc Qc Tc - - 21.1319
+Jc Ac - 7c - - - - Qc Tc - - - 21.315
+Tc Ac - 7c - - - - Jc Qc - - - 22.0494
+Qc Ac - 7c - - - - Jc Tc - - - 22.1825
+Ac - - 7c - - - - Jc Qc Tc - - 26.9694
+
+6c Ac Jc Qc Tc 
+Qc Ac - 6c - - - - Jc Tc - - - 21.365
+Ac 6c - Tc - - - - Jc Qc - - - 21.62
+Jc Ac - 6c - - - - Qc Tc - - - 22.3787
+Tc Ac - 6c - - - - Jc Qc - - - 22.7719
+Ac - - 6c - - - - Jc Qc Tc - - 26.5037
+
+5c Ac Jc Qc Tc 
+Jc Ac - 5c - - - - Qc Tc - - - 21.1863
+Qc Ac - 5c - - - - Jc Tc - - - 21.4263
+Ac 5c - - - - - - Jc Qc Tc - - 21.4494
+Tc Ac - 5c - - - - Jc Qc - - - 22.6906
+Ac - - 5c - - - - Jc Qc Tc - - 26.7019
+
+4c Ac Jc Qc Tc 
+Tc Ac - 4c - - - - Jc Qc - - - 21.7337
+Qc Ac - 4c - - - - Jc Tc - - - 22.4669
+Ac 4c - - - - - - Jc Qc Tc - - 23.1794
+Jc Ac - 4c - - - - Qc Tc - - - 23.6675
+Ac - - 4c - - - - Jc Qc Tc - - 26.9881
+
+3c Ac Jc Qc Tc 
+Tc Ac - 3c - - - - Jc Qc - - - 21.8
+Ac 3c - - - - - - Jc Qc Tc - - 22.37
+Jc Ac - 3c - - - - Qc Tc - - - 22.9675
+Qc Ac - 3c - - - - Jc Tc - - - 23.8444
+Ac - - 3c - - - - Jc Qc Tc - - 26.8931
+
+2c Ac Jc Qc Tc 
+Ac 2c - - - - - - Jc Qc Tc - - 21.4963
+Tc Ac - 2c - - - - Jc Qc - - - 22.4469
+Qc Ac - 2c - - - - Jc Tc - - - 22.9175
+Jc Ac - 2c - - - - Qc Tc - - - 23.3875
+Ac - - 2c - - - - Jc Qc Tc - - 26.6863
+
+8c 9c Ac Jc Qc 
+Ac 9c - 8c - - - - Jc Qc - - - 21.05
+Qc Ac - - - - - - 8c 9c Jc - - 21.5125
+Jc Ac - Qc - - - - 8c 9c - - - 21.9094
+Ac 8c - 9c - - - - Jc Qc - - - 21.975
+Ac - - - - - - - 8c 9c Jc Qc - 27.9031
+
+7c 9c Ac Jc Qc 
+Jc Ac - 7c - - - - 9c Qc - - - 21.485
+Ac 7c - - - - - - 9c Jc Qc - - 22.3531
+Ac 9c - 7c - - - - Jc Qc - - - 22.5963
+Qc Ac - 7c - - - - 9c Jc - - - 22.83
+Ac - - 7c - - - - 9c Jc Qc - - 26.5719
+
+6c 9c Ac Jc Qc 
+Jc Ac - 6c - - - - 9c Qc - - - 20.105
+Ac 6c - 9c - - - - Jc Qc - - - 21.8425
+Qc Ac - 6c - - - - 9c Jc - - - 22.3263
+Ac 9c - 6c - - - - Jc Qc - - - 23.225
+Ac - - 6c - - - - 9c Jc Qc - - 26.2669
+
+5c 9c Ac Jc Qc 
+Jc Ac - 5c - - - - 9c Qc - - - 20.54
+Ac 5c - - - - - - 9c Jc Qc - - 21.4794
+Qc Ac - 5c - - - - 9c Jc - - - 22.6238
+Ac 9c - 5c - - - - Jc Qc - - - 22.8713
+Ac - - 5c - - - - 9c Jc Qc - - 28.8044
+
+4c 9c Ac Jc Qc 
+Ac 9c - 4c - - - - Jc Qc - - - 21.8787
+Ac 4c - - - - - - 9c Jc Qc - - 21.9981
+Jc Ac - 4c - - - - 9c Qc - - - 22.9713
+Qc Ac - 4c - - - - 9c Jc - - - 23.26
+Ac - - 4c - - - - 9c Jc Qc - - 25.8719
+
+3c 9c Ac Jc Qc 
+Jc Ac - 3c - - - - 9c Qc - - - 20.8825
+Qc Ac - 3c - - - - 9c Jc - - - 21.2225
+Ac 9c - 3c - - - - Jc Qc - - - 21.885
+Ac 3c - - - - - - 9c Jc Qc - - 22.7606
+Ac - - 3c - - - - 9c Jc Qc - - 26.0556
+
+2c 9c Ac Jc Qc 
+Jc Ac - 2c - - - - 9c Qc - - - 21.7925
+Ac 2c - - - - - - 9c Jc Qc - - 22.2156
+Ac 9c - 2c - - - - Jc Qc - - - 22.335
+Qc Ac - 2c - - - - 9c Jc - - - 22.7594
+Ac - - 2c - - - - 9c Jc Qc - - 27.0487
+
+7c 8c Ac Jc Qc 
+Jc Ac - 7c - - - - 8c Qc - - - 20.2987
+Ac 8c - 7c - - - - Jc Qc - - - 20.4994
+Qc Ac - - - - - - 7c 8c Jc - - 21.0625
+Ac 7c - 8c - - - - Jc Qc - - - 23.1669
+Ac - - 7c - - - - 8c Jc Qc - - 25.9088
+
+6c 8c Ac Jc Qc 
+Ac 6c - 8c - - - - Jc Qc - - - 20.7469
+Ac 8c - 6c - - - - Jc Qc - - - 21.0006
+Jc Ac - 6c - - - - 8c Qc - - - 21.2188
+Qc Ac - 6c - - - - 8c Jc - - - 21.3175
+Ac - - 6c - - - - 8c Jc Qc - - 26.6831
+
+5c 8c Ac Jc Qc 
+Ac 8c - 5c - - - - Jc Qc - - - 20.7394
+Qc Ac - 5c - - - - 8c Jc - - - 21.1963
+Jc Ac - 5c - - - - 8c Qc - - - 21.5613
+Ac 5c - 8c - - - - Jc Qc - - - 21.5662
+Ac - - 5c - - - - 8c Jc Qc - - 26.7244
+
+4c 8c Ac Jc Qc 
+Ac 4c - 8c - - - - Jc Qc - - - 20.8237
+Jc Ac - 4c - - - - 8c Qc - - - 20.9788
+Qc Ac - 4c - - - - 8c Jc - - - 22.92
+Ac 8c - 4c - - - - Jc Qc - - - 23.0544
+Ac - - 4c - - - - 8c Jc Qc - - 25.6119
+
+3c 8c Ac Jc Qc 
+Qc Ac - 3c - - - - 8c Jc - - - 21.9169
+Jc Ac - 3c - - - - 8c Qc - - - 21.9937
+Ac 3c - 8c - - - - Jc Qc - - - 22.445
+Ac 8c - 3c - - - - Jc Qc - - - 22.6325
+Ac - - 3c - - - - 8c Jc Qc - - 25.9406
+
+2c 8c Ac Jc Qc 
+Jc Ac - 2c - - - - 8c Qc - - - 21.2275
+Qc Ac - 2c - - - - 8c Jc - - - 21.735
+Ac 2c - 8c - - - - Jc Qc - - - 22.2481
+Ac 8c - 2c - - - - Jc Qc - - - 23.6781
+Ac - - 2c - - - - 8c Jc Qc - - 25.7769
+
+6c 7c Ac Jc Qc 
+Jc Ac - Qc - - - - 6c 7c - - - 20.4256
+Qc Ac - 6c - - - - 7c Jc - - - 20.6031
+Ac 7c - 6c - - - - Jc Qc - - - 21.2488
+Ac 6c - 7c - - - - Jc Qc - - - 21.5212
+Ac - - 7c 6c - - - Jc Qc - - - 24.9225
+
+5c 7c Ac Jc Qc 
+Jc Ac - 5c - - - - 7c Qc - - - 19.96
+Qc Ac - 5c - - - - 7c Jc - - - 21.2219
+Ac 5c - 7c - - - - Jc Qc - - - 22.4269
+Ac 7c - 5c - - - - Jc Qc - - - 24.1875
+Ac - - 7c 5c - - - Jc Qc - - - 25.0688
+
+4c 7c Ac Jc Qc 
+Qc Ac - 7c 4c - - - Jc - - - - 20.515
+Jc Ac - 4c - - - - 7c Qc - - - 21.3263
+Ac 4c - 7c - - - - Jc Qc - - - 21.93
+Ac 7c - 4c - - - - Jc Qc - - - 22.0537
+Ac - - 7c 4c - - - Jc Qc - - - 27.2206
+
+3c 7c Ac Jc Qc 
+Jc Ac - Qc 3c - - - 7c - - - - 20.94
+Qc Ac - 3c - - - - 7c Jc - - - 21.3069
+Ac 3c - 7c - - - - Jc Qc - - - 21.635
+Ac 7c - 3c - - - - Jc Qc - - - 22.7756
+Ac - - 7c 3c - - - Jc Qc - - - 25.2206
+
+2c 7c Ac Jc Qc 
+Qc Ac - 2c - - - - 7c Jc - - - 20.6787
+Jc Ac - 7c 2c - - - Qc - - - - 21.4363
+Ac 2c - 7c - - - - Jc Qc - - - 22.5119
+Ac 7c - 2c - - - - Jc Qc - - - 23.5012
+Ac - - 7c 2c - - - Jc Qc - - - 26.5281
+
+5c 6c Ac Jc Qc 
+Jc Ac - 6c 5c - - - Qc - - - - 20.7337
+Qc Ac - 6c 5c - - - Jc - - - - 20.7375
+Ac 5c - 6c - - - - Jc Qc - - - 22.1331
+Ac 6c - 5c - - - - Jc Qc - - - 22.6506
+Ac - - 6c 5c - - - Jc Qc - - - 27.1863
+
+4c 6c Ac Jc Qc 
+Qc Ac - 6c 4c - - - Jc - - - - 20.98
+Jc Ac - 6c 4c - - - Qc - - - - 21.4475
+Ac 4c - 6c - - - - Jc Qc - - - 21.7544
+Ac 6c - 4c - - - - Jc Qc - - - 23.3456
+Ac - - 6c 4c - - - Jc Qc - - - 26.335
+
+3c 6c Ac Jc Qc 
+Ac 3c - 6c - - - - Jc Qc - - - 21.1575
+Jc Ac - 6c 3c - - - Qc - - - - 21.2437
+Qc Ac - 6c 3c - - - Jc - - - - 22.1712
+Ac 6c - 3c - - - - Jc Qc - - - 23.1181
+Ac - - 3c - - - - 6c Jc Qc - - 25.6581
+
+2c 6c Ac Jc Qc 
+Jc Ac - 6c 2c - - - Qc - - - - 20.4188
+Ac 2c - 6c - - - - Jc Qc - - - 21.5888
+Qc Ac - 6c 2c - - - Jc - - - - 22.7881
+Ac 6c - 2c - - - - Jc Qc - - - 23.6975
+Ac - - 2c - - - - 6c Jc Qc - - 24.9556
+
+4c 5c Ac Jc Qc 
+Jc Ac - 5c 4c - - - Qc - - - - 20.9788
+Qc Ac - 5c 4c - - - Jc - - - - 21.9925
+Ac 5c - 4c - - - - Jc Qc - - - 22.215
+Ac 4c - 5c - - - - Jc Qc - - - 22.4662
+Ac - - 5c 4c - - - Jc Qc - - - 27.1769
+
+3c 5c Ac Jc Qc 
+Jc Ac - 5c 3c - - - Qc - - - - 20.8312
+Qc Ac - 5c 3c - - - Jc - - - - 21.5656
+Ac 3c - 5c - - - - Jc Qc - - - 22.0281
+Ac 5c - 3c - - - - Jc Qc - - - 23.4975
+Ac - - 5c 3c - - - Jc Qc - - - 26.4525
+
+2c 5c Ac Jc Qc 
+Jc Ac - 2c - - - - 5c Qc - - - 20.2013
+Qc Ac - 5c 2c - - - Jc - - - - 21.9825
+Ac 2c - 5c - - - - Jc Qc - - - 22.68
+Ac 5c - 2c - - - - Jc Qc - - - 23.8494
+Ac - - 5c 2c - - - Jc Qc - - - 25.8544
+
+3c 4c Ac Jc Qc 
+Jc Ac - 4c 3c - - - Qc - - - - 21.455
+Ac 3c - 4c - - - - Jc Qc - - - 21.5681
+Qc Ac - 4c 3c - - - Jc - - - - 21.8
+Ac 4c - 3c - - - - Jc Qc - - - 22.3838
+Ac - - 4c 3c - - - Jc Qc - - - 26.0231
+
+2c 4c Ac Jc Qc 
+Jc Ac - 2c - - - - 4c Qc - - - 21.2475
+Ac 2c - 4c - - - - Jc Qc - - - 22.225
+Qc Ac - 4c 2c - - - Jc - - - - 22.4131
+Ac 4c - 2c - - - - Jc Qc - - - 23.1925
+Ac - - 4c 2c - - - Jc Qc - - - 25.1125
+
+2c 3c Ac Jc Qc 
+Jc Ac - 3c 2c - - - Qc - - - - 20.2575
+Ac 3c - 2c - - - - Jc Qc - - - 21.6763
+Qc Ac - 3c 2c - - - Jc - - - - 22.46
+Ac 2c - 3c - - - - Jc Qc - - - 22.9756
+Ac - - 3c 2c - - - Jc Qc - - - 25.115
+
+8c 9c Ac Qc Tc 
+Tc Ac - 8c - - - - 9c Qc - - - 20.6562
+Ac 9c - - - - - - 8c Qc Tc - - 21.71
+Ac 8c - - - - - - 9c Qc Tc - - 22.1744
+Qc Ac - - - - - - 8c 9c Tc - - 23.9606
+Ac - - - - - - - 8c 9c Qc Tc - 27.0994
+
+7c 9c Ac Qc Tc 
+Ac 9c - 7c - - - - Qc Tc - - - 21.36
+Tc Ac - 7c - - - - 9c Qc - - - 22.1006
+Ac 7c - - - - - - 9c Qc Tc - - 22.92
+Qc Ac - 7c - - - - 9c Tc - - - 23.4019
+Ac - - 7c - - - - 9c Qc Tc - - 26.5537
+
+6c 9c Ac Qc Tc 
+Tc Ac - 6c - - - - 9c Qc - - - 21.0244
+Qc Ac - 6c - - - - 9c Tc - - - 21.2444
+Ac 6c - - - - - - 9c Qc Tc - - 21.8913
+Ac 9c - 6c - - - - Qc Tc - - - 22.5275
+Ac - - 6c - - - - 9c Qc Tc - - 26.5331
+
+5c 9c Ac Qc Tc 
+Tc Ac - 5c - - - - 9c Qc - - - 20.6025
+Ac 9c - 5c - - - - Qc Tc - - - 20.82
+Ac 5c - 9c - - - - Qc Tc - - - 22.1175
+Qc Ac - 5c - - - - 9c Tc - - - 22.7412
+Ac - - 5c - - - - 9c Qc Tc - - 27.4556
+
+4c 9c Ac Qc Tc 
+Tc Ac - 4c - - - - 9c Qc - - - 21.08
+Ac 9c - 4c - - - - Qc Tc - - - 21.8975
+Qc Ac - 4c - - - - 9c Tc - - - 22.1131
+Ac 4c - - - - - - 9c Qc Tc - - 22.285
+Ac - - 4c - - - - 9c Qc Tc - - 27.0456
+
+3c 9c Ac Qc Tc 
+Ac 3c - - - - - - 9c Qc Tc - - 20.3312
+Ac 9c - 3c - - - - Qc Tc - - - 21.4275
+Qc Ac - 3c - - - - 9c Tc - - - 22.2938
+Tc Ac - 3c - - - - 9c Qc - - - 23.5344
+Ac - - 3c - - - - 9c Qc Tc - - 26.3487
+
+2c 9c Ac Qc Tc 
+Tc Ac - 2c - - - - 9c Qc - - - 22.2456
+Ac 2c - - - - - - 9c Qc Tc - - 22.2556
+Ac 9c - 2c - - - - Qc Tc - - - 22.8337
+Qc Ac - 2c - - - - 9c Tc - - - 23.0413
+Ac - - 2c - - - - 9c Qc Tc - - 25.4656
+
+7c 8c Ac Qc Tc 
+Tc Ac - 7c - - - - 8c Qc - - - 21.2569
+Ac 7c - 8c - - - - Qc Tc - - - 21.4862
+Ac 8c - 7c - - - - Qc Tc - - - 21.7138
+Qc Ac - - - - - - 7c 8c Tc - - 22.5212
+Ac - - Qc - - - - 7c 8c Tc - - 26.2081
+
+6c 8c Ac Qc Tc 
+Tc Ac - 6c - - - - 8c Qc - - - 20.9819
+Qc Ac - - - - - - 6c 8c Tc - - 20.9888
+Ac 6c - 8c - - - - Qc Tc - - - 21.31
+Ac 8c - 6c - - - - Qc Tc - - - 22.1544
+Ac - - 6c - - - - 8c Qc Tc - - 26.6206
+
+5c 8c Ac Qc Tc 
+Tc Ac - 5c - - - - 8c Qc - - - 19.9631
+Ac 8c - 5c - - - - Qc Tc - - - 21.3869
+Ac 5c - 8c - - - - Qc Tc - - - 21.3956
+Qc Ac - 5c - - - - 8c Tc - - - 21.6806
+Ac - - 5c - - - - 8c Qc Tc - - 26.075
+
+4c 8c Ac Qc Tc 
+Tc Ac - 4c - - - - 8c Qc - - - 21.3475
+Qc Ac - 4c - - - - 8c Tc - - - 21.6356
+Ac 4c - - - - - - 8c Qc Tc - - 22.2619
+Ac 8c - 4c - - - - Qc Tc - - - 24.8244
+Ac - - 4c - - - - 8c Qc Tc - - 26.4062
+
+3c 8c Ac Qc Tc 
+Ac 3c - 8c - - - - Qc Tc - - - 21.1881
+Qc Ac - 3c - - - - 8c Tc - - - 22.1394
+Tc Ac - 3c - - - - 8c Qc - - - 22.66
+Ac 8c - 3c - - - - Qc Tc - - - 22.9294
+Ac - - 3c - - - - 8c Qc Tc - - 25.9519
+
+2c 8c Ac Qc Tc 
+Ac 2c - - - - - - 8c Qc Tc - - 20.5969
+Tc Ac - 2c - - - - 8c Qc - - - 21.0131
+Ac 8c - 2c - - - - Qc Tc - - - 21.3575
+Qc Ac - 2c - - - - 8c Tc - - - 22.2556
+Ac - - 2c - - - - 8c Qc Tc - - 27.1244
+
+6c 7c Ac Qc Tc 
+Tc Ac - Qc - - - - 6c 7c - - - 19.4344
+Ac 6c - 7c - - - - Qc Tc - - - 20.1231
+Qc Ac - 6c - - - - 7c Tc - - - 20.42
+Ac 7c - 6c - - - - Qc Tc - - - 21.8475
+Ac - - 7c 6c - - - Qc Tc - - - 24.7437
+
+5c 7c Ac Qc Tc 
+Tc Ac - 7c 5c - - - Qc - - - - 20.1625
+Qc Ac - 5c - - - - 7c Tc - - - 20.2388
+Ac 7c - 5c - - - - Qc Tc - - - 22.1956
+Ac 5c - 7c - - - - Qc Tc - - - 22.8056
+Ac - - 7c 5c - - - Qc Tc - - - 24.5825
+
+4c 7c Ac Qc Tc 
+Qc Ac - 4c - - - - 7c Tc - - - 20.6406
+Tc Ac - 7c 4c - - - Qc - - - - 20.7119
+Ac 4c - 7c - - - - Qc Tc - - - 22.22
+Ac 7c - 4c - - - - Qc Tc - - - 24.2075
+Ac - - 7c 4c - - - Qc Tc - - - 26.3125
+
+3c 7c Ac Qc Tc 
+Tc Ac - 3c - - - - 7c Qc - - - 20.5837
+Qc Ac - 3c - - - - 7c Tc - - - 21.7425
+Ac 3c - 7c - - - - Qc Tc - - - 21.7975
+Ac 7c - 3c - - - - Qc Tc - - - 22.4019
+Ac - - 7c 3c - - - Qc Tc - - - 25.7388
+
+2c 7c Ac Qc Tc 
+Tc Ac - 7c 2c - - - Qc - - - - 21.9069
+Ac 2c - 7c - - - - Qc Tc - - - 22.0925
+Ac 7c - 2c - - - - Qc Tc - - - 22.2756
+Qc Ac - 2c - - - - 7c Tc - - - 22.7956
+Ac - - 2c - - - - 7c Qc Tc - - 25.7488
+
+5c 6c Ac Qc Tc 
+Qc Ac - Tc - - - - 5c 6c - - - 21.0081
+Tc Ac - Qc - - - - 5c 6c - - - 21.0413
+Ac 5c - 6c - - - - Qc Tc - - - 21.1331
+Ac 6c - 5c - - - - Qc Tc - - - 21.94
+Ac - - Tc Qc - - - 5c 6c - - - 25.2362
+
+4c 6c Ac Qc Tc 
+Qc Ac - 4c - - - - 6c Tc - - - 20.4356
+Tc Ac - 6c 4c - - - Qc - - - - 21.21
+Ac 6c - 4c - - - - Qc Tc - - - 21.3956
+Ac 4c - 6c - - - - Qc Tc - - - 21.7313
+Ac - - 6c 4c - - - Qc Tc - - - 27.18
+
+3c 6c Ac Qc Tc 
+Qc Ac - 6c 3c - - - Tc - - - - 20.2069
+Ac 3c - 6c - - - - Qc Tc - - - 20.2113
+Tc Ac - 3c - - - - 6c Qc - - - 20.5863
+Ac 6c - 3c - - - - Qc Tc - - - 22.6437
+Ac - - 6c 3c - - - Qc Tc - - - 25.075
+
+2c 6c Ac Qc Tc 
+Tc Ac - 6c 2c - - - Qc - - - - 20.9806
+Ac 2c - 6c - - - - Qc Tc - - - 21.7412
+Qc Ac - 6c 2c - - - Tc - - - - 21.9062
+Ac 6c - 2c - - - - Qc Tc - - - 22.5056
+Ac - - 6c 2c - - - Qc Tc - - - 24.5994
+
+4c 5c Ac Qc Tc 
+Tc Ac - 4c - - - - 5c Qc - - - 20.6513
+Qc Ac - 5c 4c - - - Tc - - - - 21.0487
+Ac 5c - 4c - - - - Qc Tc - - - 22.975
+Ac 4c - 5c - - - - Qc Tc - - - 23.5044
+Ac - - 5c 4c - - - Qc Tc - - - 25.5094
+
+3c 5c Ac Qc Tc 
+Ac 3c - 5c - - - - Qc Tc - - - 20.9219
+Qc Ac - 5c 3c - - - Tc - - - - 20.9875
+Tc Ac - 5c 3c - - - Qc - - - - 21.3831
+Ac 5c - 3c - - - - Qc Tc - - - 22.8819
+Ac - - 5c 3c - - - Qc Tc - - - 26.2075
+
+2c 5c Ac Qc Tc 
+Tc Ac - 5c 2c - - - Qc - - - - 20.6744
+Ac 5c - 2c - - - - Qc Tc - - - 22.3363
+Qc Ac - 5c 2c - - - Tc - - - - 23.0613
+Ac 2c - 5c - - - - Qc Tc - - - 23.3137
+Ac - - 5c 2c - - - Qc Tc - - - 25.5912
+
+3c 4c Ac Qc Tc 
+Tc Ac - 4c 3c - - - Qc - - - - 20.7769
+Qc Ac - 4c 3c - - - Tc - - - - 22.7025
+Ac 3c - 4c - - - - Qc Tc - - - 22.9338
+Ac 4c - 3c - - - - Qc Tc - - - 23.7744
+Ac - - 4c 3c - - - Qc Tc - - - 25.2956
+
+2c 4c Ac Qc Tc 
+Tc Ac - 4c 2c - - - Qc - - - - 21.9137
+Qc Ac - 4c 2c - - - Tc - - - - 22.0644
+Ac 4c - 2c - - - - Qc Tc - - - 22.2169
+Ac 2c - 4c - - - - Qc Tc - - - 22.285
+Ac - - 4c 2c - - - Qc Tc - - - 26.72
+
+2c 3c Ac Qc Tc 
+Tc Ac - 3c 2c - - - Qc - - - - 21.6344
+Qc Ac - 3c 2c - - - Tc - - - - 21.95
+Ac 3c - 2c - - - - Qc Tc - - - 21.9587
+Ac 2c - 3c - - - - Qc Tc - - - 22.2775
+Ac - - 3c 2c - - - Qc Tc - - - 27.7388
+
+7c 8c 9c Ac Qc 
+Ac 9c - 7c - - - - 8c Qc - - - 20.8888
+Ac 7c - - - - - - 8c 9c Qc - - 21.23
+Ac 8c - 7c - - - - 9c Qc - - - 21.3213
+Qc Ac - - - - - - 7c 8c 9c - - 22.0312
+Ac - - 8c 7c - - - 9c Qc - - - 26.5063
+
+6c 8c 9c Ac Qc 
+Ac 9c - 6c - - - - 8c Qc - - - 20.2925
+Ac 6c - 8c - - - - 9c Qc - - - 21.2412
+Qc Ac - 6c - - - - 8c 9c - - - 21.9175
+Ac 8c - 6c - - - - 9c Qc - - - 22.35
+Ac - - 6c - - - - 8c 9c Qc - - 27.1763
+
+5c 8c 9c Ac Qc 
+Ac 8c - 5c - - - - 9c Qc - - - 21.1388
+Qc Ac - 5c - - - - 8c 9c - - - 21.1444
+Ac 9c - 5c - - - - 8c Qc - - - 21.2013
+Ac 5c - 8c - - - - 9c Qc - - - 21.5294
+Ac - - 5c - - - - 8c 9c Qc - - 26.8862
+
+4c 8c 9c Ac Qc 
+Ac 9c - 4c - - - - 8c Qc - - - 20.3787
+Ac 4c - 8c - - - - 9c Qc - - - 21.7819
+Ac 8c - 4c - - - - 9c Qc - - - 21.9644
+Qc Ac - 4c - - - - 8c 9c - - - 22.4375
+Ac - - 4c - - - - 8c 9c Qc - - 27.0444
+
+3c 8c 9c Ac Qc 
+Ac 3c - 8c - - - - 9c Qc - - - 20.5744
+Ac 9c - 3c - - - - 8c Qc - - - 21.5112
+Ac 8c - 3c - - - - 9c Qc - - - 21.5269
+Qc Ac - 3c - - - - 8c 9c - - - 22.3237
+Ac - - 3c - - - - 8c 9c Qc - - 27.7375
+
+2c 8c 9c Ac Qc 
+Ac 2c - 8c - - - - 9c Qc - - - 21.625
+Ac 8c - 2c - - - - 9c Qc - - - 21.9194
+Ac 9c - 2c - - - - 8c Qc - - - 23.2425
+Qc Ac - 2c - - - - 8c 9c - - - 24.5931
+Ac - - 2c - - - - 8c 9c Qc - - 25.7525
+
+6c 7c 9c Ac Qc 
+Ac 6c - 7c - - - - 9c Qc - - - 20.4312
+Ac 7c - 6c - - - - 9c Qc - - - 20.9331
+Qc Ac - - - - - - 6c 7c 9c - - 21.06
+Ac 9c - 7c 6c - - - Qc - - - - 21.3875
+Ac - - Qc - - - - 6c 7c 9c - - 25.5519
+
+5c 7c 9c Ac Qc 
+Ac 9c - 7c 5c - - - Qc - - - - 19.3862
+Ac 5c - 7c - - - - 9c Qc - - - 21.245
+Qc Ac - 5c - - - - 7c 9c - - - 21.5806
+Ac 7c - 5c - - - - 9c Qc - - - 21.8487
+Ac - - 7c 5c - - - 9c Qc - - - 25.1119
+
+4c 7c 9c Ac Qc 
+Ac 9c - 4c - - - - 7c Qc - - - 21.5
+Qc Ac - 4c - - - - 7c 9c - - - 21.5681
+Ac 7c - 4c - - - - 9c Qc - - - 21.8962
+Ac 4c - 7c - - - - 9c Qc - - - 22.0081
+Ac - - 7c 4c - - - 9c Qc - - - 24.9506
+
+3c 7c 9c Ac Qc 
+Ac 3c - Qc - - - - 7c 9c - - - 20.0063
+Ac 9c - 7c 3c - - - Qc - - - - 21.07
+Ac 7c - 3c - - - - 9c Qc - - - 21.6544
+Qc Ac - 3c - - - - 7c 9c - - - 22.3019
+Ac - - 3c - - - - 7c 9c Qc - - 24.2225
+
+2c 7c 9c Ac Qc 
+Ac 7c - Qc 2c - - - 9c - - - - 20.5387
+Ac 9c - 7c 2c - - - Qc - - - - 20.6938
+Ac 2c - 7c - - - - 9c Qc - - - 20.8113
+Qc Ac - 2c - - - - 7c 9c - - - 22.5731
+Ac - - Qc 2c - - - 7c 9c - - - 24.7337
+
+5c 6c 9c Ac Qc 
+Qc Ac - 6c 5c - - - 9c - - - - 20.4725
+Ac 9c - 5c - - - - 6c Qc - - - 21.0413
+Ac 5c - 6c - - - - 9c Qc - - - 21.9244
+Ac 6c - 5c - - - - 9c Qc - - - 21.965
+Ac - - 6c 5c - - - 9c Qc - - - 24.9062
+
+4c 6c 9c Ac Qc 
+Qc Ac - 4c - - - - 6c 9c - - - 20.2512
+Ac 9c - 6c 4c - - - Qc - - - - 20.5187
+Ac 4c - 6c - - - - 9c Qc - - - 22.0181
+Ac 6c - 4c - - - - 9c Qc - - - 23.1162
+Ac - - 6c 4c - - - 9c Qc - - - 25.2925
+
+3c 6c 9c Ac Qc 
+Ac 3c - 6c - - - - 9c Qc - - - 21.2288
+Ac 6c - 3c - - - - 9c Qc - - - 21.62
+Ac 9c - 6c 3c - - - Qc - - - - 21.8625
+Qc Ac - 6c 3c - - - 9c - - - - 22.06
+Ac - - 6c 3c - - - 9c Qc - - - 25.7506
+
+2c 6c 9c Ac Qc 
+Ac 2c - 6c - - - - 9c Qc - - - 21.7975
+Ac 6c - 2c - - - - 9c Qc - - - 21.8888
+Qc Ac - 6c 2c - - - 9c - - - - 22.1619
+Ac 9c - 6c 2c - - - Qc - - - - 22.3263
+Ac - - 6c 2c - - - 9c Qc - - - 24.6119
+
+4c 5c 9c Ac Qc 
+Ac 5c - 4c - - - - 9c Qc - - - 20.3494
+Ac 9c - 5c 4c - - - Qc - - - - 21.3288
+Qc Ac - 5c 4c - - - 9c - - - - 21.3906
+Ac 4c - 5c - - - - 9c Qc - - - 21.7744
+Ac - - 5c 4c - - - 9c Qc - - - 25.5275
+
+3c 5c 9c Ac Qc 
+Qc Ac - 3c - - - - 5c 9c - - - 20.7256
+Ac 3c - 5c - - - - 9c Qc - - - 21.9731
+Ac 5c - 3c - - - - 9c Qc - - - 22.0275
+Ac 9c - 5c 3c - - - Qc - - - - 22.19
+Ac - - 5c 3c - - - 9c Qc - - - 25.7087
+
+2c 5c 9c Ac Qc 
+Qc Ac - 5c 2c - - - 9c - - - - 21.3088
+Ac 5c - 2c - - - - 9c Qc - - - 21.36
+Ac 2c - 5c - - - - 9c Qc - - - 22.5519
+Ac 9c - 5c 2c - - - Qc - - - - 23.1663
+Ac - - 5c 2c - - - 9c Qc - - - 25.8263
+
+3c 4c 9c Ac Qc 
+Qc Ac - 4c 3c - - - 9c - - - - 21.7025
+Ac 4c - 3c - - - - 9c Qc - - - 22.1225
+Ac 9c - 4c 3c - - - Qc - - - - 22.2675
+Ac 3c - 4c - - - - 9c Qc - - - 22.3775
+Ac - - 4c 3c - - - 9c Qc - - - 24.6194
+
+2c 4c 9c Ac Qc 
+Qc Ac - 4c 2c - - - 9c - - - - 21.1688
+Ac 9c - 4c 2c - - - Qc - - - - 21.21
+Ac 4c - 2c - - - - 9c Qc - - - 21.6181
+Ac 2c - 4c - - - - 9c Qc - - - 21.6819
+Ac - - 4c 2c - - - 9c Qc - - - 25.7512
+
+2c 3c 9c Ac Qc 
+Ac 3c - 2c - - - - 9c Qc - - - 21.195
+Ac 9c - 3c 2c - - - Qc - - - - 22.0888
+Ac 2c - 3c - - - - 9c Qc - - - 22.2025
+Qc Ac - 3c 2c - - - 9c - - - - 23.4394
+Ac - - 9c 3c 2c - - Qc - - - - 24.7162
+
+6c 7c 8c Ac Qc 
+Ac 8c - 7c 6c - - - Qc - - - - 19.9506
+Ac 6c - 7c - - - - 8c Qc - - - 20.2038
+Ac 7c - 6c - - - - 8c Qc - - - 21.8506
+Qc Ac - - - - - - 6c 7c 8c - - 22.375
+Ac - - Qc - - - - 6c 7c 8c - - 27.0063
+
+5c 7c 8c Ac Qc 
+Ac 7c - 5c - - - - 8c Qc - - - 19.9762
+Ac 8c - 7c 5c - - - Qc - - - - 20.3494
+Ac 5c - 7c - - - - 8c Qc - - - 20.3988
+Qc Ac - 5c - - - - 7c 8c - - - 21.7044
+Ac - - Qc - - - - 5c 7c 8c - - 25.6381
+
+4c 7c 8c Ac Qc 
+Ac 4c - 7c - - - - 8c Qc - - - 20.1831
+Ac 7c - 4c - - - - 8c Qc - - - 20.2162
+Qc Ac - 4c - - - - 7c 8c - - - 20.8013
+Ac 8c - 4c - - - - 7c Qc - - - 21.255
+Ac - - 7c 4c - - - 8c Qc - - - 25.0531
+
+3c 7c 8c Ac Qc 
+Ac 3c - 7c - - - - 8c Qc - - - 20.0138
+Ac 8c - 7c 3c - - - Qc - - - - 20.9412
+Ac 7c - 3c - - - - 8c Qc - - - 21.4956
+Qc Ac - 3c - - - - 7c 8c - - - 23.0419
+Ac - - Qc 3c - - - 7c 8c - - - 26.3744
+
+2c 7c 8c Ac Qc 
+Ac 2c - 8c - - - - 7c Qc - - - 19.5788
+Ac 7c - 2c - - - - 8c Qc - - - 21.1825
+Ac 8c - 7c 2c - - - Qc - - - - 21.295
+Qc Ac - 2c - - - - 7c 8c - - - 22.285
+Ac - - Qc 2c - - - 7c 8c - - - 25.2838
+
+5c 6c 8c Ac Qc 
+Ac 5c - 6c - - - - 8c Qc - - - 19.7406
+Ac 8c - Qc - - - - 5c 6c - - - 20.3669
+Ac 6c - 5c - - - - 8c Qc - - - 20.5581
+Qc Ac - - - - - - 5c 6c 8c - - 21.0063
+Ac - - Qc - - - - 5c 6c 8c - - 24.9531
+
+4c 6c 8c Ac Qc 
+Ac 8c - 6c 4c - - - Qc - - - - 20.2175
+Ac 4c - 6c - - - - 8c Qc - - - 20.9888
+Ac 6c - 4c - - - - 8c Qc - - - 21.2887
+Qc Ac - 4c - - - - 6c 8c - - - 21.635
+Ac - - 6c 4c - - - 8c Qc - - - 25.0513
+
+3c 6c 8c Ac Qc 
+Ac 3c - 6c - - - - 8c Qc - - - 21.0456
+Qc Ac - 3c - - - - 6c 8c - - - 21.3494
+Ac 8c - 6c 3c - - - Qc - - - - 21.425
+Ac 6c - 3c - - - - 8c Qc - - - 21.4744
+Ac - - 6c 3c - - - 8c Qc - - - 24.8363
+
+2c 6c 8c Ac Qc 
+Qc Ac - 2c - - - - 6c 8c - - - 20.7887
+Ac 8c - 6c 2c - - - Qc - - - - 20.9544
+Ac 2c - 6c - - - - 8c Qc - - - 21.0487
+Ac 6c - 2c - - - - 8c Qc - - - 22.4444
+Ac - - 6c 2c - - - 8c Qc - - - 24.7725
+
+4c 5c 8c Ac Qc 
+Ac 5c - 8c 4c - - - Qc - - - - 19.7325
+Qc Ac - 4c - - - - 5c 8c - - - 20.5875
+Ac 8c - 5c 4c - - - Qc - - - - 21.2219
+Ac 4c - 5c - - - - 8c Qc - - - 21.8369
+Ac - - 5c 4c - - - 8c Qc - - - 25.9875
+
+3c 5c 8c Ac Qc 
+Ac 3c - 5c - - - - 8c Qc - - - 21.1669
+Ac 8c - 5c 3c - - - Qc - - - - 21.2806
+Ac 5c - 3c - - - - 8c Qc - - - 21.2844
+Qc Ac - 5c 3c - - - 8c - - - - 21.6625
+Ac - - Qc 3c - - - 5c 8c - - - 25.125
+
+2c 5c 8c Ac Qc 
+Ac 5c - 8c 2c - - - Qc - - - - 20.4619
+Ac 8c - 5c 2c - - - Qc - - - - 21.0069
+Qc Ac - 2c - - - - 5c 8c - - - 21.9731
+Ac 2c - 5c - - - - 8c Qc - - - 22.0219
+Ac - - 5c 2c - - - 8c Qc - - - 24.8569
+
+3c 4c 8c Ac Qc 
+Ac 8c - 4c 3c - - - Qc - - - - 20.9006
+Ac 4c - 8c 3c - - - Qc - - - - 21.4912
+Ac 3c - 4c - - - - 8c Qc - - - 21.5725
+Qc Ac - 4c 3c - - - 8c - - - - 22.0088
+Ac - - 4c 3c - - - 8c Qc - - - 24.1525
+
+2c 4c 8c Ac Qc 
+Ac 2c - 8c 4c - - - Qc - - - - 20.33
+Ac 8c - 4c 2c - - - Qc - - - - 21.5825
+Ac 4c - 8c 2c - - - Qc - - - - 22.06
+Qc Ac - 4c 2c - - - 8c - - - - 22.3825
+Ac - - 2c - - - - 4c 8c Qc - - 25.7025
+
+2c 3c 8c Ac Qc 
+Ac 2c - 3c - - - - 8c Qc - - - 20.8744
+Qc Ac - 3c 2c - - - 8c - - - - 20.9044
+Ac 3c - 2c - - - - 8c Qc - - - 21.2087
+Ac 8c - 3c 2c - - - Qc - - - - 22.1794
+Ac - - 3c 2c - - - 8c Qc - - - 24.9206
+
+5c 6c 7c Ac Qc 
+Ac 5c - 6c - - - - 7c Qc - - - 19.6588
+Ac 7c - Qc - - - - 5c 6c - - - 20.5362
+Ac 6c - 7c 5c - - - Qc - - - - 20.7769
+Qc Ac - - - - - - 5c 6c 7c - - 21.1938
+Ac - - Qc - - - - 5c 6c 7c - - 25.5419
+
+4c 6c 7c Ac Qc 
+Ac 4c - Qc - - - - 6c 7c - - - 19.5238
+Qc Ac - - - - - - 4c 6c 7c - - 20.0637
+Ac 6c - 7c 4c - - - Qc - - - - 21.0731
+Ac 7c - 6c 4c - - - Qc - - - - 21.2113
+Ac - - Qc - - - - 4c 6c 7c - - 24.9625
+
+3c 6c 7c Ac Qc 
+Ac 6c - 7c 3c - - - Qc - - - - 20.1781
+Ac 3c - 7c 6c - - - Qc - - - - 20.7419
+Ac 7c - 6c 3c - - - Qc - - - - 21.0231
+Qc Ac - 3c - - - - 6c 7c - - - 22.0169
+Ac - - Qc 3c - - - 6c 7c - - - 24.88
+
+2c 6c 7c Ac Qc 
+Ac 7c - 6c 2c - - - Qc - - - - 21.2
+Ac 2c - 6c - - - - 7c Qc - - - 21.2337
+Ac 6c - 7c 2c - - - Qc - - - - 22.1856
+Qc Ac - 6c 2c - - - 7c - - - - 22.3756
+Ac - - Qc 2c - - - 6c 7c - - - 25.7769
+
+4c 5c 7c Ac Qc 
+Ac 4c - 7c 5c - - - Qc - - - - 20.0406
+Qc Ac - 4c - - - - 5c 7c - - - 20.2081
+Ac 5c - 7c 4c - - - Qc - - - - 21.1069
+Ac 7c - 5c 4c - - - Qc - - - - 22.305
+Ac - - 5c - - - - 4c 7c Qc - - 24.8888
+
+3c 5c 7c Ac Qc 
+Ac 5c - 7c 3c - - - Qc - - - - 20.01
+Ac 7c - 5c 3c - - - Qc - - - - 20.1269
+Ac 3c - 7c 5c - - - Qc - - - - 20.7337
+Qc Ac - 5c 3c - - - 7c - - - - 21.2544
+Ac - - 5c 3c - - - 7c Qc - - - 24.5931
+
+2c 5c 7c Ac Qc 
+Ac 2c - 7c 5c - - - Qc - - - - 19.345
+Ac 5c - 2c - - - - 7c Qc - - - 20.695
+Qc Ac - 2c - - - - 5c 7c - - - 22.0044
+Ac 7c - 5c 2c - - - Qc - - - - 22.3888
+Ac - - Qc 2c - - - 5c 7c - - - 24.6369
+
+3c 4c 7c Ac Qc 
+Ac 3c - 7c 4c - - - Qc - - - - 19.93
+Qc Ac - 4c 3c - - - 7c - - - - 21.0894
+Ac 4c - 7c 3c - - - Qc - - - - 21.1844
+Ac 7c - 4c 3c - - - Qc - - - - 22.3725
+Ac - - 7c 4c 3c - - Qc - - - - 24.4031
+
+2c 4c 7c Ac Qc 
+Ac 2c - 4c - - - - 7c Qc - - - 20.2
+Ac 7c - 4c 2c - - - Qc - - - - 20.4425
+Qc Ac - 4c 2c - - - 7c - - - - 20.8394
+Ac 4c - 2c - - - - 7c Qc - - - 22.1912
+Ac - - 4c 2c - - - 7c Qc - - - 25.2006
+
+2c 3c 7c Ac Qc 
+Ac 3c - 2c - - - - 7c Qc - - - 21.05
+Ac 2c - 3c - - - - 7c Qc - - - 21.1775
+Ac 7c - 3c 2c - - - Qc - - - - 21.2838
+Qc Ac - 3c 2c - - - 7c - - - - 21.6887
+Ac - - 3c - - - - 2c 7c Qc - - 24.45
+
+4c 5c 6c Ac Qc 
+Ac 5c - 6c 4c - - - Qc - - - - 20.2069
+Ac 4c - 6c 5c - - - Qc - - - - 20.2906
+Ac 6c - 5c 4c - - - Qc - - - - 21.76
+Qc Ac - - - - - - 4c 5c 6c - - 22.9275
+Ac - - Qc - - - - 4c 5c 6c - - 26.0819
+
+3c 5c 6c Ac Qc 
+Ac 3c - 6c 5c - - - Qc - - - - 19.9256
+Ac 5c - 6c 3c - - - Qc - - - - 20.5863
+Qc Ac - 3c - - - - 5c 6c - - - 20.8631
+Ac 6c - 5c 3c - - - Qc - - - - 21.2862
+Ac - - Qc - - - - 3c 5c 6c - - 24.3844
+
+2c 5c 6c Ac Qc 
+Ac 5c - 2c - - - - 6c Qc - - - 20.3762
+Qc Ac - 5c 2c - - - 6c - - - - 20.9525
+Ac 6c - 5c 2c - - - Qc - - - - 21.4925
+Ac 2c - 6c 5c - - - Qc - - - - 21.9788
+Ac - - Qc 2c - - - 5c 6c - - - 24.4862
+
+3c 4c 6c Ac Qc 
+Qc Ac - 4c 3c - - - 6c - - - - 21.6175
+Ac 6c - 4c 3c - - - Qc - - - - 21.7956
+Ac 3c - 6c 4c - - - Qc - - - - 22.1594
+Ac 4c - 6c 3c - - - Qc - - - - 22.2512
+Ac - - 4c 3c - - - 6c Qc - - - 25.325
+
+2c 4c 6c Ac Qc 
+Ac 2c - 4c - - - - 6c Qc - - - 20.4088
+Qc Ac - 4c 2c - - - 6c - - - - 20.6087
+Ac 4c - 6c 2c - - - Qc - - - - 21.09
+Ac 6c - 4c 2c - - - Qc - - - - 21.1969
+Ac - - Qc 2c - - - 4c 6c - - - 24.6737
+
+2c 3c 6c Ac Qc 
+Ac 2c - 3c - - - - 6c Qc - - - 19.92
+Ac 3c - 6c 2c - - - Qc - - - - 20.6156
+Qc Ac - 3c 2c - - - 6c - - - - 20.6475
+Ac 6c - 3c 2c - - - Qc - - - - 23.1975
+Ac - - 6c 3c 2c - - Qc - - - - 24.63
+
+3c 4c 5c Ac Qc 
+Ac 4c - 3c - - - - 5c Qc - - - 20.7188
+Qc Ac - 3c - - - - 4c 5c - - - 20.8894
+Ac 3c - 5c 4c - - - Qc - - - - 20.9806
+Ac 5c - 4c 3c - - - Qc - - - - 21.6262
+Ac - - Qc - - - - 3c 4c 5c - - 25.4869
+
+2c 4c 5c Ac Qc 
+Qc Ac - 5c 4c 2c - - - - - - - 19.9206
+Ac 2c - 5c 4c - - - Qc - - - - 20.6831
+Ac 4c - 5c 2c - - - Qc - - - - 21.1556
+Ac 5c - 4c 2c - - - Qc - - - - 21.72
+Ac - - Qc 2c - - - 4c 5c - - - 24.8794
+
+2c 3c 5c Ac Qc 
+Qc Ac - 3c 2c - - - 5c - - - - 20.6594
+Ac 3c - 5c 2c - - - Qc - - - - 21.0338
+Ac 2c - 5c 3c - - - Qc - - - - 21.5969
+Ac 5c - 3c 2c - - - Qc - - - - 22.7525
+Ac - - 3c 2c - - - 5c Qc - - - 24.9269
+
+2c 3c 4c Ac Qc 
+Qc Ac - 3c 2c - - - 4c - - - - 20.4306
+Ac 2c - 4c 3c - - - Qc - - - - 20.5806
+Ac 4c - 3c 2c - - - Qc - - - - 22.1162
+Ac 3c - 4c 2c - - - Qc - - - - 22.4538
+Ac - - 4c 3c 2c - - Qc - - - - 25.5031
+
+8c 9c Ac Jc Tc 
+Tc Ac - - - - - - 8c 9c Jc - - 20.7812
+Jc Ac - - - - - - 8c 9c Tc - - 21.0594
+Ac 9c - - - - - - 8c Jc Tc - - 21.6162
+Ac 8c - - - - - - 9c Jc Tc - - 22.3988
+Ac - - - - - - - 8c 9c Jc Tc - 29.6162
+
+7c 9c Ac Jc Tc 
+Tc Ac - 7c - - - - 9c Jc - - - 20.5931
+Ac 9c - 7c - - - - Jc Tc - - - 20.9263
+Jc Ac - - - - - - 7c 9c Tc - - 21.6425
+Ac 7c - - - - - - 9c Jc Tc - - 22.4287
+Ac - - 7c - - - - 9c Jc Tc - - 26.6125
+
+6c 9c Ac Jc Tc 
+Ac 6c - 9c - - - - Jc Tc - - - 21.7156
+Ac 9c - 6c - - - - Jc Tc - - - 21.7575
+Tc Ac - 6c - - - - 9c Jc - - - 21.9294
+Jc Ac - 6c - - - - 9c Tc - - - 22.4613
+Ac - - 6c - - - - 9c Jc Tc - - 28.1319
+
+5c 9c Ac Jc Tc 
+Ac 9c - 5c - - - - Jc Tc - - - 21.8075
+Tc Ac - 5c - - - - 9c Jc - - - 22.3125
+Jc Ac - 5c - - - - 9c Tc - - - 22.5856
+Ac 5c - - - - - - 9c Jc Tc - - 23.1869
+Ac - - 5c - - - - 9c Jc Tc - - 27.3706
+
+4c 9c Ac Jc Tc 
+Ac 4c - - - - - - 9c Jc Tc - - 21.6906
+Tc Ac - 4c - - - - 9c Jc - - - 22.2981
+Jc Ac - 4c - - - - 9c Tc - - - 22.3081
+Ac 9c - 4c - - - - Jc Tc - - - 22.4
+Ac - - 4c - - - - 9c Jc Tc - - 29.2431
+
+3c 9c Ac Jc Tc 
+Ac 9c - 3c - - - - Jc Tc - - - 21.875
+Tc Ac - 3c - - - - 9c Jc - - - 22.0925
+Jc Ac - 3c - - - - 9c Tc - - - 22.6219
+Ac 3c - - - - - - 9c Jc Tc - - 22.9425
+Ac - - 3c - - - - 9c Jc Tc - - 27.5963
+
+2c 9c Ac Jc Tc 
+Jc Ac - 2c - - - - 9c Tc - - - 21.4112
+Tc Ac - 2c - - - - 9c Jc - - - 21.9306
+Ac 9c - 2c - - - - Jc Tc - - - 23.05
+Ac 2c - - - - - - 9c Jc Tc - - 23.1256
+Ac - - 2c - - - - 9c Jc Tc - - 26.5225
+
+7c 8c Ac Jc Tc 
+Jc Ac - - - - - - 7c 8c Tc - - 20.7494
+Ac 8c - 7c - - - - Jc Tc - - - 20.8731
+Tc Ac - - - - - - 7c 8c Jc - - 21.4731
+Ac 7c - - - - - - 8c Jc Tc - - 23.5187
+Ac - - - - - - - 7c 8c Jc Tc - 27.5713
+
+6c 8c Ac Jc Tc 
+Tc Ac - 6c - - - - 8c Jc - - - 20.2194
+Jc Ac - 6c - - - - 8c Tc - - - 22.3463
+Ac 6c - 8c - - - - Jc Tc - - - 22.53
+Ac 8c - 6c - - - - Jc Tc - - - 23.1025
+Ac - - 6c - - - - 8c Jc Tc - - 27.9206
+
+5c 8c Ac Jc Tc 
+Tc Ac - 5c - - - - 8c Jc - - - 21.0244
+Ac 5c - - - - - - 8c Jc Tc - - 21.3769
+Jc Ac - 5c - - - - 8c Tc - - - 22.1025
+Ac 8c - 5c - - - - Jc Tc - - - 24.1575
+Ac - - 5c - - - - 8c Jc Tc - - 27.8412
+
+4c 8c Ac Jc Tc 
+Tc Ac - 4c - - - - 8c Jc - - - 20.6594
+Ac 8c - 4c - - - - Jc Tc - - - 21.6
+Jc Ac - 4c - - - - 8c Tc - - - 21.7994
+Ac 4c - - - - - - 8c Jc Tc - - 22.4356
+Ac - - 4c - - - - 8c Jc Tc - - 26.4412
+
+3c 8c Ac Jc Tc 
+Jc Ac - 3c - - - - 8c Tc - - - 20.7881
+Tc Ac - 3c - - - - 8c Jc - - - 21.8519
+Ac 3c - 8c - - - - Jc Tc - - - 21.9494
+Ac 8c - 3c - - - - Jc Tc - - - 22.3687
+Ac - - 3c - - - - 8c Jc Tc - - 25.5631
+
+2c 8c Ac Jc Tc 
+Ac 8c - 2c - - - - Jc Tc - - - 21.5419
+Jc Ac - 2c - - - - 8c Tc - - - 21.5694
+Ac 2c - 8c - - - - Jc Tc - - - 21.9756
+Tc Ac - 2c - - - - 8c Jc - - - 22.2113
+Ac - - 2c - - - - 8c Jc Tc - - 26.3469
+
+6c 7c Ac Jc Tc 
+Tc Ac - 6c - - - - 7c Jc - - - 20.8606
+Jc Ac - 6c - - - - 7c Tc - - - 21.0037
+Ac 6c - 7c - - - - Jc Tc - - - 21.0844
+Ac 7c - 6c - - - - Jc Tc - - - 22.7719
+Ac - - 6c - - - - 7c Jc Tc - - 25.3394
+
+5c 7c Ac Jc Tc 
+Tc Ac - 5c - - - - 7c Jc - - - 19.8013
+Jc Ac - 7c 5c - - - Tc - - - - 20.01
+Ac 5c - 7c - - - - Jc Tc - - - 21.0531
+Ac 7c - 5c - - - - Jc Tc - - - 22.2275
+Ac - - 5c - - - - 7c Jc Tc - - 26.2269
+
+4c 7c Ac Jc Tc 
+Tc Ac - 7c 4c - - - Jc - - - - 20.7437
+Ac 4c - - - - - - 7c Jc Tc - - 21.2006
+Jc Ac - 7c 4c - - - Tc - - - - 21.3988
+Ac 7c - 4c - - - - Jc Tc - - - 22.7687
+Ac - - 7c 4c - - - Jc Tc - - - 27.14
+
+3c 7c Ac Jc Tc 
+Tc Ac - 3c - - - - 7c Jc - - - 20.9988
+Jc Ac - 3c - - - - 7c Tc - - - 21.5756
+Ac 3c - 7c - - - - Jc Tc - - - 22.0244
+Ac 7c - 3c - - - - Jc Tc - - - 23.0706
+Ac - - 3c - - - - 7c Jc Tc - - 26.025
+
+2c 7c Ac Jc Tc 
+Tc Ac - 2c - - - - 7c Jc - - - 21.6956
+Ac 2c - 7c - - - - Jc Tc - - - 21.7712
+Jc Ac - 2c - - - - 7c Tc - - - 22.165
+Ac 7c - 2c - - - - Jc Tc - - - 22.4587
+Ac - - 2c - - - - 7c Jc Tc - - 25.2425
+
+5c 6c Ac Jc Tc 
+Tc Ac - 6c 5c - - - Jc - - - - 20.1812
+Jc Ac - 5c - - - - 6c Tc - - - 20.6525
+Ac 6c - 5c - - - - Jc Tc - - - 21.1475
+Ac 5c - 6c - - - - Jc Tc - - - 21.6562
+Ac - - 6c 5c - - - Jc Tc - - - 26.545
+
+4c 6c Ac Jc Tc 
+Ac 4c - 6c - - - - Jc Tc - - - 20.6081
+Ac 6c - 4c - - - - Jc Tc - - - 20.855
+Tc Ac - 6c 4c - - - Jc - - - - 21.1162
+Jc Ac - 6c 4c - - - Tc - - - - 22.04
+Ac - - 6c 4c - - - Jc Tc - - - 26.1475
+
+3c 6c Ac Jc Tc 
+Jc Ac - 3c - - - - 6c Tc - - - 20.5969
+Ac 6c - 3c - - - - Jc Tc - - - 21.6156
+Tc Ac - 6c 3c - - - Jc - - - - 21.6825
+Ac 3c - 6c - - - - Jc Tc - - - 22.7944
+Ac - - 6c 3c - - - Jc Tc - - - 25.3044
+
+2c 6c Ac Jc Tc 
+Tc Ac - 6c 2c - - - Jc - - - - 20.2819
+Jc Ac - 6c 2c - - - Tc - - - - 20.6325
+Ac 6c - 2c - - - - Jc Tc - - - 20.8131
+Ac 2c - 6c - - - - Jc Tc - - - 22.5919
+Ac - - 6c 2c - - - Jc Tc - - - 26.4769
+
+4c 5c Ac Jc Tc 
+Jc Ac - 5c 4c - - - Tc - - - - 20.1612
+Tc Ac - 5c 4c - - - Jc - - - - 20.67
+Ac 5c - 4c - - - - Jc Tc - - - 22.6069
+Ac 4c - 5c - - - - Jc Tc - - - 22.9963
+Ac - - 5c 4c - - - Jc Tc - - - 27.5619
+
+3c 5c Ac Jc Tc 
+Tc Ac - 5c 3c - - - Jc - - - - 21.625
+Jc Ac - 5c 3c - - - Tc - - - - 21.7213
+Ac 3c - 5c - - - - Jc Tc - - - 22.5375
+Ac 5c - 3c - - - - Jc Tc - - - 23.8806
+Ac - - 5c 3c - - - Jc Tc - - - 27.0544
+
+2c 5c Ac Jc Tc 
+Tc Ac - 5c 2c - - - Jc - - - - 20.8494
+Jc Ac - 5c 2c - - - Tc - - - - 21.8137
+Ac 2c - 5c - - - - Jc Tc - - - 21.9163
+Ac 5c - 2c - - - - Jc Tc - - - 22.1869
+Ac - - 5c 2c - - - Jc Tc - - - 26.5781
+
+3c 4c Ac Jc Tc 
+Jc Ac - 4c 3c - - - Tc - - - - 21.6525
+Tc Ac - 4c 3c - - - Jc - - - - 22.1369
+Ac 4c - 3c - - - - Jc Tc - - - 22.4025
+Ac 3c - 4c - - - - Jc Tc - - - 22.4813
+Ac - - 4c 3c - - - Jc Tc - - - 25.6875
+
+2c 4c Ac Jc Tc 
+Tc Ac - 2c - - - - 4c Jc - - - 20.8656
+Jc Ac - 4c 2c - - - Tc - - - - 21.3062
+Ac 2c - 4c - - - - Jc Tc - - - 22.15
+Ac 4c - 2c - - - - Jc Tc - - - 22.51
+Ac - - 4c 2c - - - Jc Tc - - - 27.4194
+
+2c 3c Ac Jc Tc 
+Tc Ac - 3c 2c - - - Jc - - - - 21.1494
+Jc Ac - 3c 2c - - - Tc - - - - 22.04
+Ac 3c - 2c - - - - Jc Tc - - - 22.3862
+Ac 2c - 3c - - - - Jc Tc - - - 23.1225
+Ac - - 3c 2c - - - Jc Tc - - - 26.5963
+
+7c 8c 9c Ac Jc 
+Ac 8c - 7c - - - - 9c Jc - - - 20.9569
+Jc Ac - 7c - - - - 8c 9c - - - 21.2388
+Ac 7c - - - - - - 8c 9c Jc - - 22.4256
+Ac 9c - 7c - - - - 8c Jc - - - 22.9662
+Ac - - - - - - - 7c 8c 9c Jc - 28.12
+
+6c 8c 9c Ac Jc 
+Jc Ac - - - - - - 6c 8c 9c - - 20.8394
+Ac 9c - 6c - - - - 8c Jc - - - 21.4825
+Ac 6c - - - - - - 8c 9c Jc - - 21.6537
+Ac 8c - 6c - - - - 9c Jc - - - 21.9856
+Ac - - 6c - - - - 8c 9c Jc - - 26.705
+
+5c 8c 9c Ac Jc 
+Jc Ac - 5c - - - - 8c 9c - - - 20.6969
+Ac 9c - 5c - - - - 8c Jc - - - 20.7275
+Ac 8c - 5c - - - - 9c Jc - - - 21.2325
+Ac 5c - - - - - - 8c 9c Jc - - 22.3113
+Ac - - 5c - - - - 8c 9c Jc - - 26.44
+
+4c 8c 9c Ac Jc 
+Ac 4c - - - - - - 8c 9c Jc - - 21.3088
+Jc Ac - 4c - - - - 8c 9c - - - 21.6262
+Ac 9c - 4c - - - - 8c Jc - - - 21.6338
+Ac 8c - 4c - - - - 9c Jc - - - 21.835
+Ac - - 4c - - - - 8c 9c Jc - - 27.3638
+
+3c 8c 9c Ac Jc 
+Ac 3c - - - - - - 8c 9c Jc - - 20.4888
+Ac 9c - 8c 3c - - - Jc - - - - 20.815
+Jc Ac - 3c - - - - 8c 9c - - - 22.2069
+Ac 8c - 3c - - - - 9c Jc - - - 22.3231
+Ac - - 3c - - - - 8c 9c Jc - - 25.3906
+
+2c 8c 9c Ac Jc 
+Ac 2c - 8c - - - - 9c Jc - - - 21.3275
+Ac 8c - 2c - - - - 9c Jc - - - 21.6525
+Ac 9c - 2c - - - - 8c Jc - - - 21.9513
+Jc Ac - 2c - - - - 8c 9c - - - 23.1631
+Ac - - 2c - - - - 8c 9c Jc - - 26.4906
+
+6c 7c 9c Ac Jc 
+Ac 9c - 6c - - - - 7c Jc - - - 20.2262
+Jc Ac - - - - - - 6c 7c 9c - - 20.4419
+Ac 7c - 6c - - - - 9c Jc - - - 21.5494
+Ac 6c - 7c - - - - 9c Jc - - - 21.9644
+Ac - - 6c - - - - 7c 9c Jc - - 27.0206
+
+5c 7c 9c Ac Jc 
+Jc Ac - 5c - - - - 7c 9c - - - 20.6469
+Ac 9c - 5c - - - - 7c Jc - - - 20.82
+Ac 5c - 7c - - - - 9c Jc - - - 20.8662
+Ac 7c - 5c - - - - 9c Jc - - - 22.1825
+Ac - - 5c - - - - 7c 9c Jc - - 25.7162
+
+4c 7c 9c Ac Jc 
+Ac 4c - - - - - - 7c 9c Jc - - 20.8356
+Jc Ac - 7c 4c - - - 9c - - - - 21.6887
+Ac 7c - 4c - - - - 9c Jc - - - 22.3875
+Ac 9c - 4c - - - - 7c Jc - - - 22.415
+Ac - - 7c 4c - - - 9c Jc - - - 25.9363
+
+3c 7c 9c Ac Jc 
+Ac 9c - 7c 3c - - - Jc - - - - 20.9137
+Ac 3c - - - - - - 7c 9c Jc - - 21.1431
+Ac 7c - 3c - - - - 9c Jc - - - 21.2744
+Jc Ac - 3c - - - - 7c 9c - - - 21.2881
+Ac - - 3c - - - - 7c 9c Jc - - 25.6294
+
+2c 7c 9c Ac Jc 
+Ac 9c - Jc 2c - - - 7c - - - - 20.86
+Ac 7c - 2c - - - - 9c Jc - - - 22.0088
+Jc Ac - 2c - - - - 7c 9c - - - 22.2775
+Ac 2c - 7c - - - - 9c Jc - - - 23.2838
+Ac - - 2c - - - - 7c 9c Jc - - 25.2412
+
+5c 6c 9c Ac Jc 
+Ac 9c - 6c 5c - - - Jc - - - - 20.1712
+Jc Ac - 5c - - - - 6c 9c - - - 20.8456
+Ac 5c - 6c - - - - 9c Jc - - - 22.0244
+Ac 6c - 5c - - - - 9c Jc - - - 22.2994
+Ac - - 6c 5c - - - 9c Jc - - - 25.9281
+
+4c 6c 9c Ac Jc 
+Jc Ac - 6c 4c - - - 9c - - - - 21.1575
+Ac 4c - 6c - - - - 9c Jc - - - 21.4006
+Ac 9c - 6c 4c - - - Jc - - - - 22.0812
+Ac 6c - 4c - - - - 9c Jc - - - 22.1519
+Ac - - 6c 4c - - - 9c Jc - - - 25.4487
+
+3c 6c 9c Ac Jc 
+Ac 9c - 3c - - - - 6c Jc - - - 20.1787
+Ac 3c - 6c - - - - 9c Jc - - - 20.5881
+Jc Ac - 6c 3c - - - 9c - - - - 21.13
+Ac 6c - 3c - - - - 9c Jc - - - 22.6012
+Ac - - 6c 3c - - - 9c Jc - - - 25.6444
+
+2c 6c 9c Ac Jc 
+Ac 9c - 6c 2c - - - Jc - - - - 21.36
+Jc Ac - 2c - - - - 6c 9c - - - 21.5763
+Ac 6c - 2c - - - - 9c Jc - - - 21.8281
+Ac 2c - 6c - - - - 9c Jc - - - 22.4638
+Ac - - 6c 2c - - - 9c Jc - - - 26.7656
+
+4c 5c 9c Ac Jc 
+Ac 9c - 4c - - - - 5c Jc - - - 20.7938
+Jc Ac - 5c 4c - - - 9c - - - - 21.2288
+Ac 4c - 5c - - - - 9c Jc - - - 21.7262
+Ac 5c - 4c - - - - 9c Jc - - - 22.8706
+Ac - - 5c 4c - - - 9c Jc - - - 25.3781
+
+3c 5c 9c Ac Jc 
+Ac 9c - 5c 3c - - - Jc - - - - 20.9538
+Ac 3c - 5c - - - - 9c Jc - - - 21.7356
+Jc Ac - 5c 3c - - - 9c - - - - 21.9231
+Ac 5c - 3c - - - - 9c Jc - - - 22.8612
+Ac - - 5c 3c - - - 9c Jc - - - 26.7531
+
+2c 5c 9c Ac Jc 
+Jc Ac - 5c 2c - - - 9c - - - - 20.2275
+Ac 2c - 5c - - - - 9c Jc - - - 20.5694
+Ac 9c - 5c 2c - - - Jc - - - - 21.3113
+Ac 5c - 2c - - - - 9c Jc - - - 21.5556
+Ac - - 5c 2c - - - 9c Jc - - - 25.7319
+
+3c 4c 9c Ac Jc 
+Jc Ac - 4c 3c - - - 9c - - - - 21.4456
+Ac 9c - 4c 3c - - - Jc - - - - 21.5688
+Ac 4c - 3c - - - - 9c Jc - - - 21.5713
+Ac 3c - 4c - - - - 9c Jc - - - 22.1187
+Ac - - 4c 3c - - - 9c Jc - - - 25.8275
+
+2c 4c 9c Ac Jc 
+Jc Ac - 4c 2c - - - 9c - - - - 20.6063
+Ac 2c - 4c - - - - 9c Jc - - - 21.1006
+Ac 4c - 2c - - - - 9c Jc - - - 21.5375
+Ac 9c - 4c 2c - - - Jc - - - - 22.3587
+Ac - - 4c 2c - - - 9c Jc - - - 26.2412
+
+2c 3c 9c Ac Jc 
+Ac 2c - 3c - - - - 9c Jc - - - 21.1231
+Ac 3c - 2c - - - - 9c Jc - - - 21.3844
+Jc Ac - 3c 2c - - - 9c - - - - 21.4988
+Ac 9c - 3c 2c - - - Jc - - - - 21.88
+Ac - - 3c 2c - - - 9c Jc - - - 26.2987
+
+6c 7c 8c Ac Jc 
+Ac 7c - 6c - - - - 8c Jc - - - 19.8475
+Ac 8c - 6c - - - - 7c Jc - - - 20.955
+Ac 6c - 7c - - - - 8c Jc - - - 21.7113
+Jc Ac - - - - - - 6c 7c 8c - - 22.6125
+Ac - - Jc - - - - 6c 7c 8c - - 26.7606
+
+5c 7c 8c Ac Jc 
+Ac 8c - 5c - - - - 7c Jc - - - 19.8538
+Ac 5c - 7c - - - - 8c Jc - - - 20.6831
+Jc Ac - 7c 5c - - - 8c - - - - 20.9225
+Ac 7c - 5c - - - - 8c Jc - - - 21.1819
+Ac - - 7c 5c - - - 8c Jc - - - 25.4356
+
+4c 7c 8c Ac Jc 
+Ac 4c - 7c - - - - 8c Jc - - - 19.9294
+Ac 7c - 4c - - - - 8c Jc - - - 20.8188
+Ac 8c - 7c 4c - - - Jc - - - - 21.1362
+Jc Ac - 4c - - - - 7c 8c - - - 21.7269
+Ac - - 4c - - - - 7c 8c Jc - - 25.7687
+
+3c 7c 8c Ac Jc 
+Ac 8c - 7c 3c - - - Jc - - - - 20.4631
+Ac 3c - 7c - - - - 8c Jc - - - 20.7687
+Ac 7c - 3c - - - - 8c Jc - - - 21.3113
+Jc Ac - 3c - - - - 7c 8c - - - 21.9406
+Ac - - 3c - - - - 7c 8c Jc - - 25.6944
+
+2c 7c 8c Ac Jc 
+Ac 8c - 7c 2c - - - Jc - - - - 20.7463
+Ac 7c - 2c - - - - 8c Jc - - - 21.3556
+Ac 2c - 7c - - - - 8c Jc - - - 21.3844
+Jc Ac - 2c - - - - 7c 8c - - - 21.8612
+Ac - - 2c - - - - 7c 8c Jc - - 26.4531
+
+5c 6c 8c Ac Jc 
+Ac 8c - Jc - - - - 5c 6c - - - 19.6075
+Jc Ac - - - - - - 5c 6c 8c - - 20.2219
+Ac 5c - 6c - - - - 8c Jc - - - 20.7494
+Ac 6c - 5c - - - - 8c Jc - - - 21.0856
+Ac - - Jc - - - - 5c 6c 8c - - 26.1331
+
+4c 6c 8c Ac Jc 
+Jc Ac - 4c - - - - 6c 8c - - - 20.6494
+Ac 6c - 8c 4c - - - Jc - - - - 20.6637
+Ac 8c - 6c 4c - - - Jc - - - - 21.0238
+Ac 4c - 6c - - - - 8c Jc - - - 21.4525
+Ac - - 6c 4c - - - 8c Jc - - - 25.84
+
+3c 6c 8c Ac Jc 
+Ac 6c - 3c - - - - 8c Jc - - - 20.7862
+Jc Ac - 6c 3c - - - 8c - - - - 21.1087
+Ac 8c - 6c 3c - - - Jc - - - - 21.1737
+Ac 3c - 6c - - - - 8c Jc - - - 21.41
+Ac - - Jc 3c - - - 6c 8c - - - 24.9888
+
+2c 6c 8c Ac Jc 
+Ac 2c - 6c - - - - 8c Jc - - - 20.1806
+Jc Ac - 6c 2c - - - 8c - - - - 22.0637
+Ac 6c - 2c - - - - 8c Jc - - - 22.2606
+Ac 8c - 6c 2c - - - Jc - - - - 22.4094
+Ac - - 6c 2c - - - 8c Jc - - - 25.4419
+
+4c 5c 8c Ac Jc 
+Ac 4c - 5c - - - - 8c Jc - - - 20.3638
+Ac 5c - 4c - - - - 8c Jc - - - 20.7069
+Jc Ac - 5c 4c - - - 8c - - - - 20.825
+Ac 8c - 5c 4c - - - Jc - - - - 21.3037
+Ac - - 4c - - - - 5c 8c Jc - - 24.5825
+
+3c 5c 8c Ac Jc 
+Jc Ac - 3c - - - - 5c 8c - - - 21.0281
+Ac 8c - 5c 3c - - - Jc - - - - 21.0394
+Ac 3c - 5c - - - - 8c Jc - - - 21.4025
+Ac 5c - 3c - - - - 8c Jc - - - 21.7975
+Ac - - 5c 3c - - - 8c Jc - - - 25.4131
+
+2c 5c 8c Ac Jc 
+Ac 5c - 2c - - - - 8c Jc - - - 21.1112
+Jc Ac - 2c - - - - 5c 8c - - - 21.245
+Ac 8c - 5c 2c - - - Jc - - - - 21.5806
+Ac 2c - 5c - - - - 8c Jc - - - 21.7938
+Ac - - 5c 2c - - - 8c Jc - - - 26.635
+
+3c 4c 8c Ac Jc 
+Jc Ac - 4c 3c - - - 8c - - - - 21.1213
+Ac 8c - 4c 3c - - - Jc - - - - 21.4106
+Ac 3c - 4c - - - - 8c Jc - - - 21.6488
+Ac 4c - 3c - - - - 8c Jc - - - 22.5462
+Ac - - 4c 3c - - - 8c Jc - - - 25.845
+
+2c 4c 8c Ac Jc 
+Jc Ac - 4c 2c - - - 8c - - - - 20.6675
+Ac 8c - 4c 2c - - - Jc - - - - 21.1575
+Ac 4c - 2c - - - - 8c Jc - - - 21.4587
+Ac 2c - 8c 4c - - - Jc - - - - 21.6612
+Ac - - 4c 2c - - - 8c Jc - - - 26.2406
+
+2c 3c 8c Ac Jc 
+Ac 3c - 2c - - - - 8c Jc - - - 20.9438
+Ac 2c - 3c - - - - 8c Jc - - - 21.7563
+Ac 8c - 3c 2c - - - Jc - - - - 21.9988
+Jc Ac - 3c 2c - - - 8c - - - - 22.81
+Ac - - 3c 2c - - - 8c Jc - - - 25.2138
+
+5c 6c 7c Ac Jc 
+Ac 7c - 5c - - - - 6c Jc - - - 19.7375
+Jc Ac - - - - - - 5c 6c 7c - - 20.3931
+Ac 5c - 6c - - - - 7c Jc - - - 20.6763
+Ac 6c - 7c 5c - - - Jc - - - - 21.0994
+Ac - - Jc - - - - 5c 6c 7c - - 26.8281
+
+4c 6c 7c Ac Jc 
+Jc Ac - 4c - - - - 6c 7c - - - 20.0125
+Ac 7c - 6c 4c - - - Jc - - - - 20.1969
+Ac 6c - 4c - - - - 7c Jc - - - 20.975
+Ac 4c - 6c - - - - 7c Jc - - - 21.01
+Ac - - Jc - - - - 4c 6c 7c - - 24.9562
+
+3c 6c 7c Ac Jc 
+Ac 3c - 7c - - - - 6c Jc - - - 19.9112
+Jc Ac - 3c - - - - 6c 7c - - - 19.9713
+Ac 7c - 6c 3c - - - Jc - - - - 20.5525
+Ac 6c - 7c 3c - - - Jc - - - - 20.7531
+Ac - - 6c - - - - 3c 7c Jc - - 25.0631
+
+2c 6c 7c Ac Jc 
+Ac 2c - 7c 6c - - - Jc - - - - 19.9069
+Jc Ac - 2c - - - - 6c 7c - - - 20.6375
+Ac 7c - 6c 2c - - - Jc - - - - 21.115
+Ac 6c - 2c - - - - 7c Jc - - - 22.7869
+Ac - - Jc 2c - - - 6c 7c - - - 25.2406
+
+4c 5c 7c Ac Jc 
+Ac 4c - 5c - - - - 7c Jc - - - 19.9463
+Jc Ac - - - - - - 4c 5c 7c - - 20.2769
+Ac 7c - 5c 4c - - - Jc - - - - 20.5969
+Ac 5c - 4c - - - - 7c Jc - - - 21.28
+Ac - - Jc - - - - 4c 5c 7c - - 24.4169
+
+3c 5c 7c Ac Jc 
+Ac 3c - 7c 5c - - - Jc - - - - 20.4906
+Jc Ac - 5c 3c - - - 7c - - - - 20.615
+Ac 5c - 7c 3c - - - Jc - - - - 21.8719
+Ac 7c - 5c 3c - - - Jc - - - - 21.8719
+Ac - - 3c - - - - 5c 7c Jc - - 25.4287
+
+2c 5c 7c Ac Jc 
+Ac 5c - 7c 2c - - - Jc - - - - 20.4181
+Ac 2c - 7c 5c - - - Jc - - - - 20.9969
+Jc Ac - 2c - - - - 5c 7c - - - 21.6181
+Ac 7c - 5c 2c - - - Jc - - - - 21.9919
+Ac - - Jc 2c - - - 5c 7c - - - 24.7806
+
+3c 4c 7c Ac Jc 
+Ac 4c - 7c 3c - - - Jc - - - - 20.9856
+Jc Ac - 4c 3c - - - 7c - - - - 21.2075
+Ac 7c - 4c 3c - - - Jc - - - - 21.7781
+Ac 3c - 7c 4c - - - Jc - - - - 22.0369
+Ac - - 4c 3c - - - 7c Jc - - - 25.4969
+
+2c 4c 7c Ac Jc 
+Jc Ac - 2c - - - - 4c 7c - - - 20.7463
+Ac 2c - 4c - - - - 7c Jc - - - 20.7706
+Ac 7c - 4c 2c - - - Jc - - - - 21.7388
+Ac 4c - 2c - - - - 7c Jc - - - 22.6669
+Ac - - 4c 2c - - - 7c Jc - - - 25.2437
+
+2c 3c 7c Ac Jc 
+Ac 2c - 3c - - - - 7c Jc - - - 20.775
+Ac 3c - 7c 2c - - - Jc - - - - 21.3587
+Jc Ac - 3c 2c - - - 7c - - - - 21.5644
+Ac 7c - 3c 2c - - - Jc - - - - 22.835
+Ac - - 3c 2c - - - 7c Jc - - - 25.425
+
+4c 5c 6c Ac Jc 
+Ac 5c - 6c 4c - - - Jc - - - - 19.83
+Ac 4c - 5c - - - - 6c Jc - - - 20.0275
+Ac 6c - 4c - - - - 5c Jc - - - 21.0413
+Jc Ac - - - - - - 4c 5c 6c - - 21.8525
+Ac - - Jc - - - - 4c 5c 6c - - 26.5462
+
+3c 5c 6c Ac Jc 
+Ac 3c - 6c 5c - - - Jc - - - - 20.5944
+Ac 6c - 3c - - - - 5c Jc - - - 20.8581
+Ac 5c - 3c - - - - 6c Jc - - - 21.0413
+Jc Ac - 3c - - - - 5c 6c - - - 21.4169
+Ac - - Jc 3c - - - 5c 6c - - - 25.295
+
+2c 5c 6c Ac Jc 
+Ac 5c - 6c 2c - - - Jc - - - - 20.6531
+Jc Ac - 2c - - - - 5c 6c - - - 20.7231
+Ac 2c - 6c 5c - - - Jc - - - - 20.9988
+Ac 6c - 5c 2c - - - Jc - - - - 22.2794
+Ac - - 6c - - - - 2c 5c Jc - - 25.4906
+
+3c 4c 6c Ac Jc 
+Ac 6c - 4c 3c - - - Jc - - - - 20.2556
+Ac 4c - 6c 3c - - - Jc - - - - 20.695
+Ac 3c - 6c 4c - - - Jc - - - - 20.8369
+Jc Ac - 4c 3c - - - 6c - - - - 21.1425
+Ac - - 3c - - - - 4c 6c Jc - - 25.8288
+
+2c 4c 6c Ac Jc 
+Jc Ac - 2c - - - - 4c 6c - - - 20.0806
+Ac 6c - 4c 2c - - - Jc - - - - 20.225
+Ac 2c - 6c 4c - - - Jc - - - - 20.6462
+Ac 4c - 6c 2c - - - Jc - - - - 22.1375
+Ac - - 2c - - - - 4c 6c Jc - - 24.8256
+
+2c 3c 6c Ac Jc 
+Ac 3c - 6c 2c - - - Jc - - - - 20.8438
+Jc Ac - 3c 2c - - - 6c - - - - 21.125
+Ac 6c - 3c 2c - - - Jc - - - - 21.3869
+Ac 2c - 6c 3c - - - Jc - - - - 21.8962
+Ac - - 3c 2c - - - 6c Jc - - - 25.2213
+
+3c 4c 5c Ac Jc 
+Jc Ac - 4c 3c - - - 5c - - - - 19.7919
+Ac 5c - 4c 3c - - - Jc - - - - 20.3288
+Ac 4c - 5c 3c - - - Jc - - - - 21.3031
+Ac 3c - 5c 4c - - - Jc - - - - 21.8469
+Ac - - Jc - - - - 3c 4c 5c - - 25.6894
+
+2c 4c 5c Ac Jc 
+Jc Ac - 4c 2c - - - 5c - - - - 20.725
+Ac 4c - 5c 2c - - - Jc - - - - 22.1763
+Ac 5c - 4c 2c - - - Jc - - - - 22.2369
+Ac 2c - 5c 4c - - - Jc - - - - 22.515
+Ac - - 5c - - - - 2c 4c Jc - - 24.7544
+
+2c 3c 5c Ac Jc 
+Jc Ac - 3c 2c - - - 5c - - - - 20.825
+Ac 5c - 3c 2c - - - Jc - - - - 21.415
+Ac 2c - 5c 3c - - - Jc - - - - 21.4438
+Ac 3c - 5c 2c - - - Jc - - - - 22.2306
+Ac - - 5c 3c 2c - - Jc - - - - 24.6181
+
+2c 3c 4c Ac Jc 
+Jc Ac - 3c 2c - - - 4c - - - - 19.8275
+Ac 2c - 4c 3c - - - Jc - - - - 21.0619
+Ac 3c - 4c 2c - - - Jc - - - - 21.1769
+Ac 4c - 3c 2c - - - Jc - - - - 22.8925
+Ac - - 2c - - - - 3c 4c Jc - - 24.3531
+
+7c 8c 9c Ac Tc 
+Tc Ac - - - - - - 7c 8c 9c - - 20.7425
+Ac 8c - 7c - - - - 9c Tc - - - 21.0794
+Ac 7c - - - - - - 8c 9c Tc - - 21.6019
+Ac 9c - 7c - - - - 8c Tc - - - 21.655
+Ac - - - - - - - 7c 8c 9c Tc - 28.5531
+
+6c 8c 9c Ac Tc 
+Ac 9c - 6c - - - - 8c Tc - - - 21.5
+Ac 8c - 6c - - - - 9c Tc - - - 21.6356
+Tc Ac - - - - - - 6c 8c 9c - - 21.7013
+Ac 6c - - - - - - 8c 9c Tc - - 22.1031
+Ac - - - - - - - 6c 8c 9c Tc - 27.135
+
+5c 8c 9c Ac Tc 
+Ac 9c - 5c - - - - 8c Tc - - - 20.4825
+Ac 8c - 5c - - - - 9c Tc - - - 21.1562
+Tc Ac - 5c - - - - 8c 9c - - - 21.4975
+Ac 5c - 8c - - - - 9c Tc - - - 22.095
+Ac - - 5c - - - - 8c 9c Tc - - 28.5519
+
+4c 8c 9c Ac Tc 
+Ac 9c - 4c - - - - 8c Tc - - - 20.58
+Ac 4c - 8c - - - - 9c Tc - - - 21.4137
+Tc Ac - 4c - - - - 8c 9c - - - 21.5294
+Ac 8c - 4c - - - - 9c Tc - - - 22.745
+Ac - - 4c - - - - 8c 9c Tc - - 29.125
+
+3c 8c 9c Ac Tc 
+Ac 9c - 8c 3c - - - Tc - - - - 20.1875
+Ac 8c - 3c - - - - 9c Tc - - - 21.34
+Ac 3c - - - - - - 8c 9c Tc - - 21.4069
+Tc Ac - 3c - - - - 8c 9c - - - 22.8575
+Ac - - 3c - - - - 8c 9c Tc - - 27.1838
+
+2c 8c 9c Ac Tc 
+Ac 2c - - - - - - 8c 9c Tc - - 21.3294
+Ac 9c - 2c - - - - 8c Tc - - - 22.2925
+Ac 8c - 2c - - - - 9c Tc - - - 22.8756
+Tc Ac - 2c - - - - 8c 9c - - - 23.0844
+Ac - - 2c - - - - 8c 9c Tc - - 27.8713
+
+6c 7c 9c Ac Tc 
+Ac 9c - 6c - - - - 7c Tc - - - 20.13
+Tc Ac - - - - - - 6c 7c 9c - - 21.2681
+Ac 6c - - - - - - 7c 9c Tc - - 21.5812
+Ac 7c - 6c - - - - 9c Tc - - - 22.6756
+Ac - - - - - - - 6c 7c 9c Tc - 27.1381
+
+5c 7c 9c Ac Tc 
+Ac 5c - 7c - - - - 9c Tc - - - 20.6375
+Tc Ac - 5c - - - - 7c 9c - - - 21.0194
+Ac 9c - 5c - - - - 7c Tc - - - 21.2275
+Ac 7c - 5c - - - - 9c Tc - - - 21.83
+Ac - - 5c - - - - 7c 9c Tc - - 27.0088
+
+4c 7c 9c Ac Tc 
+Tc Ac - 4c - - - - 7c 9c - - - 21.2956
+Ac 4c - 7c - - - - 9c Tc - - - 21.8369
+Ac 7c - 4c - - - - 9c Tc - - - 22.4119
+Ac 9c - 4c - - - - 7c Tc - - - 22.6012
+Ac - - 4c - - - - 7c 9c Tc - - 27.7775
+
+3c 7c 9c Ac Tc 
+Ac 9c - 3c - - - - 7c Tc - - - 21.1575
+Tc Ac - 3c - - - - 7c 9c - - - 21.1825
+Ac 3c - 7c - - - - 9c Tc - - - 21.3594
+Ac 7c - 3c - - - - 9c Tc - - - 21.9775
+Ac - - 7c 3c - - - 9c Tc - - - 25.2138
+
+2c 7c 9c Ac Tc 
+Tc Ac - 2c - - - - 7c 9c - - - 21.78
+Ac 9c - 2c - - - - 7c Tc - - - 22.0212
+Ac 2c - 7c - - - - 9c Tc - - - 22.0769
+Ac 7c - 2c - - - - 9c Tc - - - 23.7781
+Ac - - 2c - - - - 7c 9c Tc - - 26.4013
+
+5c 6c 9c Ac Tc 
+Ac 9c - Tc - - - - 5c 6c - - - 20.555
+Tc Ac - 6c 5c - - - 9c - - - - 20.6394
+Ac 5c - 6c - - - - 9c Tc - - - 21.9737
+Ac 6c - 5c - - - - 9c Tc - - - 23.1525
+Ac - - 6c 5c - - - 9c Tc - - - 25.5794
+
+4c 6c 9c Ac Tc 
+Ac 9c - 6c 4c - - - Tc - - - - 20.4688
+Tc Ac - 6c 4c - - - 9c - - - - 20.9094
+Ac 4c - 6c - - - - 9c Tc - - - 21.6231
+Ac 6c - 4c - - - - 9c Tc - - - 23.9263
+Ac - - 6c 4c - - - 9c Tc - - - 26.5719
+
+3c 6c 9c Ac Tc 
+Ac 9c - 6c 3c - - - Tc - - - - 20.7463
+Ac 3c - 6c - - - - 9c Tc - - - 20.8194
+Tc Ac - 3c - - - - 6c 9c - - - 21.5975
+Ac 6c - 3c - - - - 9c Tc - - - 23.065
+Ac - - 6c 3c - - - 9c Tc - - - 26.4881
+
+2c 6c 9c Ac Tc 
+Ac 9c - 6c 2c - - - Tc - - - - 19.96
+Ac 2c - 6c - - - - 9c Tc - - - 22.1319
+Tc Ac - 2c - - - - 6c 9c - - - 22.7663
+Ac 6c - 2c - - - - 9c Tc - - - 22.8944
+Ac - - 6c 2c - - - 9c Tc - - - 25.4412
+
+4c 5c 9c Ac Tc 
+Tc Ac - 5c 4c - - - 9c - - - - 19.84
+Ac 9c - 5c 4c - - - Tc - - - - 20.3025
+Ac 5c - 4c - - - - 9c Tc - - - 21.1694
+Ac 4c - 5c - - - - 9c Tc - - - 22.1887
+Ac - - 5c 4c - - - 9c Tc - - - 26.8094
+
+3c 5c 9c Ac Tc 
+Ac 9c - 5c 3c - - - Tc - - - - 20.4925
+Tc Ac - 5c 3c - - - 9c - - - - 21.2575
+Ac 5c - 3c - - - - 9c Tc - - - 22.935
+Ac 3c - 5c - - - - 9c Tc - - - 23.0806
+Ac - - 5c 3c - - - 9c Tc - - - 26.4869
+
+2c 5c 9c Ac Tc 
+Ac 9c - 5c 2c - - - Tc - - - - 20.5037
+Ac 2c - 5c - - - - 9c Tc - - - 21.365
+Tc Ac - 5c 2c - - - 9c - - - - 21.6444
+Ac 5c - 2c - - - - 9c Tc - - - 21.9713
+Ac - - 5c 2c - - - 9c Tc - - - 26.1969
+
+3c 4c 9c Ac Tc 
+Tc Ac - 4c 3c - - - 9c - - - - 21.595
+Ac 9c - 4c 3c - - - Tc - - - - 22.32
+Ac 3c - 4c - - - - 9c Tc - - - 22.8412
+Ac 4c - 3c - - - - 9c Tc - - - 23.3531
+Ac - - 4c 3c - - - 9c Tc - - - 26.8831
+
+2c 4c 9c Ac Tc 
+Ac 9c - 4c 2c - - - Tc - - - - 20.5037
+Tc Ac - 4c 2c - - - 9c - - - - 22.395
+Ac 2c - 4c - - - - 9c Tc - - - 22.5925
+Ac 4c - 2c - - - - 9c Tc - - - 22.8881
+Ac - - 4c 2c - - - 9c Tc - - - 28.4056
+
+2c 3c 9c Ac Tc 
+Tc Ac - 3c 2c - - - 9c - - - - 21.3563
+Ac 9c - 3c 2c - - - Tc - - - - 21.4788
+Ac 3c - 2c - - - - 9c Tc - - - 22.0525
+Ac 2c - 3c - - - - 9c Tc - - - 22.7844
+Ac - - 3c 2c - - - 9c Tc - - - 26.6844
+
+6c 7c 8c Ac Tc 
+Ac 8c - 6c - - - - 7c Tc - - - 20.4569
+Ac 7c - 6c - - - - 8c Tc - - - 20.9569
+Ac 6c - - - - - - 7c 8c Tc - - 21.4188
+Tc Ac - - - - - - 6c 7c 8c - - 22.2763
+Ac - - - - - - - 6c 7c 8c Tc - 26.3825
+
+5c 7c 8c Ac Tc 
+Ac 8c - 5c - - - - 7c Tc - - - 20.8944
+Ac 5c - 7c - - - - 8c Tc - - - 20.9225
+Tc Ac - - - - - - 5c 7c 8c - - 21.8381
+Ac 7c - 5c - - - - 8c Tc - - - 22.7969
+Ac - - 5c - - - - 7c 8c Tc - - 26.4912
+
+4c 7c 8c Ac Tc 
+Tc Ac - 4c - - - - 7c 8c - - - 20.1144
+Ac 7c - 4c - - - - 8c Tc - - - 20.2962
+Ac 8c - 4c - - - - 7c Tc - - - 20.6681
+Ac 4c - 7c - - - - 8c Tc - - - 22.0537
+Ac - - 7c 4c - - - 8c Tc - - - 25.9819
+
+3c 7c 8c Ac Tc 
+Ac 8c - 3c - - - - 7c Tc - - - 20.7294
+Tc Ac - 3c - - - - 7c 8c - - - 21.0831
+Ac 3c - - - - - - 7c 8c Tc - - 21.5006
+Ac 7c - 3c - - - - 8c Tc - - - 22.3412
+Ac - - 3c - - - - 7c 8c Tc - - 26.33
+
+2c 7c 8c Ac Tc 
+Ac 8c - 7c 2c - - - Tc - - - - 21.15
+Ac 2c - - - - - - 7c 8c Tc - - 21.825
+Tc Ac - 2c - - - - 7c 8c - - - 22.6719
+Ac 7c - 2c - - - - 8c Tc - - - 24.0425
+Ac - - 2c - - - - 7c 8c Tc - - 25.8137
+
+5c 6c 8c Ac Tc 
+Ac 8c - 5c - - - - 6c Tc - - - 20.19
+Ac 6c - 5c - - - - 8c Tc - - - 20.6381
+Tc Ac - - - - - - 5c 6c 8c - - 20.8438
+Ac 5c - 6c - - - - 8c Tc - - - 21.5037
+Ac - - 6c 5c - - - 8c Tc - - - 25.3312
+
+4c 6c 8c Ac Tc 
+Ac 4c - 6c - - - - 8c Tc - - - 20.3487
+Ac 8c - 4c - - - - 6c Tc - - - 20.4837
+Ac 6c - 4c - - - - 8c Tc - - - 21.4494
+Tc Ac - 4c - - - - 6c 8c - - - 22.1925
+Ac - - 6c 4c - - - 8c Tc - - - 25.8325
+
+3c 6c 8c Ac Tc 
+Ac 8c - 6c 3c - - - Tc - - - - 19.7919
+Tc Ac - 6c 3c - - - 8c - - - - 21.2694
+Ac 3c - 6c - - - - 8c Tc - - - 21.3713
+Ac 6c - 3c - - - - 8c Tc - - - 21.8275
+Ac - - 3c - - - - 6c 8c Tc - - 25.0119
+
+2c 6c 8c Ac Tc 
+Ac 8c - 6c 2c - - - Tc - - - - 20.6931
+Tc Ac - 2c - - - - 6c 8c - - - 21.4475
+Ac 6c - 2c - - - - 8c Tc - - - 21.5837
+Ac 2c - 6c - - - - 8c Tc - - - 22.3
+Ac - - 2c - - - - 6c 8c Tc - - 25.4387
+
+4c 5c 8c Ac Tc 
+Tc Ac - - - - - - 4c 5c 8c - - 19.6156
+Ac 8c - 5c 4c - - - Tc - - - - 20.7619
+Ac 4c - 5c - - - - 8c Tc - - - 21.1338
+Ac 5c - 4c - - - - 8c Tc - - - 21.7325
+Ac - - 5c 4c - - - 8c Tc - - - 26.0238
+
+3c 5c 8c Ac Tc 
+Tc Ac - 3c - - - - 5c 8c - - - 20.4988
+Ac 8c - 5c 3c - - - Tc - - - - 20.5619
+Ac 3c - 5c - - - - 8c Tc - - - 21.6413
+Ac 5c - 3c - - - - 8c Tc - - - 22.3725
+Ac - - 5c 3c - - - 8c Tc - - - 25.8306
+
+2c 5c 8c Ac Tc 
+Ac 2c - 5c - - - - 8c Tc - - - 21.3381
+Ac 5c - 2c - - - - 8c Tc - - - 22.0569
+Ac 8c - 5c 2c - - - Tc - - - - 22.285
+Tc Ac - 2c - - - - 5c 8c - - - 22.3363
+Ac - - 5c 2c - - - 8c Tc - - - 26.325
+
+3c 4c 8c Ac Tc 
+Ac 3c - 8c 4c - - - Tc - - - - 21.465
+Ac 4c - 3c - - - - 8c Tc - - - 21.6787
+Tc Ac - 4c 3c - - - 8c - - - - 21.81
+Ac 8c - 4c 3c - - - Tc - - - - 22.4069
+Ac - - 4c 3c - - - 8c Tc - - - 25.1894
+
+2c 4c 8c Ac Tc 
+Ac 8c - 4c 2c - - - Tc - - - - 19.8381
+Tc Ac - 4c 2c - - - 8c - - - - 20.9281
+Ac 4c - 2c - - - - 8c Tc - - - 21.1887
+Ac 2c - 4c - - - - 8c Tc - - - 21.1912
+Ac - - 4c 2c - - - 8c Tc - - - 25.2719
+
+2c 3c 8c Ac Tc 
+Tc Ac - 3c 2c - - - 8c - - - - 20.8806
+Ac 2c - 3c - - - - 8c Tc - - - 21.1425
+Ac 8c - 3c 2c - - - Tc - - - - 22.235
+Ac 3c - 2c - - - - 8c Tc - - - 22.4419
+Ac - - 3c 2c - - - 8c Tc - - - 24.9237
+
+5c 6c 7c Ac Tc 
+Ac 7c - 6c 5c - - - Tc - - - - 19.6375
+Ac 5c - - - - - - 6c 7c Tc - - 19.9044
+Ac 6c - 5c - - - - 7c Tc - - - 20.0588
+Tc Ac - - - - - - 5c 6c 7c - - 23.25
+Ac - - 5c - - - - 6c 7c Tc - - 27.2531
+
+4c 6c 7c Ac Tc 
+Ac 4c - - - - - - 6c 7c Tc - - 19.8994
+Ac 6c - 7c 4c - - - Tc - - - - 20.5794
+Tc Ac - 6c 4c - - - 7c - - - - 20.9662
+Ac 7c - 6c 4c - - - Tc - - - - 21.0387
+Ac - - Tc - - - - 4c 6c 7c - - 26.2894
+
+3c 6c 7c Ac Tc 
+Ac 3c - 6c - - - - 7c Tc - - - 20.8656
+Ac 7c - 6c 3c - - - Tc - - - - 21.055
+Ac 6c - 7c 3c - - - Tc - - - - 21.4119
+Tc Ac - 3c - - - - 6c 7c - - - 21.5413
+Ac - - 6c 3c - - - 7c Tc - - - 25.2731
+
+2c 6c 7c Ac Tc 
+Ac 2c - 7c 6c - - - Tc - - - - 21.1031
+Ac 6c - 7c 2c - - - Tc - - - - 21.1319
+Tc Ac - 2c - - - - 6c 7c - - - 21.7687
+Ac 7c - 6c 2c - - - Tc - - - - 21.8025
+Ac - - 2c - - - - 6c 7c Tc - - 25.1831
+
+4c 5c 7c Ac Tc 
+Ac 7c - 5c 4c - - - Tc - - - - 20.165
+Ac 5c - 7c 4c - - - Tc - - - - 20.5794
+Tc Ac - - - - - - 4c 5c 7c - - 20.8381
+Ac 4c - 5c - - - - 7c Tc - - - 21.2406
+Ac - - Tc - - - - 4c 5c 7c - - 25.4775
+
+3c 5c 7c Ac Tc 
+Ac 7c - 5c 3c - - - Tc - - - - 20.8137
+Ac 3c - 7c 5c - - - Tc - - - - 20.9575
+Tc Ac - 5c 3c - - - 7c - - - - 21.0588
+Ac 5c - 3c - - - - 7c Tc - - - 21.1838
+Ac - - 5c 3c - - - 7c Tc - - - 25.2731
+
+2c 5c 7c Ac Tc 
+Ac 5c - 7c 2c - - - Tc - - - - 20.72
+Tc Ac - 2c - - - - 5c 7c - - - 20.9619
+Ac 2c - 5c - - - - 7c Tc - - - 20.9906
+Ac 7c - 5c 2c - - - Tc - - - - 21.4969
+Ac - - 5c 2c - - - 7c Tc - - - 24.8269
+
+3c 4c 7c Ac Tc 
+Ac 4c - 3c - - - - 7c Tc - - - 19.9369
+Tc Ac - 4c 3c - - - 7c - - - - 20.3756
+Ac 7c - 4c 3c - - - Tc - - - - 21.8225
+Ac 3c - 4c - - - - 7c Tc - - - 22.1119
+Ac - - 4c 3c - - - 7c Tc - - - 26.245
+
+2c 4c 7c Ac Tc 
+Ac 4c - 7c 2c - - - Tc - - - - 20.8275
+Tc Ac - 4c 2c - - - 7c - - - - 20.9981
+Ac 7c - 4c 2c - - - Tc - - - - 21.305
+Ac 2c - 4c - - - - 7c Tc - - - 21.3237
+Ac - - 4c 2c - - - 7c Tc - - - 25.4106
+
+2c 3c 7c Ac Tc 
+Ac 3c - 7c 2c - - - Tc - - - - 20.7325
+Ac 2c - 3c - - - - 7c Tc - - - 22.24
+Ac 7c - 3c 2c - - - Tc - - - - 22.7425
+Tc Ac - 3c 2c - - - 7c - - - - 22.7931
+Ac - - 3c 2c - - - 7c Tc - - - 24.3856
+
+4c 5c 6c Ac Tc 
+Tc Ac - - - - - - 4c 5c 6c - - 20.55
+Ac 5c - 6c 4c - - - Tc - - - - 20.5525
+Ac 4c - 5c - - - - 6c Tc - - - 20.6431
+Ac 6c - 5c 4c - - - Tc - - - - 20.835
+Ac - - Tc - - - - 4c 5c 6c - - 26.0688
+
+3c 5c 6c Ac Tc 
+Ac 3c - 5c - - - - 6c Tc - - - 20.28
+Ac 6c - 5c 3c - - - Tc - - - - 20.5956
+Ac 5c - 6c 3c - - - Tc - - - - 20.6269
+Tc Ac - 3c - - - - 5c 6c - - - 22.0912
+Ac - - Tc - - - - 3c 5c 6c - - 26.2206
+
+2c 5c 6c Ac Tc 
+Ac 2c - 6c 5c - - - Tc - - - - 20.2625
+Ac 5c - 2c - - - - 6c Tc - - - 20.3294
+Tc Ac - 2c - - - - 5c 6c - - - 21.4956
+Ac 6c - 5c 2c - - - Tc - - - - 21.9881
+Ac - - Tc 2c - - - 5c 6c - - - 24.6506
+
+3c 4c 6c Ac Tc 
+Tc Ac - - - - - - 3c 4c 6c - - 20.5531
+Ac 4c - 6c 3c - - - Tc - - - - 21.4444
+Ac 6c - 4c 3c - - - Tc - - - - 22.0088
+Ac 3c - 6c 4c - - - Tc - - - - 22.8406
+Ac - - 6c 4c 3c - - Tc - - - - 25.2537
+
+2c 4c 6c Ac Tc 
+Tc Ac - 4c 2c - - - 6c - - - - 20.0919
+Ac 2c - 4c - - - - 6c Tc - - - 21.0269
+Ac 4c - 6c 2c - - - Tc - - - - 21.8481
+Ac 6c - 4c 2c - - - Tc - - - - 21.9381
+Ac - - 4c - - - - 2c 6c Tc - - 24.5462
+
+2c 3c 6c Ac Tc 
+Ac 6c - 3c 2c - - - Tc - - - - 20.89
+Ac 2c - 6c 3c - - - Tc - - - - 20.9438
+Ac 3c - 6c 2c - - - Tc - - - - 21.4137
+Tc Ac - 3c 2c - - - 6c - - - - 21.9963
+Ac - - 3c 2c - - - 6c Tc - - - 25.3719
+
+3c 4c 5c Ac Tc 
+Tc Ac - - - - - - 3c 4c 5c - - 20.6213
+Ac 5c - 4c 3c - - - Tc - - - - 21.5263
+Ac 3c - 5c 4c - - - Tc - - - - 21.7931
+Ac 4c - 5c 3c - - - Tc - - - - 22.1906
+Ac - - Tc - - - - 3c 4c 5c - - 24.8031
+
+2c 4c 5c Ac Tc 
+Tc Ac - 2c - - - - 4c 5c - - - 20.34
+Ac 2c - 5c 4c - - - Tc - - - - 21.1238
+Ac 5c - 4c 2c - - - Tc - - - - 21.7612
+Ac 4c - 5c 2c - - - Tc - - - - 21.8725
+Ac - - 5c 4c 2c - - Tc - - - - 24.8638
+
+2c 3c 5c Ac Tc 
+Tc Ac - 3c 2c - - - 5c - - - - 20.6087
+Ac 2c - 5c 3c - - - Tc - - - - 21.9975
+Ac 5c - 3c 2c - - - Tc - - - - 22.2362
+Ac 3c - 5c 2c - - - Tc - - - - 22.3638
+Ac - - 5c 3c 2c - - Tc - - - - 24.6081
+
+2c 3c 4c Ac Tc 
+Tc Ac - 3c 2c - - - 4c - - - - 20.1725
+Ac 2c - 4c 3c - - - Tc - - - - 21.1562
+Ac 4c - 3c 2c - - - Tc - - - - 21.6038
+Ac 3c - 4c 2c - - - Tc - - - - 21.83
+Ac - - 4c 3c 2c - - Tc - - - - 25.3494
+
+6c 7c 8c 9c Ac 
+Ac 8c - - - - - - 6c 7c 9c - - 21.4869
+Ac 7c - 6c - - - - 8c 9c - - - 21.9937
+Ac 6c - - - - - - 7c 8c 9c - - 22.7444
+Ac 9c - - - - - - 6c 7c 8c - - 22.9788
+Ac - - - - - - - 6c 7c 8c 9c - 27.8088
+
+5c 7c 8c 9c Ac 
+Ac 9c - 7c 5c - - - 8c - - - - 20.1588
+Ac 8c - 5c - - - - 7c 9c - - - 20.1787
+Ac 7c - 5c - - - - 8c 9c - - - 20.5531
+Ac 5c - - - - - - 7c 8c 9c - - 21.0819
+Ac - - 5c - - - - 7c 8c 9c - - 27.3738
+
+4c 7c 8c 9c Ac 
+Ac 8c - 4c - - - - 7c 9c - - - 21.3162
+Ac 7c - 4c - - - - 8c 9c - - - 21.42
+Ac 4c - - - - - - 7c 8c 9c - - 22.1569
+Ac 9c - 4c - - - - 7c 8c - - - 22.305
+Ac - - 4c - - - - 7c 8c 9c - - 28.2019
+
+3c 7c 8c 9c Ac 
+Ac 8c - 3c - - - - 7c 9c - - - 20.7869
+Ac 3c - - - - - - 7c 8c 9c - - 20.8631
+Ac 9c - 3c - - - - 7c 8c - - - 21.17
+Ac 7c - 3c - - - - 8c 9c - - - 22.0312
+Ac - - 3c - - - - 7c 8c 9c - - 27.4619
+
+2c 7c 8c 9c Ac 
+Ac 2c - 7c - - - - 8c 9c - - - 20.6981
+Ac 8c - 2c - - - - 7c 9c - - - 21.7994
+Ac 9c - 2c - - - - 7c 8c - - - 21.9519
+Ac 7c - 2c - - - - 8c 9c - - - 22.7294
+Ac - - 2c - - - - 7c 8c 9c - - 28.2106
+
+5c 6c 8c 9c Ac 
+Ac 9c - 8c - - - - 5c 6c - - - 20.4713
+Ac 8c - 6c 5c - - - 9c - - - - 20.9531
+Ac 5c - 6c - - - - 8c 9c - - - 22.2075
+Ac 6c - 5c - - - - 8c 9c - - - 22.5481
+Ac - - - - - - - 5c 6c 8c 9c - 26.8288
+
+4c 6c 8c 9c Ac 
+Ac 8c - 6c 4c - - - 9c - - - - 20.1631
+Ac 9c - 4c - - - - 6c 8c - - - 20.8625
+Ac 4c - 6c - - - - 8c 9c - - - 21.0812
+Ac 6c - 4c - - - - 8c 9c - - - 21.1437
+Ac - - 4c - - - - 6c 8c 9c - - 25.9006
+
+3c 6c 8c 9c Ac 
+Ac 9c - 3c - - - - 6c 8c - - - 20.2412
+Ac 3c - - - - - - 6c 8c 9c - - 20.5356
+Ac 6c - 3c - - - - 8c 9c - - - 21.6481
+Ac 8c - 6c 3c - - - 9c - - - - 21.7019
+Ac - - 3c - - - - 6c 8c 9c - - 26.0756
+
+2c 6c 8c 9c Ac 
+Ac 8c - 6c 2c - - - 9c - - - - 21.2262
+Ac 2c - - - - - - 6c 8c 9c - - 21.4369
+Ac 9c - 2c - - - - 6c 8c - - - 21.87
+Ac 6c - 2c - - - - 8c 9c - - - 22.1625
+Ac - - 6c 2c - - - 8c 9c - - - 26.8706
+
+4c 5c 8c 9c Ac 
+Ac 9c - - - - - - 4c 5c 8c - - 19.8656
+Ac 4c - 5c - - - - 8c 9c - - - 20.9675
+Ac 8c - 5c 4c - - - 9c - - - - 21.4244
+Ac 5c - 4c - - - - 8c 9c - - - 21.7537
+Ac - - 4c - - - - 5c 8c 9c - - 25.3337
+
+3c 5c 8c 9c Ac 
+Ac 8c - 5c 3c - - - 9c - - - - 20.6406
+Ac 9c - 5c 3c - - - 8c - - - - 21.2325
+Ac 3c - 5c - - - - 8c 9c - - - 21.5413
+Ac 5c - 3c - - - - 8c 9c - - - 21.8525
+Ac - - 5c 3c - - - 8c 9c - - - 26.3475
+
+2c 5c 8c 9c Ac 
+Ac 9c - 8c 2c - - - 5c - - - - 19.8575
+Ac 8c - 2c - - - - 5c 9c - - - 20.4956
+Ac 5c - 2c - - - - 8c 9c - - - 21.57
+Ac 2c - 5c - - - - 8c 9c - - - 21.8587
+Ac - - 2c - - - - 5c 8c 9c - - 26.1119
+
+3c 4c 8c 9c Ac 
+Ac 9c - 4c 3c - - - 8c - - - - 20.795
+Ac 4c - 3c - - - - 8c 9c - - - 22.2394
+Ac 8c - 4c 3c - - - 9c - - - - 22.3175
+Ac 3c - 8c 4c - - - 9c - - - - 22.5075
+Ac - - 4c 3c - - - 8c 9c - - - 25.1494
+
+2c 4c 8c 9c Ac 
+Ac 8c - 4c 2c - - - 9c - - - - 21.1437
+Ac 9c - 4c 2c - - - 8c - - - - 21.3625
+Ac 2c - 4c - - - - 8c 9c - - - 21.6313
+Ac 4c - 2c - - - - 8c 9c - - - 22.5775
+Ac - - 4c 2c - - - 8c 9c - - - 27.0356
+
+2c 3c 8c 9c Ac 
+Ac 9c - 3c 2c - - - 8c - - - - 20.045
+Ac 2c - 3c - - - - 8c 9c - - - 21.0706
+Ac 3c - 2c - - - - 8c 9c - - - 22.4869
+Ac 8c - 3c 2c - - - 9c - - - - 22.625
+Ac - - 3c 2c - - - 8c 9c - - - 26.8781
+
+5c 6c 7c 9c Ac 
+Ac 9c - - - - - - 5c 6c 7c - - 20.015
+Ac 6c - 5c - - - - 7c 9c - - - 20.4194
+Ac 7c - 6c 5c - - - 9c - - - - 20.755
+Ac 5c - 6c - - - - 7c 9c - - - 21.0888
+Ac - - 5c - - - - 6c 7c 9c - - 26.2188
+
+4c 6c 7c 9c Ac 
+Ac 4c - - - - - - 6c 7c 9c - - 20.2512
+Ac 6c - 4c - - - - 7c 9c - - - 20.875
+Ac 9c - 4c - - - - 6c 7c - - - 21.47
+Ac 7c - 4c - - - - 6c 9c - - - 21.4888
+Ac - - 4c - - - - 6c 7c 9c - - 26.4
+
+3c 6c 7c 9c Ac 
+Ac 3c - 6c - - - - 7c 9c - - - 20.4356
+Ac 7c - 6c 3c - - - 9c - - - - 21.025
+Ac 9c - 6c 3c - - - 7c - - - - 21.13
+Ac 6c - 3c - - - - 7c 9c - - - 22.0375
+Ac - - 6c 3c - - - 7c 9c - - - 26.5481
+
+2c 6c 7c 9c Ac 
+Ac 2c - - - - - - 6c 7c 9c - - 20.7581
+Ac 6c - 2c - - - - 7c 9c - - - 20.8169
+Ac 7c - 6c 2c - - - 9c - - - - 21.7469
+Ac 9c - 2c - - - - 6c 7c - - - 22.5344
+Ac - - 2c - - - - 6c 7c 9c - - 26.0744
+
+4c 5c 7c 9c Ac 
+Ac 4c - 7c 5c - - - 9c - - - - 19.5875
+Ac 9c - - - - - - 4c 5c 7c - - 20.24
+Ac 7c - 5c 4c - - - 9c - - - - 20.6756
+Ac 5c - 4c - - - - 7c 9c - - - 22.19
+Ac - - 9c - - - - 4c 5c 7c - - 26.305
+
+3c 5c 7c 9c Ac 
+Ac 7c - 5c 3c - - - 9c - - - - 20.625
+Ac 5c - 3c - - - - 7c 9c - - - 20.8344
+Ac 9c - 5c 3c - - - 7c - - - - 21.1675
+Ac 3c - 5c - - - - 7c 9c - - - 21.2188
+Ac - - 5c 3c - - - 7c 9c - - - 26.3131
+
+2c 5c 7c 9c Ac 
+Ac 2c - 9c 5c - - - 7c - - - - 19.9062
+Ac 9c - 2c - - - - 5c 7c - - - 20.4194
+Ac 7c - 2c - - - - 5c 9c - - - 21.2362
+Ac 5c - 7c 2c - - - 9c - - - - 21.3744
+Ac - - 2c - - - - 5c 7c 9c - - 26.5037
+
+3c 4c 7c 9c Ac 
+Ac 9c - 4c 3c - - - 7c - - - - 20.9312
+Ac 4c - 3c - - - - 7c 9c - - - 21.275
+Ac 7c - 4c 3c - - - 9c - - - - 21.36
+Ac 3c - 4c - - - - 7c 9c - - - 23.0575
+Ac - - 4c 3c - - - 7c 9c - - - 24.5125
+
+2c 4c 7c 9c Ac 
+Ac 4c - 2c - - - - 7c 9c - - - 20.9175
+Ac 7c - 4c 2c - - - 9c - - - - 21.1169
+Ac 9c - 4c 2c - - - 7c - - - - 22.0175
+Ac 2c - 4c - - - - 7c 9c - - - 22.2206
+Ac - - 7c 4c 2c - - 9c - - - - 24.6756
+
+2c 3c 7c 9c Ac 
+Ac 2c - 7c 3c - - - 9c - - - - 20.4431
+Ac 9c - 3c 2c - - - 7c - - - - 20.9419
+Ac 3c - 2c - - - - 7c 9c - - - 22.0362
+Ac 7c - 3c 2c - - - 9c - - - - 23.6269
+Ac - - 3c 2c - - - 7c 9c - - - 26.1987
+
+4c 5c 6c 9c Ac 
+Ac 4c - 6c 5c - - - 9c - - - - 20.065
+Ac 6c - 5c 4c - - - 9c - - - - 21.4931
+Ac 9c - - - - - - 4c 5c 6c - - 22.075
+Ac 5c - 4c - - - - 6c 9c - - - 23.1519
+Ac - - 9c - - - - 4c 5c 6c - - 27.6238
+
+3c 5c 6c 9c Ac 
+Ac 9c - 3c - - - - 5c 6c - - - 20.5963
+Ac 6c - 5c 3c - - - 9c - - - - 20.6219
+Ac 3c - 6c 5c - - - 9c - - - - 20.6556
+Ac 5c - 6c 3c - - - 9c - - - - 20.8869
+Ac - - 3c - - - - 5c 6c 9c - - 25.8862
+
+2c 5c 6c 9c Ac 
+Ac 5c - 6c 2c - - - 9c - - - - 20.675
+Ac 9c - 2c - - - - 5c 6c - - - 20.7962
+Ac 2c - 5c - - - - 6c 9c - - - 21.0969
+Ac 6c - 5c 2c - - - 9c - - - - 21.7844
+Ac - - 5c 2c - - - 6c 9c - - - 26.3019
+
+3c 4c 6c 9c Ac 
+Ac 9c - 4c 3c - - - 6c - - - - 20.2563
+Ac 3c - 4c - - - - 6c 9c - - - 20.6244
+Ac 4c - 6c 3c - - - 9c - - - - 21.3125
+Ac 6c - 4c 3c - - - 9c - - - - 21.7181
+Ac - - 4c 3c - - - 6c 9c - - - 26.2913
+
+2c 4c 6c 9c Ac 
+Ac 9c - 2c - - - - 4c 6c - - - 20.7763
+Ac 4c - 6c 2c - - - 9c - - - - 21.2256
+Ac 6c - 4c 2c - - - 9c - - - - 21.5169
+Ac 2c - 6c 4c - - - 9c - - - - 21.9112
+Ac - - 4c 2c - - - 6c 9c - - - 24.78
+
+2c 3c 6c 9c Ac 
+Ac 9c - 3c 2c - - - 6c - - - - 20.8312
+Ac 2c - 6c 3c - - - 9c - - - - 21.2531
+Ac 3c - 6c 2c - - - 9c - - - - 21.2887
+Ac 6c - 3c 2c - - - 9c - - - - 22.36
+Ac - - 3c 2c - - - 6c 9c - - - 25.2719
+
+3c 4c 5c 9c Ac 
+Ac 5c - 4c 3c - - - 9c - - - - 19.5219
+Ac 9c - 4c 3c - - - 5c - - - - 20.1388
+Ac 4c - 5c 3c - - - 9c - - - - 20.8619
+Ac 3c - 5c 4c - - - 9c - - - - 21.2356
+Ac - - 9c - - - - 3c 4c 5c - - 25.2406
+
+2c 4c 5c 9c Ac 
+Ac 9c - 4c 2c - - - 5c - - - - 20.9375
+Ac 5c - 4c 2c - - - 9c - - - - 21.1356
+Ac 2c - 5c 4c - - - 9c - - - - 21.9231
+Ac 4c - 5c 2c - - - 9c - - - - 22.1612
+Ac - - 5c 4c 2c - - 9c - - - - 24.6963
+
+2c 3c 5c 9c Ac 
+Ac 3c - 5c 2c - - - 9c - - - - 19.8331
+Ac 2c - 5c 3c - - - 9c - - - - 20.5387
+Ac 9c - 3c 2c - - - 5c - - - - 22.2463
+Ac 5c - 3c 2c - - - 9c - - - - 22.2606
+Ac - - 5c 3c 2c - - 9c - - - - 25.04
+
+3d 6c Jd Kc Th 
+Jd - - Th 3d - - - 6c Kc - - - 7.55
+Th - - Jd 3d - - - 6c Kc - - - 7.76875
+- - - 6c 3d - - - Jd Kc Th - - 7.92312
+6c - - Kc 3d - - - Jd Th - - - 8.12938
+Kc - - 6c 3d - - - Jd Th - - - 8.66187
+
+3d 6c 9h Jd Kc 
+6c - - Jd 9h 3d - - Kc - - - - 7.44063
+Jd - - 6c 3d - - - 9h Kc - - - 7.51125
+9h - - Jd 3d - - - 6c Kc - - - 7.88938
+- - - Jd 9h 3d - - 6c Kc - - - 8.35
+Kc - - 6c 3d - - - 9h Jd - - - 9.22313
+
+3d 6c 8h Jd Kc 
+3d - - 8h 6c - - - Jd Kc - - - 6.89687
+Jd - - 8h 3d - - - 6c Kc - - - 7.56063
+8h - - Jd 3d - - - 6c Kc - - - 7.62437
+- - - 6c 3d - - - 8h Jd Kc - - 8.095
+Kc - - 6c 3d - - - 8h Jd - - - 9.07563
+
+3d 6c 7h Jd Kc 
+3d - - 7h 6c - - - Jd Kc - - - 7.14313
+7h - - Jd 3d - - - 6c Kc - - - 7.52
+Jd - - 7h 3d - - - 6c Kc - - - 7.80688
+- - - Kc Jd 3d - - 6c 7h - - - 8.95813
+Kc - - 6c 3d - - - 7h Jd - - - 9.05188
+
+3d 6c 6h Jd Kc 
+6h - - Jd 3d - - - 6c Kc - - - 7.69125
+3d - - Kc Jd - - - 6c 6h - - - 8.36438
+- - - Kc Jd 3d - - 6c 6h - - - 10.3069
+Jd - - Kc 3d - - - 6c 6h - - - 10.98
+Kc - - 6h 6c - - - 3d Jd - - - 11.1219
+
+3d 5h 6c Jd Kc 
+3d - - 6c 5h - - - Jd Kc - - - 7.33187
+5h - - Jd 3d - - - 6c Kc - - - 7.55062
+Jd - - 5h 3d - - - 6c Kc - - - 8.76188
+Kc - - 6c 5h - - - 3d Jd - - - 9.36625
+- - - Jd 5h 3d - - 6c Kc - - - 9.39563
+
+3d 4h 6c Jd Kc 
+4h - - 6c 3d - - - Jd Kc - - - 7.5225
+6c - - 4h 3d - - - Jd Kc - - - 7.64187
+Jd - - 4h 3d - - - 6c Kc - - - 8.3375
+Kc - - 6c 4h - - - 3d Jd - - - 9.25937
+- - - 6c 4h 3d - - Jd Kc - - - 9.28563
+
+3d 3h 6c Jd Kc 
+3h - - Jd 3d - - - 6c Kc - - - 7.7775
+Jd - - 3h 3d - - - 6c Kc - - - 9.74813
+6c - - 3h 3d - - - Jd Kc - - - 9.88562
+- - - Jd 3h 3d - - 6c Kc - - - 10.1844
+Kc - - 6c 3h 3d - - Jd - - - - 10.8638
+
+2h 3d 6c Jd Kc 
+6c - - Kc 2h - - - 3d Jd - - - 7.2975
+3d - - 6c 2h - - - Jd Kc - - - 7.35813
+Jd - - 3d 2h - - - 6c Kc - - - 7.5225
+Kc - - 6c 2h - - - 3d Jd - - - 8.21625
+- - - 6c 3d 2h - - Jd Kc - - - 8.85063
+
+2d 6c Ah Jd Kc 
+Kc Ah - 6c 2d - - - Jd - - - - 21.6238
+Jd Ah - 6c 2d - - - Kc - - - - 21.6775
+Ah 2d - 6c - - - - Jd Kc - - - 21.88
+Ah 6c - 2d - - - - Jd Kc - - - 22.42
+Ah - - 6c 2d - - - Jd Kc - - - 26.0131
+
+2d 6c Jd Kc Kh 
+Kc - - 6c 2d - - - Jd Kh - - - 7.85125
+2d - - Jd 6c - - - Kc Kh - - - 10.7231
+Jd - - 6c 2d - - - Kc Kh - - - 10.9062
+- - - Jd 6c 2d - - Kc Kh - - - 11.2944
+6c - - Jd 2d - - - Kc Kh - - - 11.7575
+
+2d 6c Jd Kc Qh 
+2d - - 6c - - - - Jd Kc Qh - - 7.78
+Qh - - Kc 6c - - - 2d Jd - - - 8.36875
+- - - 6c 2d - - - Jd Kc Qh - - 8.42
+Jd - - Qh 2d - - - 6c Kc - - - 8.80125
+Kc - - 6c 2d - - - Jd Qh - - - 8.92813
+
+2d 6c Jd Jh Kc 
+Jd - - 6c 2d - - - Jh Kc - - - 7.625
+6c - - Kc 2d - - - Jd Jh - - - 9.645
+2d - - Kc 6c - - - Jd Jh - - - 9.85375
+- - - Kc 6c 2d - - Jd Jh - - - 10.9369
+Kc - - 6c 2d - - - Jd Jh - - - 13.2413
+
+2d 6c Jd Kc Th 
+6c - - Kc 2d - - - Jd Th - - - 7.29437
+Th - - Jd 2d - - - 6c Kc - - - 7.4325
+Jd - - Kc 2d - - - 6c Th - - - 7.47062
+- - - 6c 2d - - - Jd Kc Th - - 8.51062
+Kc - - 6c 2d - - - Jd Th - - - 8.65
+
+2d 6c 9h Jd Kc 
+6c - - 2d - - - - 9h Jd Kc - - 7.38375
+Jd - - Kc 2d - - - 6c 9h - - - 7.52375
+9h - - Jd 2d - - - 6c Kc - - - 7.57812
+- - - 6c 2d - - - 9h Jd Kc - - 8.31125
+Kc - - 6c 2d - - - 9h Jd - - - 9.53375
+
+2d 6c 8h Jd Kc 
+2d - - 8h 6c - - - Jd Kc - - - 7.6
+Jd - - 8h 2d - - - 6c Kc - - - 7.72875
+- - - 8h 6c 2d - - Jd Kc - - - 8.0775
+Kc - - 6c 2d - - - 8h Jd - - - 8.10875
+8h - - Jd 2d - - - 6c Kc - - - 8.37062
+
+2d 6c 7h Jd Kc 
+6c - - 7h 2d - - - Jd Kc - - - 7.39625
+Jd - - 7h 2d - - - 6c Kc - - - 7.74875
+7h - - Jd 2d - - - 6c Kc - - - 7.75875
+- - - Jd 7h 2d - - 6c Kc - - - 7.95
+Kc - - Jd 2d - - - 6c 7h - - - 8.86063
+
+2d 6c 6h Jd Kc 
+6h - - Jd 2d - - - 6c Kc - - - 7.04313
+2d - - Kc Jd - - - 6c 6h - - - 8.47375
+Jd - - Kc 2d - - - 6c 6h - - - 9.645
+- - - Kc Jd 2d - - 6c 6h - - - 10.2556
+Kc - - Jd 2d - - - 6c 6h - - - 11.5819
+
+2d 5h 6c Jd Kc 
+6c - - 5h 2d - - - Jd Kc - - - 7.575
+5h - - Jd 2d - - - 6c Kc - - - 8
+Jd - - Kc 2d - - - 5h 6c - - - 8.23375
+Kc - - Jd 2d - - - 5h 6c - - - 8.51125
+- - - Jd 5h 2d - - 6c Kc - - - 8.97313
+
+2d 4h 6c Jd Kc 
+4h - - Jd 2d - - - 6c Kc - - - 7.60437
+Jd - - 4h 2d - - - 6c Kc - - - 7.90688
+2d - - 6c 4h - - - Jd Kc - - - 7.91125
+- - - 6c 4h 2d - - Jd Kc - - - 8.31375
+Kc - - 6c 4h - - - 2d Jd - - - 8.52375
+
+2d 3h 6c Jd Kc 
+2d - - Jd 3h - - - 6c Kc - - - 7.35563
+3h - - Jd 2d - - - 6c Kc - - - 7.565
+Kc - - 6c 3h - - - 2d Jd - - - 8.13688
+- - - 6c 3h 2d - - Jd Kc - - - 8.2625
+Jd - - 3h 2d - - - 6c Kc - - - 8.56688
+
+2d 2h 6c Jd Kc 
+2h - - Jd 6c 2d - - Kc - - - - 6.88688
+6c - - Kc 2h 2d - - Jd - - - - 9.235
+Jd - - 2h 2d - - - 6c Kc - - - 9.27
+- - - Jd 2h 2d - - 6c Kc - - - 9.60938
+Kc - - Jd 2h 2d - - 6c - - - - 12.2575
+
+6c 9d Ah Kc Td 
+Ah 9d - 6c - - - - Kc Td - - - 19.6063
+Td Ah - 9d - - - - 6c Kc - - - 20.0231
+Ah 6c - Kc - - - - 9d Td - - - 22.0281
+Kc Ah - 6c - - - - 9d Td - - - 23.355
+Ah - - Kc 6c - - - 9d Td - - - 24.7619
+
+6c 9d Kc Kh Td 
+Kh - - Kc 6c - - - 9d Td - - - 9.12125
+Td - - 9d 6c - - - Kc Kh - - - 11.1088
+9d - - Td 6c - - - Kc Kh - - - 11.1294
+6c - - Td 9d - - - Kc Kh - - - 11.2681
+- - - Td 9d 6c - - Kc Kh - - - 11.8462
+
+6c 9d Kc Qh Td 
+Td - - Qh 9d - - - 6c Kc - - - 7.305
+9d - - Td Qh - - - 6c Kc - - - 7.7625
+- - - Td Qh 9d - - 6c Kc - - - 8.11812
+Qh - - Kc 6c - - - 9d Td - - - 9.17625
+Kc - - Qh 6c - - - 9d Td - - - 9.75313
+
+6c 9d Jh Kc Td 
+6c - - Kc Jh - - - 9d Td - - - 6.995
+Td - - 9d 6c - - - Jh Kc - - - 7.12687
+Kc - - 9d 6c - - - Jh Td - - - 8.62813
+- - - Kc 6c - - - 9d Jh Td - - 9.0325
+Jh - - Kc 6c - - - 9d Td - - - 9.3125
+
+6c 9d Kc Td Th 
+Th - - Kc 6c - - - 9d Td - - - 8.48625
+6c - - Kc 9d - - - Td Th - - - 9.315
+9d - - Kc 6c - - - Td Th - - - 10.4931
+- - - Kc 9d 6c - - Td Th - - - 10.8469
+Kc - - 9d 6c - - - Td Th - - - 12.3656
+
+6c 9d 9h Kc Td 
+9h - - Kc 6c - - - 9d Td - - - 7.59188
+6c - - Td Kc - - - 9d 9h - - - 8.35563
+- - - Td Kc 6c - - 9d 9h - - - 10.1769
+Td - - Kc 6c - - - 9d 9h - - - 10.4281
+Kc - - Td 6c - - - 9d 9h - - - 11.435
+
+6c 8h 9d Kc Td 
+8h - - 9d 6c - - - Kc Td - - - 7.19
+Td - - Kc 6c - - - 8h 9d - - - 7.68125
+6c - - Kc 8h - - - 9d Td - - - 8.27
+- - - Kc 8h 6c - - 9d Td - - - 8.82187
+Kc - - 8h 6c - - - 9d Td - - - 10.0312
+
+6c 7h 9d Kc Td 
+6c - - Kc 7h - - - 9d Td - - - 7.29875
+9d - - Td 7h - - - 6c Kc - - - 7.305
+7h - - Kc 6c - - - 9d Td - - - 8.865
+- - - Kc 7h 6c - - 9d Td - - - 9.11687
+Kc - - 7h 6c - - - 9d Td - - - 10.3475
+
+6c 6h 9d Kc Td 
+6c - - Kc 6h - - - 9d Td - - - 8.47937
+Td - - Kc 9d - - - 6c 6h - - - 9.1425
+9d - - Td - - - - 6c 6h Kc - - 9.345
+- - - Kc 6h 6c - - 9d Td - - - 9.81125
+Kc - - 6h 6c - - - 9d Td - - - 13.62
+
+5h 6c 9d Kc Td 
+6c - - Kc 5h - - - 9d Td - - - 8.00688
+Td - - 9d 5h - - - 6c Kc - - - 8.66875
+5h - - Kc 6c - - - 9d Td - - - 9.08937
+- - - Kc 6c 5h - - 9d Td - - - 9.6725
+Kc - - 6c 5h - - - 9d Td - - - 10.0519
+
+4h 6c 9d Kc Td 
+4h - - Kc 6c - - - 9d Td - - - 7.86688
+9d - - Td 4h - - - 6c Kc - - - 8.00187
+6c - - Kc 4h - - - 9d Td - - - 9.00438
+- - - Kc 6c 4h - - 9d Td - - - 9.58937
+Kc - - 6c 4h - - - 9d Td - - - 10.6519
+
+3h 6c 9d Kc Td 
+Td - - 9d 3h - - - 6c Kc - - - 7.6575
+9d - - Td 3h - - - 6c Kc - - - 8.05375
+6c - - Kc 3h - - - 9d Td - - - 8.7125
+- - - Kc 6c 3h - - 9d Td - - - 9.3775
+Kc - - 6c 3h - - - 9d Td - - - 10.4881
+
+2h 6c 9d Kc Td 
+Td - - 6c 2h - - - 9d Kc - - - 7.95625
+2h - - Kc 6c - - - 9d Td - - - 8.50438
+6c - - Kc 2h - - - 9d Td - - - 8.92188
+- - - Kc 6c 2h - - 9d Td - - - 9.19
+Kc - - 6c 2h - - - 9d Td - - - 10.5494
+
+6c 8d Ah Kc Td 
+Td Ah - 8d 6c - - - Kc - - - - 20.1987
+Ah 6c - Kc - - - - 8d Td - - - 21.0194
+Ah 8d - 6c - - - - Kc Td - - - 21.3638
+Kc Ah - 6c - - - - 8d Td - - - 23.3506
+Ah - - Kc 6c - - - 8d Td - - - 24.4106
+
+6c 8d Kc Kh Td 
+Kc - - Kh 6c - - - 8d Td - - - 8.97937
+- - - Td 8d 6c - - Kc Kh - - - 10.5219
+6c - - Td 8d - - - Kc Kh - - - 10.9781
+Td - - 8d 6c - - - Kc Kh - - - 11.2013
+8d - - Td 6c - - - Kc Kh - - - 11.3706
+
+6c 8d Kc Qh Td 
+Td - - Qh 8d - - - 6c Kc - - - 7.34937
+8d - - Td Qh - - - 6c Kc - - - 7.36375
+Kc - - Qh 6c - - - 8d Td - - - 8.96625
+Qh - - Kc 6c - - - 8d Td - - - 9.065
+- - - 8d 6c - - - Kc Qh Td - - 9.09375
+
+6c 8d Jh Kc Td 
+8d - - Td Jh - - - 6c Kc - - - 7.05
+Td - - Jh 8d - - - 6c Kc - - - 7.34562
+Jh - - Td 8d - - - 6c Kc - - - 7.80312
+- - - Kc 6c - - - 8d Jh Td - - 8.63937
+Kc - - Jh 6c - - - 8d Td - - - 8.88437
+
+6c 8d Kc Td Th 
+Th - - Kc 6c - - - 8d Td - - - 8.03187
+6c - - Kc 8d - - - Td Th - - - 9.23875
+8d - - Kc 6c - - - Td Th - - - 10.1237
+- - - Kc 8d 6c - - Td Th - - - 10.6881
+Kc - - 8d 6c - - - Td Th - - - 11.7681
+
+6c 8d 9h Kc Td 
+Td - - 9h 8d - - - 6c Kc - - - 7.43313
+8d - - 9h 6c - - - Kc Td - - - 7.7575
+- - - Kc 6c - - - 8d 9h Td - - 8.25
+9h - - Kc 6c - - - 8d Td - - - 8.61187
+Kc - - 9h 6c - - - 8d Td - - - 9.595
+
+6c 8d 8h Kc Td 
+8h - - Kc 6c - - - 8d Td - - - 7.99
+6c - - Kc - - - - 8d 8h Td - - 8.79688
+- - - Td Kc - - - 6c 8d 8h - - 9.56688
+Td - - Kc 6c - - - 8d 8h - - - 10.015
+Kc - - 6c - - - - 8d 8h Td - - 10.735
+
+6c 7h 8d Kc Td 
+6c - - 8d 7h - - - Kc Td - - - 7.4225
+8d - - 7h 6c - - - Kc Td - - - 7.45
+7h - - Td 8d - - - 6c Kc - - - 8.42188
+- - - Kc 7h 6c - - 8d Td - - - 8.72937
+Kc - - 7h 6c - - - 8d Td - - - 10.18
+
+6c 6h 8d Kc Td 
+6h - - Kc 6c - - - 8d Td - - - 7.44938
+8d - - Td Kc - - - 6c 6h - - - 8.83438
+Td - - Kc 8d - - - 6c 6h - - - 8.97313
+- - - Kc 6h 6c - - 8d Td - - - 9.815
+Kc - - 6h 6c - - - 8d Td - - - 13.7781
+
+5h 6c 8d Kc Td 
+6c - - Kc 5h - - - 8d Td - - - 7.77187
+5h - - Td 8d - - - 6c Kc - - - 7.86875
+8d - - Td 5h - - - 6c Kc - - - 7.91125
+- - - Kc 6c 5h - - 8d Td - - - 8.5825
+Kc - - 6c 5h - - - 8d Td - - - 11.2406
+
+4h 6c 8d Kc Td 
+6c - - Kc 4h - - - 8d Td - - - 7.7425
+4h - - Kc 6c - - - 8d Td - - - 8.1075
+8d - - 6c 4h - - - Kc Td - - - 8.33687
+- - - Kc 6c 4h - - 8d Td - - - 8.50187
+Kc - - 6c 4h - - - 8d Td - - - 9.99187
+
+3h 6c 8d Kc Td 
+3h - - Kc 6c - - - 8d Td - - - 7.58187
+8d - - Td 3h - - - 6c Kc - - - 7.9
+6c - - Kc 3h - - - 8d Td - - - 8.195
+- - - Kc 6c 3h - - 8d Td - - - 8.76
+Kc - - 6c 3h - - - 8d Td - - - 10.4144
+
+2h 6c 8d Kc Td 
+8d - - Td 2h - - - 6c Kc - - - 7.725
+2h - - Kc 6c - - - 8d Td - - - 7.82562
+6c - - Kc 2h - - - 8d Td - - - 9.06875
+Kc - - 6c 2h - - - 8d Td - - - 9.77188
+- - - Kc 6c 2h - - 8d Td - - - 9.83813
+
+6c 7d Ah Kc Td 
+Ah 6c - Kc - - - - 7d Td - - - 20.41
+Td Ah - 7d - - - - 6c Kc - - - 20.7625
+Kc Ah - 6c - - - - 7d Td - - - 21.0519
+Ah 7d - 6c - - - - Kc Td - - - 21.8213
+Ah - - Kc 6c - - - 7d Td - - - 24.5831
+
+6c 7d Kc Kh Td 
+Kh - - Kc 6c - - - 7d Td - - - 8.18875
+6c - - Td 7d - - - Kc Kh - - - 10.3619
+7d - - Td 6c - - - Kc Kh - - - 10.9569
+- - - Td 7d 6c - - Kc Kh - - - 11.145
+Td - - 7d 6c - - - Kc Kh - - - 11.2706
+
+6c 7d Kc Qh Td 
+6c - - Qh Kc - - - 7d Td - - - 7.44312
+7d - - Td Qh - - - 6c Kc - - - 7.58625
+- - - Kc 7d 6c - - Qh Td - - - 7.93437
+Kc - - Qh 6c - - - 7d Td - - - 7.94312
+Qh - - Kc 6c - - - 7d Td - - - 8.88562
+
+6c 7d Jh Kc Td 
+7d - - 6c - - - - Jh Kc Td - - 7.34812
+Td - - Jh 7d - - - 6c Kc - - - 7.6025
+- - - 7d 6c - - - Jh Kc Td - - 8.46
+Jh - - Kc 6c - - - 7d Td - - - 8.68125
+Kc - - 7d 6c - - - Jh Td - - - 9.81
+
+6c 7d Kc Td Th 
+Th - - 7d 6c - - - Kc Td - - - 7.4025
+6c - - Kc 7d - - - Td Th - - - 9.93062
+- - - Kc 7d 6c - - Td Th - - - 9.99562
+7d - - Kc 6c - - - Td Th - - - 10.1194
+Kc - - 7d 6c - - - Td Th - - - 12.7925
+
+6c 7d 9h Kc Td 
+Td - - 9h 7d - - - 6c Kc - - - 7.5925
+7d - - Td 9h - - - 6c Kc - - - 7.67188
+9h - - Kc 6c - - - 7d Td - - - 7.70188
+- - - 7d 6c - - - 9h Kc Td - - 7.96438
+Kc - - 9h 6c - - - 7d Td - - - 9.12938
+
+6c 7d 8h Kc Td 
+7d - - 8h 6c - - - Kc Td - - - 7.56313
+Td - - Kc - - - - 6c 7d 8h - - 7.61312
+8h - - Kc 6c - - - 7d Td - - - 8.24063
+Kc - - 8h 6c - - - 7d Td - - - 8.69563
+- - - 8h 7d 6c - - Kc Td - - - 8.86
+
+6c 7d 7h Kc Td 
+7h - - Kc 6c - - - 7d Td - - - 8.46688
+6c - - Td - - - - 7d 7h Kc - - 8.58937
+- - - Td Kc 6c - - 7d 7h - - - 9.69125
+Kc - - Td 6c - - - 7d 7h - - - 10.1613
+Td - - Kc 6c - - - 7d 7h - - - 10.9462
+
+6c 6h 7d Kc Td 
+6h - - Td 7d - - - 6c Kc - - - 7.00063
+7d - - Td - - - - 6c 6h Kc - - 8.65063
+Td - - Kc - - - - 6c 6h 7d - - 8.79375
+- - - Kc 6h 6c - - 7d Td - - - 9.79625
+Kc - - 6h 6c - - - 7d Td - - - 13.315
+
+5h 6c 7d Kc Td 
+7d - - 6c 5h - - - Kc Td - - - 7.9225
+6c - - Kc 5h - - - 7d Td - - - 8.04313
+5h - - Kc 6c - - - 7d Td - - - 8.27687
+- - - Kc 6c 5h - - 7d Td - - - 8.96875
+Kc - - 6c 5h - - - 7d Td - - - 9.38562
+
+4h 6c 7d Kc Td 
+7d - - Td 4h - - - 6c Kc - - - 7.98938
+4h - - Kc 6c - - - 7d Td - - - 8.37375
+6c - - Kc 4h - - - 7d Td - - - 8.385
+- - - Kc 6c 4h - - 7d Td - - - 9.01812
+Kc - - 6c 4h - - - 7d Td - - - 9.40125
+
+3h 6c 7d Kc Td 
+7d - - Td 3h - - - 6c Kc - - - 7.37875
+Td - - 7d 3h - - - 6c Kc - - - 7.83625
+6c - - Kc 3h - - - 7d Td - - - 8.15375
+Kc - - 6c 3h - - - 7d Td - - - 9.48125
+- - - Kc 6c 3h - - 7d Td - - - 9.49875
+
+2h 6c 7d Kc Td 
+6c - - Kc 2h - - - 7d Td - - - 7.8025
+7d - - 6c 2h - - - Kc Td - - - 7.8125
+- - - Kc 6c 2h - - 7d Td - - - 8.64062
+Td - - 7d 2h - - - 6c Kc - - - 8.77875
+Kc - - 6c 2h - - - 7d Td - - - 9.77625
+
+6c 6d Ah Kc Td 
+Ah 6c - Td 6d - - - Kc - - - - 19.6863
+Ah 6d - Td - - - - 6c Kc - - - 20.1569
+Td Ah - 6d 6c - - - Kc - - - - 22.58
+Ah - - 6d 6c - - - Kc Td - - - 24.9656
+Kc Ah - 6d 6c - - - Td - - - - 26.6519
+
+6c 6d Kc Kh Td 
+Kh - - Td Kc - - - 6c 6d - - - 9.8
+6c - - Td 6d - - - Kc Kh - - - 10.0206
+6d - - Td 6c - - - Kc Kh - - - 11.0525
+Td - - Kh Kc - - - 6c 6d - - - 12.4762
+- - - Td - - - - 6c 6d Kc Kh - 12.6263
+
+6c 6d Kc Qh Td 
+6d - - Kc 6c - - - Qh Td - - - 6.65438
+Td - - Qh Kc - - - 6c 6d - - - 9.61563
+Qh - - Td Kc - - - 6c 6d - - - 9.70063
+- - - 6d 6c - - - Kc Qh Td - - 10.4738
+Kc - - 6d 6c - - - Qh Td - - - 11.4244
+
+6c 6d Jh Kc Td 
+6d - - Kc 6c - - - Jh Td - - - 6.99312
+Jh - - Td Kc - - - 6c 6d - - - 9.59125
+Td - - Kc Jh - - - 6c 6d - - - 9.89437
+- - - 6d 6c - - - Jh Kc Td - - 10.23
+Kc - - 6d 6c - - - Jh Td - - - 11.1587
+
+6c 6d Kc Td Th 
+Td - - Th Kc - - - 6c 6d - - - 9.14563
+6c - - Kc 6d - - - Td Th - - - 9.21062
+6d - - Kc 6c - - - Td Th - - - 9.62375
+- - - Kc - - - - 6c 6d Td Th - 12.455
+Kc - - 6d 6c - - - Td Th - - - 16.265
+
+6c 6d 9h Kc Td 
+6d - - Kc 6c - - - 9h Td - - - 6.84875
+9h - - Td Kc - - - 6c 6d - - - 8.69563
+Td - - Kc 9h - - - 6c 6d - - - 8.795
+- - - Kc 6d 6c - - 9h Td - - - 9.44625
+Kc - - 6d 6c - - - 9h Td - - - 12.2463
+
+6c 6d 8h Kc Td 
+6d - - Td 8h 6c - - Kc - - - - 6.535
+Td - - Kc - - - - 6c 6d 8h - - 8.36875
+8h - - Td Kc - - - 6c 6d - - - 8.81188
+- - - Kc 8h - - - 6c 6d Td - - 9.43875
+Kc - - 6d 6c - - - 8h Td - - - 10.8519
+
+6c 6d 7h Kc Td 
+6d - - Kc 6c - - - 7h Td - - - 6.6075
+Td - - Kc - - - - 6c 6d 7h - - 8.51812
+7h - - Td Kc - - - 6c 6d - - - 8.82063
+- - - Td Kc 7h - - 6c 6d - - - 9.36938
+Kc - - 6d 6c - - - 7h Td - - - 10.6331
+
+6c 6d 6h Kc Td 
+6h - - Td Kc - - - 6c 6d - - - 7.97625
+Td Kc - - - - - - 6c 6d 6h - - 9.52
+Td - - Kc - - - - 6c 6d 6h - - 15.6862
+- - - Td Kc - - - 6c 6d 6h - - 16.2787
+Kc - - Td - - - - 6c 6d 6h - - 18.5794
+
+5h 6c 6d Kc Td 
+6d - - Td 5h - - - 6c Kc - - - 7.34688
+5h - - Td Kc - - - 6c 6d - - - 8.40187
+Td - - Kc 5h - - - 6c 6d - - - 9.485
+- - - Td 5h - - - 6c 6d Kc - - 9.60125
+Kc - - Td 5h - - - 6c 6d - - - 10.8269
+
+4h 6c 6d Kc Td 
+6d - - Td 4h - - - 6c Kc - - - 7.145
+4h - - Td Kc - - - 6c 6d - - - 8.5875
+Td - - Kc 4h - - - 6c 6d - - - 10.3944
+Kc - - 6d 6c 4h - - Td - - - - 10.4606
+- - - Td Kc 4h - - 6c 6d - - - 10.7006
+
+3h 6c 6d Kc Td 
+6d - - Td 3h - - - 6c Kc - - - 7.6575
+3h - - Td Kc - - - 6c 6d - - - 8.5925
+Kc - - 6d 6c 3h - - Td - - - - 10.5475
+- - - Td Kc 3h - - 6c 6d - - - 10.56
+Td - - Kc 3h - - - 6c 6d - - - 10.7325
+
+2h 6c 6d Kc Td 
+6c - - 6d 2h - - - Kc Td - - - 7.2375
+2h - - Td Kc - - - 6c 6d - - - 8.06063
+Td - - Kc 2h - - - 6c 6d - - - 9.35688
+- - - Td Kc 2h - - 6c 6d - - - 9.45875
+Kc - - 2h - - - - 6c 6d Td - - 10.9731
+
+5d 6c Ah Kc Td 
+Ah 6c - 5d - - - - Kc Td - - - 20.6694
+Td Ah - 6c 5d - - - Kc - - - - 21.6275
+Kc Ah - 6c 5d - - - Td - - - - 21.9338
+Ah 5d - 6c - - - - Kc Td - - - 21.9538
+Ah - - 6c 5d - - - Kc Td - - - 24.7469
+
+5d 6c Kc Kh Td 
+Kc - - 6c 5d - - - Kh Td - - - 7.62125
+5d - - Td 6c - - - Kc Kh - - - 10.9987
+Td - - 6c 5d - - - Kc Kh - - - 11.025
+- - - Td 6c 5d - - Kc Kh - - - 11.0919
+6c - - Td 5d - - - Kc Kh - - - 11.3206
+
+5d 6c Kc Qh Td 
+5d - - Td Qh - - - 6c Kc - - - 7.05125
+Td - - Qh 5d - - - 6c Kc - - - 8.12562
+Kc - - 6c 5d - - - Qh Td - - - 8.44125
+Qh - - Td 5d - - - 6c Kc - - - 8.505
+- - - 6c 5d - - - Kc Qh Td - - 8.63562
+
+5d 6c Jh Kc Td 
+6c - - Td 5d - - - Jh Kc - - - 7.43437
+Jh - - Td 5d - - - 6c Kc - - - 7.52313
+Td - - Jh 5d - - - 6c Kc - - - 7.905
+- - - 6c 5d - - - Jh Kc Td - - 8.48812
+Kc - - 6c 5d - - - Jh Td - - - 8.98625
+
+5d 6c Kc Td Th 
+Td - - Th 5d - - - 6c Kc - - - 7.29812
+6c - - Kc 5d - - - Td Th - - - 9.36312
+5d - - Kc 6c - - - Td Th - - - 9.77625
+- - - Kc 6c 5d - - Td Th - - - 9.96813
+Kc - - 6c 5d - - - Td Th - - - 11.7137
+
+5d 6c 9h Kc Td 
+Td - - 6c 5d - - - 9h Kc - - - 7.40938
+6c - - Kc 5d - - - 9h Td - - - 7.42188
+9h - - Td Kc - - - 5d 6c - - - 7.5425
+- - - 6c 5d - - - 9h Kc Td - - 7.88875
+Kc - - 6c 5d - - - 9h Td - - - 8.925
+
+5d 6c 8h Kc Td 
+6c - - Kc 5d - - - 8h Td - - - 7.06063
+Td - - Kc 6c 5d - - 8h - - - - 7.13438
+8h - - Td 5d - - - 6c Kc - - - 7.55875
+- - - Td Kc - - - 5d 6c 8h - - 7.9325
+Kc - - 8h 6c - - - 5d Td - - - 8.61625
+
+5d 6c 7h Kc Td 
+5d - - Td 7h - - - 6c Kc - - - 7.48938
+7h - - Td 5d - - - 6c Kc - - - 7.74687
+Td - - Kc - - - - 5d 6c 7h - - 7.86
+Kc - - 7h 6c 5d - - Td - - - - 8.91125
+- - - Td Kc - - - 5d 6c 7h - - 9.24375
+
+5d 6c 6h Kc Td 
+6h - - Td 5d - - - 6c Kc - - - 7.08687
+5d - - 6h 6c - - - Kc Td - - - 8.76125
+Td - - Kc 5d - - - 6c 6h - - - 9.01313
+- - - Kc 5d - - - 6c 6h Td - - 10.0063
+Kc - - Td 5d - - - 6c 6h - - - 10.9675
+
+5d 5h 6c Kc Td 
+5h - - Td 5d - - - 6c Kc - - - 6.86688
+6c - - 5h 5d - - - Kc Td - - - 8.44312
+- - - Td 5h 5d - - 6c Kc - - - 9.56938
+Td - - Kc 6c - - - 5d 5h - - - 9.57125
+Kc - - 5h 5d - - - 6c Td - - - 10.9144
+
+4h 5d 6c Kc Td 
+4h - - Td 5d - - - 6c Kc - - - 7.2325
+6c - - 5d 4h - - - Kc Td - - - 7.32125
+Kc - - 6c 4h - - - 5d Td - - - 8.52437
+Td - - 5d 4h - - - 6c Kc - - - 8.58187
+- - - Kc 6c 4h - - 5d Td - - - 8.87125
+
+3h 5d 6c Kc Td 
+3h - - Td 5d - - - 6c Kc - - - 7.10938
+5d - - Td 3h - - - 6c Kc - - - 7.1525
+- - - Td 5d 3h - - 6c Kc - - - 8.24125
+Td - - 5d 3h - - - 6c Kc - - - 8.34188
+Kc - - 6c 5d 3h - - Td - - - - 8.3475
+
+2h 5d 6c Kc Td 
+2h - - Kc 6c - - - 5d Td - - - 7.24563
+5d - - Td 2h - - - 6c Kc - - - 7.77437
+Td - - 5d 2h - - - 6c Kc - - - 8.11187
+- - - Kc 6c 2h - - 5d Td - - - 8.37625
+Kc - - 6c 5d 2h - - Td - - - - 8.50062
+
+4d 6c Ah Kc Td 
+Td Ah - 4d - - - - 6c Kc - - - 20.925
+Ah 6c - 4d - - - - Kc Td - - - 21.6775
+Ah 4d - 6c - - - - Kc Td - - - 22.41
+Kc Ah - 6c 4d - - - Td - - - - 23.5125
+Ah - - 6c 4d - - - Kc Td - - - 24.6456
+
+4d 6c Kc Kh Td 
+Kc - - Kh 6c 4d - - Td - - - - 7.17312
+6c - - Td 4d - - - Kc Kh - - - 10.9019
+Td - - 6c 4d - - - Kc Kh - - - 10.9888
+4d - - Td 6c - - - Kc Kh - - - 11.5819
+- - - Td 6c 4d - - Kc Kh - - - 11.9362
+
+4d 6c Kc Qh Td 
+Td - - Qh 4d - - - 6c Kc - - - 7.43937
+4d - - 6c - - - - Kc Qh Td - - 7.5325
+Qh - - Kc 4d - - - 6c Td - - - 8.2625
+- - - 6c 4d - - - Kc Qh Td - - 9.32438
+Kc - - 6c 4d - - - Qh Td - - - 9.49938
+
+4d 6c Jh Kc Td 
+6c - - Td 4d - - - Jh Kc - - - 7.4975
+Td - - Jh 4d - - - 6c Kc - - - 7.76875
+Jh - - Td 4d - - - 6c Kc - - - 7.92375
+- - - 6c 4d - - - Jh Kc Td - - 8.565
+Kc - - 6c 4d - - - Jh Td - - - 9.22812
+
+4d 6c Kc Td Th 
+Td - - Th 4d - - - 6c Kc - - - 7.3125
+4d - - Kc 6c - - - Td Th - - - 8.8125
+6c - - Kc 4d - - - Td Th - - - 10.47
+- - - Kc 6c 4d - - Td Th - - - 10.8925
+Kc - - 6c 4d - - - Td Th - - - 12.2856
+
+4d 6c 9h Kc Td 
+4d - - Td 9h - - - 6c Kc - - - 7.11875
+Td - - 9h 4d - - - 6c Kc - - - 7.65063
+9h - - Td 6c 4d - - Kc - - - - 7.93062
+- - - 6c 4d - - - 9h Kc Td - - 8.45125
+Kc - - 6c 4d - - - 9h Td - - - 9.9375
+
+4d 6c 8h Kc Td 
+8h - - Td 4d - - - 6c Kc - - - 7.30312
+6c - - 8h 4d - - - Kc Td - - - 7.30562
+Td - - 8h 4d - - - 6c Kc - - - 7.39187
+- - - 8h 6c 4d - - Kc Td - - - 8.11875
+Kc - - 6c 4d - - - 8h Td - - - 8.95
+
+4d 6c 7h Kc Td 
+Td - - Kc 4d - - - 6c 7h - - - 7.5375
+4d - - Td 7h - - - 6c Kc - - - 7.69312
+6c - - 7h 4d - - - Kc Td - - - 7.8375
+- - - 7h 6c 4d - - Kc Td - - - 7.97875
+Kc - - 7h 6c - - - 4d Td - - - 8.6775
+
+4d 6c 6h Kc Td 
+6h - - Td 4d - - - 6c Kc - - - 7.36812
+4d - - Td Kc - - - 6c 6h - - - 8.53625
+Td - - Kc 4d - - - 6c 6h - - - 9.88813
+- - - Kc 4d - - - 6c 6h Td - - 9.99
+Kc - - 6h 6c - - - 4d Td - - - 11.3363
+
+4d 5h 6c Kc Td 
+4d - - 6c 5h - - - Kc Td - - - 7.73625
+5h - - 6c 4d - - - Kc Td - - - 7.77563
+Td - - 5h 4d - - - 6c Kc - - - 8.06125
+Kc - - 6c 5h 4d - - Td - - - - 8.78312
+- - - Td Kc - - - 4d 5h 6c - - 9.54813
+
+4d 4h 6c Kc Td 
+4h - - Td 4d - - - 6c Kc - - - 7.12687
+6c - - Kc 4h 4d - - Td - - - - 8.69125
+- - - Td 4h 4d - - 6c Kc - - - 9.49625
+Td - - 4h 4d - - - 6c Kc - - - 9.65187
+Kc - - 6c 4h 4d - - Td - - - - 12.4406
+
+3h 4d 6c Kc Td 
+4d - - Td 3h - - - 6c Kc - - - 6.9575
+Td - - 4d 3h - - - 6c Kc - - - 7.82937
+3h - - Td 4d - - - 6c Kc - - - 8.37562
+Kc - - 6c 3h - - - 4d Td - - - 8.40063
+- - - 6c 4d 3h - - Kc Td - - - 8.505
+
+2h 4d 6c Kc Td 
+2h - - Td 4d - - - 6c Kc - - - 7.29063
+4d - - 6c 2h - - - Kc Td - - - 7.5025
+Td - - 4d 2h - - - 6c Kc - - - 8.5775
+- - - Td 4d 2h - - 6c Kc - - - 8.76688
+Kc - - 6c 2h - - - 4d Td - - - 9.29562
+
+3d 6c Ah Kc Td 
+Td Ah - 3d - - - - 6c Kc - - - 20.5063
+Kc Ah - 6c 3d - - - Td - - - - 20.5844
+Ah 3d - 6c - - - - Kc Td - - - 20.845
+Ah 6c - 3d - - - - Kc Td - - - 22.5056
+Ah - - 6c 3d - - - Kc Td - - - 24.9831
+
+3d 6c Kc Kh Td 
+Kh - - Td 3d - - - 6c Kc - - - 7.80188
+3d - - Td 6c - - - Kc Kh - - - 10.2225
+Td - - 6c 3d - - - Kc Kh - - - 10.4125
+6c - - Td 3d - - - Kc Kh - - - 10.6719
+- - - Td 6c 3d - - Kc Kh - - - 11.6206
+
+3d 6c Kc Qh Td 
+3d - - Td Qh - - - 6c Kc - - - 7.61438
+Td - - 6c 3d - - - Kc Qh - - - 7.90312
+Kc - - 6c 3d - - - Qh Td - - - 8.07125
+Qh - - Td 3d - - - 6c Kc - - - 8.54438
+- - - 6c 3d - - - Kc Qh Td - - 9.22375
+
+3d 6c Jh Kc Td 
+6c - - Kc 3d - - - Jh Td - - - 7.20875
+Jh - - 6c 3d - - - Kc Td - - - 7.63125
+Td - - 6c 3d - - - Jh Kc - - - 8.43188
+- - - 6c 3d - - - Jh Kc Td - - 8.60563
+Kc - - 6c 3d - - - Jh Td - - - 9.45687
+
+3d 6c Kc Td Th 
+Th - - Td 3d - - - 6c Kc - - - 7.58625
+3d - - Kc 6c - - - Td Th - - - 10.2131
+6c - - Kc 3d - - - Td Th - - - 10.4288
+- - - Kc 6c 3d - - Td Th - - - 10.7725
+Kc - - 6c 3d - - - Td Th - - - 12.0619
+
+3d 6c 9h Kc Td 
+6c - - Kc 3d - - - 9h Td - - - 7.38125
+Td - - 9h 3d - - - 6c Kc - - - 7.5425
+9h - - Td 3d - - - 6c Kc - - - 8.55937
+- - - 6c 3d - - - 9h Kc Td - - 8.55937
+Kc - - 6c 3d - - - 9h Td - - - 9.335
+
+3d 6c 8h Kc Td 
+Td - - 8h 3d - - - 6c Kc - - - 7.47813
+6c - - 8h 3d - - - Kc Td - - - 7.56938
+8h - - Td 3d - - - 6c Kc - - - 7.94562
+- - - Kc 6c 3d - - 8h Td - - - 8.16562
+Kc - - 6c 3d - - - 8h Td - - - 9.52938
+
+3d 6c 7h Kc Td 
+Td - - 7h 3d - - - 6c Kc - - - 7.40438
+6c - - 7h 3d - - - Kc Td - - - 7.41563
+7h - - Td 3d - - - 6c Kc - - - 7.88625
+Kc - - 6c 3d - - - 7h Td - - - 8.35437
+- - - 7h 6c 3d - - Kc Td - - - 8.665
+
+3d 6c 6h Kc Td 
+6h - - Kc 6c 3d - - Td - - - - 7.44312
+3d - - Td Kc - - - 6c 6h - - - 8.69563
+- - - Td Kc 3d - - 6c 6h - - - 9.34375
+Td - - Kc 3d - - - 6c 6h - - - 10.4494
+Kc - - Td 3d - - - 6c 6h - - - 11.4838
+
+3d 5h 6c Kc Td 
+5h - - Td 3d - - - 6c Kc - - - 7.575
+3d - - 6c 5h - - - Kc Td - - - 8.51125
+Td - - 5h 3d - - - 6c Kc - - - 8.56063
+- - - Td 5h 3d - - 6c Kc - - - 8.83625
+Kc - - 6c 5h 3d - - Td - - - - 8.96
+
+3d 4h 6c Kc Td 
+6c - - Kc 4h 3d - - Td - - - - 7.485
+3d - - Td 4h - - - 6c Kc - - - 8.07875
+Td - - 4h 3d - - - 6c Kc - - - 8.20938
+Kc - - 6c 4h - - - 3d Td - - - 8.76313
+- - - 6c 4h 3d - - Kc Td - - - 8.87
+
+3d 3h 6c Kc Td 
+3h - - 6c 3d - - - Kc Td - - - 7.57625
+6c - - Td 3h 3d - - Kc - - - - 8.70375
+- - - Td 3h 3d - - 6c Kc - - - 10.0706
+Td - - 3h 3d - - - 6c Kc - - - 11.1081
+Kc - - 6c 3h 3d - - Td - - - - 11.2844
+
+2h 3d 6c Kc Td 
+3d - - Td 2h - - - 6c Kc - - - 7.56875
+2h - - Td 3d - - - 6c Kc - - - 7.61688
+Td - - 3d 2h - - - 6c Kc - - - 8.19063
+Kc - - 6c 3d 2h - - Td - - - - 8.41875
+- - - Td 3d 2h - - 6c Kc - - - 8.4525
+
+2d 6c Ah Kc Td 
+Ah 2d - Td 6c - - - Kc - - - - 20.9006
+Td Ah - 2d - - - - 6c Kc - - - 21.8612
+Ah 6c - 2d - - - - Kc Td - - - 22.2125
+Kc Ah - 6c 2d - - - Td - - - - 22.6294
+Ah - - Td 2d - - - 6c Kc - - - 24.8787
+
+2d 6c Kc Kh Td 
+Kh - - 6c 2d - - - Kc Td - - - 8.46625
+2d - - Td 6c - - - Kc Kh - - - 10.2269
+- - - Td 6c 2d - - Kc Kh - - - 10.3875
+Td - - 6c 2d - - - Kc Kh - - - 10.7406
+6c - - Td 2d - - - Kc Kh - - - 11.8656
+
+2d 6c Kc Qh Td 
+6c - - Kc 2d - - - Qh Td - - - 7.1425
+Qh - - Kc 2d - - - 6c Td - - - 7.78562
+Td - - Qh 2d - - - 6c Kc - - - 8.0725
+- - - 6c 2d - - - Kc Qh Td - - 8.53875
+Kc - - 6c 2d - - - Qh Td - - - 8.97375
+
+2d 6c Jh Kc Td 
+6c - - 2d - - - - Jh Kc Td - - 7.10813
+- - - Td Jh 2d - - 6c Kc - - - 8.01437
+Jh - - Td 2d - - - 6c Kc - - - 8.02687
+Td - - Jh 2d - - - 6c Kc - - - 8.46375
+Kc - - 6c 2d - - - Jh Td - - - 9.79187
+
+2d 6c Kc Td Th 
+Td - - 6c 2d - - - Kc Th - - - 7.2975
+6c - - Kc 2d - - - Td Th - - - 9.53938
+2d - - Kc 6c - - - Td Th - - - 9.55
+- - - Kc 6c 2d - - Td Th - - - 11.0631
+Kc - - 6c 2d - - - Td Th - - - 12.22
+
+2d 6c 9h Kc Td 
+6c - - 9h 2d - - - Kc Td - - - 7.25
+Td - - 6c 2d - - - 9h Kc - - - 7.39125
+9h - - Td 2d - - - 6c Kc - - - 7.75125
+- - - 6c 2d - - - 9h Kc Td - - 8.17062
+Kc - - 6c 2d - - - 9h Td - - - 9.3075
+
+2d 6c 8h Kc Td 
+6c - - Td 8h 2d - - Kc - - - - 7.035
+Td - - 8h 2d - - - 6c Kc - - - 7.86438
+- - - Kc 6c 2d - - 8h Td - - - 8.09062
+Kc - - 6c 2d - - - 8h Td - - - 8.48812
+8h - - Td 2d - - - 6c Kc - - - 8.80125
+
+2d 6c 7h Kc Td 
+Td - - 7h 2d - - - 6c Kc - - - 7.39062
+2d - - 7h 6c - - - Kc Td - - - 7.5375
+- - - 6c 2d - - - 7h Kc Td - - 7.63812
+7h - - Td 2d - - - 6c Kc - - - 7.86688
+Kc - - 6c 2d - - - 7h Td - - - 9.19188
+
+2d 6c 6h Kc Td 
+6c - - 6h 2d - - - Kc Td - - - 7.4975
+2d - - Td Kc - - - 6c 6h - - - 9.24562
+Td - - Kc 2d - - - 6c 6h - - - 9.54125
+- - - Td Kc 2d - - 6c 6h - - - 10.6275
+Kc - - 6h 6c - - - 2d Td - - - 11.5063
+
+2d 5h 6c Kc Td 
+2d - - 6c 5h - - - Kc Td - - - 7.49
+Td - - Kc 2d - - - 5h 6c - - - 8.35188
+5h - - Td 2d - - - 6c Kc - - - 8.3775
+Kc - - 6c 5h - - - 2d Td - - - 8.59688
+- - - Td 5h 2d - - 6c Kc - - - 8.83125
+
+2d 4h 6c Kc Td 
+2d - - Td 4h - - - 6c Kc - - - 7.54437
+4h - - Td 2d - - - 6c Kc - - - 7.66
+- - - Td 4h 2d - - 6c Kc - - - 8.37625
+Td - - 4h 2d - - - 6c Kc - - - 8.48812
+Kc - - 6c 4h - - - 2d Td - - - 8.9025
+
+2d 3h 6c Kc Td 
+3h - - Td 2d - - - 6c Kc - - - 7.06687
+6c - - 3h 2d - - - Kc Td - - - 7.41
+Td - - 3h 2d - - - 6c Kc - - - 7.66437
+Kc - - 6c 3h 2d - - Td - - - - 8.6225
+- - - Td 3h 2d - - 6c Kc - - - 8.90375
+
+2d 2h 6c Kc Td 
+2h - - 6c 2d - - - Kc Td - - - 6.94625
+6c - - 2h 2d - - - Kc Td - - - 9.61812
+- - - Td 2h 2d - - 6c Kc - - - 10.2519
+Td - - 2h 2d - - - 6c Kc - - - 10.275
+Kc - - 2h 2d - - - 6c Td - - - 11.9131
+
+6c 8d 9d Ah Kc 
+Ah 9d - 8d 6c - - - Kc - - - - 19.9119
+Ah 6c - Kc - - - - 8d 9d - - - 20.6875
+Ah 8d - 9d - - - - 6c Kc - - - 20.7719
+Kc Ah - 6c - - - - 8d 9d - - - 22.4769
+Ah - - Kc 6c - - - 8d 9d - - - 23.8244
+
+6c 8d 9d Kc Kh 
+Kc - - Kh 6c - - - 8d 9d - - - 8.7775
+9d - - 8d 6c - - - Kc Kh - - - 10.7281
+6c - - 9d 8d - - - Kc Kh - - - 10.955
+8d - - 9d 6c - - - Kc Kh - - - 11.2869
+- - - 9d 8d 6c - - Kc Kh - - - 11.4281
+
+6c 8d 9d Kc Qh 
+9d - - Qh 8d - - - 6c Kc - - - 7.44187
+6c - - Qh Kc - - - 8d 9d - - - 7.88688
+Qh - - Kc 6c - - - 8d 9d - - - 8.35563
+- - - Qh Kc 6c - - 8d 9d - - - 8.44375
+Kc - - Qh 6c - - - 8d 9d - - - 9.49125
+
+6c 8d 9d Jh Kc 
+6c - - Kc Jh - - - 8d 9d - - - 7.33125
+8d - - Jh 9d - - - 6c Kc - - - 7.57062
+- - - Kc Jh 6c - - 8d 9d - - - 8.37375
+Kc - - 6c - - - - 8d 9d Jh - - 8.75313
+Jh - - Kc 6c - - - 8d 9d - - - 8.76875
+
+6c 8d 9d Kc Th 
+9d - - 8d 6c - - - Kc Th - - - 7.07937
+8d - - 9d 6c - - - Kc Th - - - 7.07937
+Th - - Kc 6c - - - 8d 9d - - - 8.15625
+- - - Kc 6c - - - 8d 9d Th - - 8.33125
+Kc - - 6c - - - - 8d 9d Th - - 8.65125
+
+6c 8d 9d 9h Kc 
+9h - - Kc 6c - - - 8d 9d - - - 7.74875
+- - - Kc 8d 6c - - 9d 9h - - - 10.0769
+6c - - Kc 8d - - - 9d 9h - - - 10.2712
+8d - - Kc 6c - - - 9d 9h - - - 11.1269
+Kc - - 8d 6c - - - 9d 9h - - - 12.42
+
+6c 8d 8h 9d Kc 
+8h - - Kc 6c - - - 8d 9d - - - 8.19563
+6c - - Kc 9d - - - 8d 8h - - - 8.8675
+- - - Kc 9d 6c - - 8d 8h - - - 9.83125
+Kc - - 6c - - - - 8d 8h 9d - - 9.9475
+9d - - Kc 6c - - - 8d 8h - - - 10.2375
+
+6c 7h 8d 9d Kc 
+6c - - Kc 7h - - - 8d 9d - - - 7.54812
+9d - - 8d 7h - - - 6c Kc - - - 7.76125
+7h - - 9d 8d - - - 6c Kc - - - 8.04187
+- - - Kc 6c - - - 7h 8d 9d - - 8.79313
+Kc - - 7h 6c - - - 8d 9d - - - 10.5662
+
+6c 6h 8d 9d Kc 
+6c - - Kc 6h - - - 8d 9d - - - 7.71375
+8d - - Kc - - - - 6c 6h 9d - - 8.98375
+9d - - Kc 8d - - - 6c 6h - - - 9.12938
+- - - Kc 6h 6c - - 8d 9d - - - 10.115
+Kc - - 6h 6c - - - 8d 9d - - - 12.9688
+
+5h 6c 8d 9d Kc 
+8d - - 9d 5h - - - 6c Kc - - - 7.6475
+5h - - Kc 6c - - - 8d 9d - - - 8.00062
+6c - - Kc 5h - - - 8d 9d - - - 8.66938
+- - - Kc 6c 5h - - 8d 9d - - - 9.19188
+Kc - - 6c 5h - - - 8d 9d - - - 10.9719
+
+4h 6c 8d 9d Kc 
+8d - - 9d 4h - - - 6c Kc - - - 7.78562
+9d - - 8d 4h - - - 6c Kc - - - 8.17688
+6c - - Kc 4h - - - 8d 9d - - - 8.76562
+- - - Kc 6c 4h - - 8d 9d - - - 9.34313
+Kc - - 6c 4h - - - 8d 9d - - - 10.7356
+
+3h 6c 8d 9d Kc 
+3h - - Kc 6c - - - 8d 9d - - - 7.62937
+9d - - 8d 3h - - - 6c Kc - - - 7.79313
+6c - - Kc 3h - - - 8d 9d - - - 8.38375
+- - - Kc 6c 3h - - 8d 9d - - - 9.39875
+Kc - - 6c 3h - - - 8d 9d - - - 11.0131
+
+2h 6c 8d 9d Kc 
+8d - - 9d 2h - - - 6c Kc - - - 7.76625
+6c - - Kc 2h - - - 8d 9d - - - 8.38375
+9d - - 8d 2h - - - 6c Kc - - - 8.38813
+- - - Kc 6c 2h - - 8d 9d - - - 9.19375
+Kc - - 6c 2h - - - 8d 9d - - - 9.9575
+
+6c 7d 9d Ah Kc 
+Ah 6c - 7d - - - - 9d Kc - - - 21.0212
+Kc Ah - 6c - - - - 7d 9d - - - 21.0925
+Ah 7d - 9d - - - - 6c Kc - - - 21.1025
+Ah 9d - 7d 6c - - - Kc - - - - 22.0263
+Ah - - Kc 6c - - - 7d 9d - - - 24.2787
+
+6c 7d 9d Kc Kh 
+Kc - - Kh 6c - - - 7d 9d - - - 8.47125
+6c - - 9d 7d - - - Kc Kh - - - 9.885
+9d - - 7d - - - - 6c Kc Kh - - 9.99813
+7d - - 9d 6c - - - Kc Kh - - - 10.5244
+- - - 9d 7d 6c - - Kc Kh - - - 11.4931
+
+6c 7d 9d Kc Qh 
+9d - - Qh 7d - - - 6c Kc - - - 7.395
+7d - - 9d 6c - - - Kc Qh - - - 7.73688
+- - - 9d 7d 6c - - Kc Qh - - - 7.82812
+Kc - - Qh 6c - - - 7d 9d - - - 8.49312
+Qh - - Kc 6c - - - 7d 9d - - - 8.875
+
+6c 7d 9d Jh Kc 
+7d - - 6c - - - - 9d Jh Kc - - 7.3875
+9d - - Jh 7d - - - 6c Kc - - - 7.615
+- - - Kc Jh 6c - - 7d 9d - - - 7.75812
+Kc - - 9d 7d 6c - - Jh - - - - 8.1925
+Jh - - Kc 6c - - - 7d 9d - - - 8.96
+
+6c 7d 9d Kc Th 
+6c - - Th Kc - - - 7d 9d - - - 7.38438
+7d - - Th 9d - - - 6c Kc - - - 7.53125
+- - - Th Kc 6c - - 7d 9d - - - 7.87375
+Th - - Kc 6c - - - 7d 9d - - - 8.00937
+Kc - - Th 6c - - - 7d 9d - - - 8.55313
+
+6c 7d 9d 9h Kc 
+9h - - 9d 7d - - - 6c Kc - - - 7.45625
+6c - - Kc 7d - - - 9d 9h - - - 9.83438
+- - - 7d 6c - - - 9d 9h Kc - - 10.0625
+7d - - Kc 6c - - - 9d 9h - - - 10.3175
+Kc - - 7d 6c - - - 9d 9h - - - 13.0175
+
+6c 7d 8h 9d Kc 
+9d - - 8h 7d - - - 6c Kc - - - 7.08
+6c - - Kc 8h - - - 7d 9d - - - 8.01437
+8h - - Kc 6c - - - 7d 9d - - - 8.43125
+Kc - - 8h 6c - - - 7d 9d - - - 8.62187
+- - - Kc 8h 6c - - 7d 9d - - - 8.6875
+
+6c 7d 7h 9d Kc 
+7h - - Kc 7d 6c - - 9d - - - - 6.94625
+6c - - 9d - - - - 7d 7h Kc - - 8.46313
+- - - Kc 6c - - - 7d 7h 9d - - 9.77687
+9d - - Kc 6c - - - 7d 7h - - - 10.0288
+Kc - - 9d 6c - - - 7d 7h - - - 10.535
+
+6c 6h 7d 9d Kc 
+6h - - 9d 7d - - - 6c Kc - - - 7.23
+7d - - Kc 9d - - - 6c 6h - - - 8.31812
+9d - - Kc 7d - - - 6c 6h - - - 8.74
+- - - Kc 6h 6c - - 7d 9d - - - 9.97563
+Kc - - 6h 6c - - - 7d 9d - - - 12.9462
+
+5h 6c 7d 9d Kc 
+9d - - 7d 5h - - - 6c Kc - - - 7.5825
+5h - - 9d 7d - - - 6c Kc - - - 7.74375
+6c - - Kc 5h - - - 7d 9d - - - 7.83938
+- - - 7d 6c 5h - - 9d Kc - - - 8.30625
+Kc - - 6c 5h - - - 7d 9d - - - 10.1094
+
+4h 6c 7d 9d Kc 
+9d - - 7d 4h - - - 6c Kc - - - 7.27375
+4h - - 9d 7d - - - 6c Kc - - - 7.66375
+6c - - Kc 4h - - - 7d 9d - - - 8
+- - - Kc 6c 4h - - 7d 9d - - - 8.60875
+Kc - - 6c 4h - - - 7d 9d - - - 9.49562
+
+3h 6c 7d 9d Kc 
+6c - - 7d 3h - - - 9d Kc - - - 7.465
+9d - - Kc 3h - - - 6c 7d - - - 7.73063
+3h - - Kc 6c - - - 7d 9d - - - 8.53
+- - - Kc 6c 3h - - 7d 9d - - - 8.60312
+Kc - - 6c 3h - - - 7d 9d - - - 9.41813
+
+2h 6c 7d 9d Kc 
+9d - - 7d 2h - - - 6c Kc - - - 7.935
+6c - - Kc 2h - - - 7d 9d - - - 7.94688
+2h - - 9d 7d - - - 6c Kc - - - 8.07125
+- - - Kc 6c 2h - - 7d 9d - - - 9.385
+Kc - - 6c 2h - - - 7d 9d - - - 10.3138
+
+6c 6d 9d Ah Kc 
+Ah 6c - 9d 6d - - - Kc - - - - 19.2031
+Ah 6d - 6c - - - - 9d Kc - - - 19.5175
+Ah 9d - 6d 6c - - - Kc - - - - 23.9737
+Kc Ah - 6d 6c - - - 9d - - - - 24.0919
+Ah - - 6d 6c - - - 9d Kc - - - 26.7113
+
+6c 6d 9d Kc Kh 
+Kc - - Kh 9d - - - 6c 6d - - - 9.64688
+6c - - 9d 6d - - - Kc Kh - - - 10.2719
+6d - - 9d 6c - - - Kc Kh - - - 10.5719
+9d - - 6d 6c - - - Kc Kh - - - 11.6244
+- - - 9d - - - - 6c 6d Kc Kh - 12.66
+
+6c 6d 9d Kc Qh 
+6d - - 9d 6c - - - Kc Qh - - - 7.20125
+- - - Qh Kc 9d - - 6c 6d - - - 8.83313
+9d - - 6d 6c - - - Kc Qh - - - 9.22125
+Qh - - 6d 6c - - - 9d Kc - - - 9.34062
+Kc - - 6d 6c - - - 9d Qh - - - 10.9256
+
+6c 6d 9d Jh Kc 
+6c - - Kc Jh - - - 6d 9d - - - 7.39125
+9d - - Kc Jh - - - 6c 6d - - - 8.95875
+Jh - - Kc - - - - 6c 6d 9d - - 9.28375
+- - - 6d 6c - - - 9d Jh Kc - - 9.47437
+Kc - - 6d 6c - - - 9d Jh - - - 11.9062
+
+6c 6d 9d Kc Th 
+6c - - 9d 6d - - - Kc Th - - - 7.23688
+9d - - 6d 6c - - - Kc Th - - - 8.95125
+Th - - Kc 9d - - - 6c 6d - - - 9.25062
+- - - 6d 6c - - - 9d Kc Th - - 9.44125
+Kc - - 6d 6c - - - 9d Th - - - 11.0419
+
+6c 6d 9d 9h Kc 
+6c - - Kc 6d - - - 9d 9h - - - 9.445
+9h - - Kc 9d - - - 6c 6d - - - 9.61687
+6d - - Kc 6c - - - 9d 9h - - - 10.0688
+- - - Kc 6d 6c - - 9d 9h - - - 12.13
+Kc - - 6d 6c - - - 9d 9h - - - 16.2213
+
+6c 6d 8h 9d Kc 
+6c - - 8h 6d - - - 9d Kc - - - 7.00875
+8h - - Kc 9d - - - 6c 6d - - - 8.4975
+9d - - Kc 8h - - - 6c 6d - - - 8.89875
+- - - Kc 6d 6c - - 8h 9d - - - 9.085
+Kc - - 6d 6c - - - 8h 9d - - - 12.0644
+
+6c 6d 7h 9d Kc 
+6c - - 7h 6d - - - 9d Kc - - - 7.34188
+7h - - Kc - - - - 6c 6d 9d - - 8.20875
+9d - - Kc - - - - 6c 6d 7h - - 8.88625
+- - - Kc 7h - - - 6c 6d 9d - - 9.05812
+Kc - - 6d 6c - - - 7h 9d - - - 11.8506
+
+6c 6d 6h 9d Kc 
+6c - - Kc 9d - - - 6d 6h - - - 8.25438
+Kc 9d - - - - - - 6c 6d 6h - - 9.7025
+9d - - Kc - - - - 6c 6d 6h - - 15.5031
+- - - Kc 9d - - - 6c 6d 6h - - 15.96
+Kc - - 9d - - - - 6c 6d 6h - - 18.9688
+
+5h 6c 6d 9d Kc 
+6d - - 9d 5h - - - 6c Kc - - - 6.85875
+5h - - Kc 9d - - - 6c 6d - - - 8.61875
+9d - - Kc 5h - - - 6c 6d - - - 8.83937
+- - - Kc 5h - - - 6c 6d 9d - - 9.66562
+Kc - - 9d 5h - - - 6c 6d - - - 11.1869
+
+4h 6c 6d 9d Kc 
+6c - - Kc 4h - - - 6d 9d - - - 7.15688
+4h - - Kc 9d - - - 6c 6d - - - 8.49875
+9d - - Kc 4h - - - 6c 6d - - - 9.27375
+- - - Kc 4h - - - 6c 6d 9d - - 10.0531
+Kc - - 9d 4h - - - 6c 6d - - - 10.9519
+
+3h 6c 6d 9d Kc 
+6c - - Kc 3h - - - 6d 9d - - - 7.5975
+3h - - 6d 6c - - - 9d Kc - - - 8.45187
+- - - Kc 9d 3h - - 6c 6d - - - 9.7925
+9d - - Kc 3h - - - 6c 6d - - - 10.4087
+Kc - - 6d 6c 3h - - 9d - - - - 10.7362
+
+2h 6c 6d 9d Kc 
+6c - - Kc 2h - - - 6d 9d - - - 7.09312
+2h - - Kc 9d - - - 6c 6d - - - 8.38937
+- - - Kc 2h - - - 6c 6d 9d - - 9.95312
+9d - - Kc 2h - - - 6c 6d - - - 10.63
+Kc - - 9d 2h - - - 6c 6d - - - 11.3194
+
+5d 6c 9d Ah Kc 
+Ah 5d - 6c - - - - 9d Kc - - - 19.815
+Kc Ah - 6c 5d - - - 9d - - - - 20.075
+Ah 9d - 5d - - - - 6c Kc - - - 20.8013
+Ah 6c - 9d 5d - - - Kc - - - - 20.8888
+Ah - - 9d 6c 5d - - Kc - - - - 23.5637
+
+5d 6c 9d Kc Kh 
+Kh - - 9d 5d - - - 6c Kc - - - 7.7075
+6c - - 9d 5d - - - Kc Kh - - - 10.7206
+9d - - 6c 5d - - - Kc Kh - - - 10.7256
+5d - - 9d 6c - - - Kc Kh - - - 10.7744
+- - - 9d 6c 5d - - Kc Kh - - - 11.2731
+
+5d 6c 9d Kc Qh 
+9d - - 6c 5d - - - Kc Qh - - - 7.085
+6c - - Kc 5d - - - 9d Qh - - - 7.12813
+- - - 6c 5d - - - 9d Kc Qh - - 7.78375
+Qh - - 9d 5d - - - 6c Kc - - - 8.3475
+Kc - - 6c 5d - - - 9d Qh - - - 8.69188
+
+5d 6c 9d Jh Kc 
+Jh - - Kc 6c - - - 5d 9d - - - 7.205
+5d - - 9d 6c - - - Jh Kc - - - 7.4875
+9d - - 6c 5d - - - Jh Kc - - - 8.04562
+- - - 6c 5d - - - 9d Jh Kc - - 8.15125
+Kc - - 6c 5d - - - 9d Jh - - - 9.50625
+
+5d 6c 9d Kc Th 
+5d - - Kc 6c - - - 9d Th - - - 7.15562
+Th - - Kc 6c - - - 5d 9d - - - 7.68813
+9d - - Th 5d - - - 6c Kc - - - 7.89062
+- - - 9d 6c 5d - - Kc Th - - - 8.45938
+Kc - - 6c 5d - - - 9d Th - - - 9.0275
+
+5d 6c 9d 9h Kc 
+9h - - 9d 6c 5d - - Kc - - - - 7.29375
+6c - - Kc 5d - - - 9d 9h - - - 8.86063
+5d - - Kc 6c - - - 9d 9h - - - 9.23625
+- - - Kc 6c 5d - - 9d 9h - - - 10.7019
+Kc - - 6c 5d - - - 9d 9h - - - 12.4563
+
+5d 6c 8h 9d Kc 
+6c - - Kc 8h - - - 5d 9d - - - 7.27375
+5d - - Kc 6c - - - 8h 9d - - - 7.53625
+8h - - 9d 5d - - - 6c Kc - - - 8.01313
+- - - 9d 8h 5d - - 6c Kc - - - 8.2025
+Kc - - 6c 5d - - - 8h 9d - - - 8.975
+
+5d 6c 7h 9d Kc 
+6c - - 9d 7h 5d - - Kc - - - - 7.42375
+7h - - Kc 6c - - - 5d 9d - - - 7.66875
+- - - Kc 9d - - - 5d 6c 7h - - 7.77688
+9d - - 7h 5d - - - 6c Kc - - - 7.83437
+Kc - - 6c 5d - - - 7h 9d - - - 8.48
+
+5d 6c 6h 9d Kc 
+6h - - Kc 6c - - - 5d 9d - - - 6.68062
+5d - - 6h 6c - - - 9d Kc - - - 8.5325
+- - - Kc 9d 5d - - 6c 6h - - - 9.82625
+9d - - Kc 5d - - - 6c 6h - - - 10.1187
+Kc - - 9d 5d - - - 6c 6h - - - 11.6619
+
+5d 5h 6c 9d Kc 
+5d - - 9d 5h - - - 6c Kc - - - 7.0775
+6c - - Kc 9d - - - 5d 5h - - - 8.47313
+9d - - 5h 5d - - - 6c Kc - - - 9.50187
+- - - Kc 9d - - - 5d 5h 6c - - 9.625
+Kc - - 5h 5d - - - 6c 9d - - - 11.4062
+
+4h 5d 6c 9d Kc 
+5d - - 9d 4h - - - 6c Kc - - - 7.1
+4h - - 6c 5d - - - 9d Kc - - - 7.63938
+- - - 9d 5d 4h - - 6c Kc - - - 8.28375
+9d - - 5d 4h - - - 6c Kc - - - 8.66438
+Kc - - 6c 4h - - - 5d 9d - - - 8.8525
+
+3h 5d 6c 9d Kc 
+5d - - 9d 3h - - - 6c Kc - - - 7.4625
+3h - - 9d 5d - - - 6c Kc - - - 7.50187
+- - - Kc 6c 3h - - 5d 9d - - - 8.015
+9d - - 5d 3h - - - 6c Kc - - - 8.05937
+Kc - - 6c 3h - - - 5d 9d - - - 8.83375
+
+2h 5d 6c 9d Kc 
+5d - - 9d 2h - - - 6c Kc - - - 7.72813
+9d - - 5d 2h - - - 6c Kc - - - 7.91625
+- - - 6c 5d 2h - - 9d Kc - - - 7.9225
+6c - - 5d 2h - - - 9d Kc - - - 8.15375
+Kc - - 6c 2h - - - 5d 9d - - - 8.16063
+
+4d 6c 9d Ah Kc 
+Ah 9d - 6c 4d - - - Kc - - - - 20.1863
+Kc Ah - 9d 4d - - - 6c - - - - 20.6119
+Ah 4d - 6c - - - - 9d Kc - - - 21.2475
+Ah 6c - 4d - - - - 9d Kc - - - 21.2519
+Ah - - 6c 4d - - - 9d Kc - - - 24.4988
+
+4d 6c 9d Kc Kh 
+Kh - - Kc 4d - - - 6c 9d - - - 7.24188
+9d - - 6c 4d - - - Kc Kh - - - 10.1687
+4d - - 9d 6c - - - Kc Kh - - - 10.285
+- - - 9d 6c 4d - - Kc Kh - - - 10.8856
+6c - - 9d 4d - - - Kc Kh - - - 11.1331
+
+4d 6c 9d Kc Qh 
+6c - - 4d - - - - 9d Kc Qh - - 7.15875
+9d - - Qh 4d - - - 6c Kc - - - 7.715
+Qh - - 9d 4d - - - 6c Kc - - - 7.765
+Kc - - 6c 4d - - - 9d Qh - - - 7.92063
+- - - 6c 4d - - - 9d Kc Qh - - 8.0425
+
+4d 6c 9d Jh Kc 
+4d - - 9d 6c - - - Jh Kc - - - 7.77812
+9d - - 6c 4d - - - Jh Kc - - - 7.96063
+Jh - - 9d 4d - - - 6c Kc - - - 8.1125
+- - - 6c 4d - - - 9d Jh Kc - - 8.72875
+Kc - - 6c 4d - - - 9d Jh - - - 9.335
+
+4d 6c 9d Kc Th 
+6c - - 9d 4d - - - Kc Th - - - 7.30188
+Th - - 9d 4d - - - 6c Kc - - - 7.59688
+9d - - Th 4d - - - 6c Kc - - - 8.01812
+- - - 6c 4d - - - 9d Kc Th - - 8.16625
+Kc - - 6c 4d - - - 9d Th - - - 8.56375
+
+4d 6c 9d 9h Kc 
+9d - - 9h 4d - - - 6c Kc - - - 7.48688
+4d - - Kc 6c - - - 9d 9h - - - 9.255
+- - - Kc 6c 4d - - 9d 9h - - - 9.87313
+6c - - Kc 4d - - - 9d 9h - - - 10.0325
+Kc - - 6c 4d - - - 9d 9h - - - 11.9137
+
+4d 6c 8h 9d Kc 
+4d - - 9d 8h - - - 6c Kc - - - 7.78625
+9d - - 8h 4d - - - 6c Kc - - - 7.92438
+- - - Kc 4d - - - 6c 8h 9d - - 8.31437
+8h - - 9d 4d - - - 6c Kc - - - 8.38125
+Kc - - 6c 4d - - - 8h 9d - - - 8.8575
+
+4d 6c 7h 9d Kc 
+4d - - 9d 7h - - - 6c Kc - - - 7.01937
+7h - - 9d 4d - - - 6c Kc - - - 7.82375
+9d - - Kc 4d - - - 6c 7h - - - 7.85875
+Kc - - 6c 4d - - - 7h 9d - - - 8.92562
+- - - 9d 7h 4d - - 6c Kc - - - 8.94438
+
+4d 6c 6h 9d Kc 
+6h - - 9d 4d - - - 6c Kc - - - 7.03562
+4d - - Kc 9d - - - 6c 6h - - - 8.97812
+9d - - Kc 4d - - - 6c 6h - - - 9.25813
+- - - Kc 4d - - - 6c 6h 9d - - 9.815
+Kc - - 9d 4d - - - 6c 6h - - - 11.6088
+
+4d 5h 6c 9d Kc 
+6c - - 5h 4d - - - 9d Kc - - - 7.12125
+5h - - 9d 4d - - - 6c Kc - - - 7.30062
+9d - - 5h 4d - - - 6c Kc - - - 7.93437
+Kc - - 6c 5h 4d - - 9d - - - - 8.575
+- - - 9d 5h 4d - - 6c Kc - - - 9.17937
+
+4d 4h 6c 9d Kc 
+4h - - 9d 4d - - - 6c Kc - - - 7.19187
+6c - - Kc 4h 4d - - 9d - - - - 8.64563
+- - - 9d 4h 4d - - 6c Kc - - - 8.95
+9d - - 4h 4d - - - 6c Kc - - - 9.79875
+Kc - - 4h 4d - - - 6c 9d - - - 11.8162
+
+3h 4d 6c 9d Kc 
+6c - - 4d 3h - - - 9d Kc - - - 7.27313
+3h - - 9d 4d - - - 6c Kc - - - 8.04875
+- - - 9d 4d 3h - - 6c Kc - - - 8.0575
+9d - - 4d 3h - - - 6c Kc - - - 8.28063
+Kc - - 6c 4d 3h - - 9d - - - - 9.05062
+
+2h 4d 6c 9d Kc 
+4d - - 9d 2h - - - 6c Kc - - - 7.43563
+9d - - 4d 2h - - - 6c Kc - - - 7.65063
+2h - - 9d 4d - - - 6c Kc - - - 8.42
+- - - 6c 4d 2h - - 9d Kc - - - 8.55188
+Kc - - 4d 2h - - - 6c 9d - - - 8.775
+
+3d 6c 9d Ah Kc 
+Ah 9d - 3d - - - - 6c Kc - - - 20.88
+Ah 3d - 6c - - - - 9d Kc - - - 21.0338
+Ah 6c - 3d - - - - 9d Kc - - - 21.34
+Kc Ah - 6c 3d - - - 9d - - - - 21.6481
+Ah - - 6c 3d - - - 9d Kc - - - 24.2
+
+3d 6c 9d Kc Kh 
+Kh - - 9d 3d - - - 6c Kc - - - 7.63125
+6c - - 9d 3d - - - Kc Kh - - - 10.7025
+3d - - 9d 6c - - - Kc Kh - - - 10.9056
+9d - - 6c 3d - - - Kc Kh - - - 11.5369
+- - - 9d 6c 3d - - Kc Kh - - - 11.5925
+
+3d 6c 9d Kc Qh 
+6c - - 3d - - - - 9d Kc Qh - - 7.0075
+9d - - Qh 3d - - - 6c Kc - - - 7.45188
+- - - Qh 9d 3d - - 6c Kc - - - 7.91
+Kc - - 6c 3d - - - 9d Qh - - - 8.58937
+Qh - - Kc 6c - - - 3d 9d - - - 8.71875
+
+3d 6c 9d Jh Kc 
+9d - - Jh 3d - - - 6c Kc - - - 7.82125
+6c - - 9d 3d - - - Jh Kc - - - 7.82375
+Jh - - 9d 3d - - - 6c Kc - - - 8.15625
+- - - Jh 9d 3d - - 6c Kc - - - 8.42313
+Kc - - 6c 3d - - - 9d Jh - - - 10.1144
+
+3d 6c 9d Kc Th 
+6c - - Kc 3d - - - 9d Th - - - 7.26813
+9d - - Th 3d - - - 6c Kc - - - 7.46562
+Th - - 9d 3d - - - 6c Kc - - - 8.03312
+- - - Kc 6c 3d - - 9d Th - - - 8.66625
+Kc - - 6c 3d - - - 9d Th - - - 8.89437
+
+3d 6c 9d 9h Kc 
+9d - - 9h 3d - - - 6c Kc - - - 7.57812
+6c - - Kc 3d - - - 9d 9h - - - 9.1575
+3d - - Kc 6c - - - 9d 9h - - - 9.73188
+- - - 6c 3d - - - 9d 9h Kc - - 10.1856
+Kc - - 6c 3d - - - 9d 9h - - - 12.0681
+
+3d 6c 8h 9d Kc 
+9d - - Kc 3d - - - 6c 8h - - - 7.01625
+6c - - 9d 8h 3d - - Kc - - - - 7.11938
+8h - - 9d 3d - - - 6c Kc - - - 7.54625
+Kc - - 6c 3d - - - 8h 9d - - - 8.51812
+- - - 9d 8h 3d - - 6c Kc - - - 8.53187
+
+3d 6c 7h 9d Kc 
+6c - - 7h 3d - - - 9d Kc - - - 7.12375
+9d - - 7h 3d - - - 6c Kc - - - 7.29938
+7h - - 9d 3d - - - 6c Kc - - - 7.85125
+Kc - - 6c 3d - - - 7h 9d - - - 8.83937
+- - - 7h 6c 3d - - 9d Kc - - - 9.17375
+
+3d 6c 6h 9d Kc 
+6h - - 9d 3d - - - 6c Kc - - - 7.00688
+3d - - Kc - - - - 6c 6h 9d - - 8.75688
+9d - - Kc 3d - - - 6c 6h - - - 9.57312
+- - - Kc 3d - - - 6c 6h 9d - - 9.6125
+Kc - - 9d 3d - - - 6c 6h - - - 11.2519
+
+3d 5h 6c 9d Kc 
+3d - - 9d 5h - - - 6c Kc - - - 7.39875
+9d - - 6c 5h 3d - - Kc - - - - 7.55937
+- - - 6c 5h 3d - - 9d Kc - - - 8.07938
+5h - - 9d 3d - - - 6c Kc - - - 8.28375
+Kc - - 6c 5h - - - 3d 9d - - - 8.32
+
+3d 4h 6c 9d Kc 
+3d - - 9d 4h - - - 6c Kc - - - 7.10938
+4h - - 9d 3d - - - 6c Kc - - - 7.4325
+9d - - 4h 3d - - - 6c Kc - - - 8.11312
+- - - 9d 4h 3d - - 6c Kc - - - 8.17313
+Kc - - 4h 3d - - - 6c 9d - - - 8.75375
+
+3d 3h 6c 9d Kc 
+3h - - 9d 6c 3d - - Kc - - - - 7.12
+9d - - 3h 3d - - - 6c Kc - - - 9.59813
+- - - 9d 3h 3d - - 6c Kc - - - 9.77812
+6c - - Kc 3h 3d - - 9d - - - - 9.83187
+Kc - - 3h 3d - - - 6c 9d - - - 11.6012
+
+2h 3d 6c 9d Kc 
+6c - - Kc 3d 2h - - 9d - - - - 7.14313
+2h - - 6c 3d - - - 9d Kc - - - 7.2225
+9d - - 3d 2h - - - 6c Kc - - - 8.36938
+Kc - - 6c 2h - - - 3d 9d - - - 8.60688
+- - - 9d 3d 2h - - 6c Kc - - - 9.09937
+
+2d 6c 9d Ah Kc 
+Ah 2d - 9d 6c - - - Kc - - - - 19.8169
+Ah 6c - 2d - - - - 9d Kc - - - 21.1287
+Kc Ah - 6c 2d - - - 9d - - - - 21.705
+Ah 9d - 2d - - - - 6c Kc - - - 21.7188
+Ah - - 9d 2d - - - 6c Kc - - - 25.2925
+
+2d 6c 9d Kc Kh 
+Kh - - 6c 2d - - - 9d Kc - - - 7.63625
+2d - - 9d 6c - - - Kc Kh - - - 10.3894
+6c - - 9d 2d - - - Kc Kh - - - 10.7019
+9d - - 6c 2d - - - Kc Kh - - - 10.84
+- - - 9d 6c 2d - - Kc Kh - - - 11.1462
+
+2d 6c 9d Kc Qh 
+6c - - 9d 2d - - - Kc Qh - - - 7.19063
+9d - - Qh 2d - - - 6c Kc - - - 7.44938
+Qh - - Kc 2d - - - 6c 9d - - - 7.9
+- - - 9d 6c 2d - - Kc Qh - - - 8.04438
+Kc - - 6c 2d - - - 9d Qh - - - 8.21375
+
+2d 6c 9d Jh Kc 
+Jh - - 9d 2d - - - 6c Kc - - - 7.6
+6c - - 9d 2d - - - Jh Kc - - - 8.16875
+- - - 6c 2d - - - 9d Jh Kc - - 8.21562
+9d - - Jh 2d - - - 6c Kc - - - 8.29375
+Kc - - 6c 2d - - - 9d Jh - - - 8.6025
+
+2d 6c 9d Kc Th 
+6c - - 9d 2d - - - Kc Th - - - 7.54563
+Th - - 9d 2d - - - 6c Kc - - - 7.69125
+9d - - Th 2d - - - 6c Kc - - - 8.1925
+- - - Kc 6c 2d - - 9d Th - - - 8.2125
+Kc - - 6c 2d - - - 9d Th - - - 9.09062
+
+2d 6c 9d 9h Kc 
+9h - - 9d 2d - - - 6c Kc - - - 7.33125
+6c - - Kc 2d - - - 9d 9h - - - 9.715
+2d - - Kc 6c - - - 9d 9h - - - 9.79688
+- - - Kc 6c - - - 2d 9d 9h - - 10.5656
+Kc - - 6c 2d - - - 9d 9h - - - 11.73
+
+2d 6c 8h 9d Kc 
+6c - - 8h 2d - - - 9d Kc - - - 6.85437
+9d - - 8h 2d - - - 6c Kc - - - 7.90688
+8h - - 9d 2d - - - 6c Kc - - - 8.02437
+- - - Kc 6c 2d - - 8h 9d - - - 8.165
+Kc - - 6c 2d - - - 8h 9d - - - 8.60625
+
+2d 6c 7h 9d Kc 
+9d - - Kc 2d - - - 6c 7h - - - 7.53375
+7h - - Kc 6c - - - 2d 9d - - - 7.64813
+2d - - 9d 7h - - - 6c Kc - - - 7.70937
+Kc - - 9d 2d - - - 6c 7h - - - 8.21187
+- - - 9d 7h 2d - - 6c Kc - - - 8.47125
+
+2d 6c 6h 9d Kc 
+2d - - Kc 9d - - - 6c 6h - - - 7.845
+6h - - 9d 2d - - - 6c Kc - - - 7.9025
+9d - - Kc 2d - - - 6c 6h - - - 9.5075
+- - - Kc 9d - - - 2d 6c 6h - - 9.98
+Kc - - 9d 2d - - - 6c 6h - - - 11.4106
+
+2d 5h 6c 9d Kc 
+6c - - 5h 2d - - - 9d Kc - - - 7.405
+5h - - 9d 2d - - - 6c Kc - - - 7.425
+9d - - 5h 2d - - - 6c Kc - - - 7.87125
+Kc - - 6c 5h - - - 2d 9d - - - 8.23438
+- - - 9d 5h 2d - - 6c Kc - - - 9.00813
+
+2d 4h 6c 9d Kc 
+6c - - 4h 2d - - - 9d Kc - - - 7.26312
+4h - - 9d 2d - - - 6c Kc - - - 7.46313
+- - - 9d 4h 2d - - 6c Kc - - - 8.04875
+9d - - 4h 2d - - - 6c Kc - - - 8.18375
+Kc - - 6c 4h 2d - - 9d - - - - 8.51
+
+2d 3h 6c 9d Kc 
+3h - - 9d 2d - - - 6c Kc - - - 7.55438
+6c - - 9d 3h 2d - - Kc - - - - 7.56875
+- - - 9d 3h 2d - - 6c Kc - - - 8.68125
+9d - - 3h 2d - - - 6c Kc - - - 8.76
+Kc - - 3h 2d - - - 6c 9d - - - 8.99375
+
+2d 2h 6c 9d Kc 
+2h - - 9d 2d - - - 6c Kc - - - 7.62625
+6c - - 2h 2d - - - 9d Kc - - - 8.60125
+9d - - 2h 2d - - - 6c Kc - - - 9.46813
+- - - 9d 2h 2d - - 6c Kc - - - 10.5125
+Kc - - 2h 2d - - - 6c 9d - - - 11.4788
+
+6c 7d 8d Ah Kc 
+Ah 7d - 8d - - - - 6c Kc - - - 20.8538
+Ah 6c - Kc - - - - 7d 8d - - - 21.2069
+Ah 8d - 7d - - - - 6c Kc - - - 21.6831
+Kc Ah - 6c - - - - 7d 8d - - - 22.1663
+Ah - - Kc 6c - - - 7d 8d - - - 24.7456
+
+6c 7d 8d Kc Kh 
+Kh - - Kc 6c - - - 7d 8d - - - 8.7575
+6c - - 8d 7d - - - Kc Kh - - - 10.7294
+7d - - 8d 6c - - - Kc Kh - - - 11.0331
+8d - - 7d 6c - - - Kc Kh - - - 11.1844
+- - - 8d 7d 6c - - Kc Kh - - - 11.5744
+
+6c 7d 8d Kc Qh 
+7d - - 8d 6c - - - Kc Qh - - - 7.29187
+6c - - Qh Kc - - - 7d 8d - - - 7.61125
+Kc - - Qh 6c - - - 7d 8d - - - 8.03438
+- - - 8d 7d 6c - - Kc Qh - - - 8.57187
+Qh - - Kc 6c - - - 7d 8d - - - 8.95312
+
+6c 7d 8d Jh Kc 
+7d - - Jh 8d - - - 6c Kc - - - 6.98875
+6c - - Kc Jh - - - 7d 8d - - - 8.00313
+Jh - - Kc - - - - 6c 7d 8d - - 8.21313
+- - - 8d 7d 6c - - Jh Kc - - - 8.40438
+Kc - - Jh 6c - - - 7d 8d - - - 9.04
+
+6c 7d 8d Kc Th 
+6c - - Th Kc - - - 7d 8d - - - 7.04875
+8d - - 7d 6c - - - Kc Th - - - 7.0725
+- - - Th 8d 7d - - 6c Kc - - - 8.1125
+Th - - Kc 6c - - - 7d 8d - - - 8.2225
+Kc - - Th 6c - - - 7d 8d - - - 8.36812
+
+6c 7d 8d 9h Kc 
+8d - - 9h 7d - - - 6c Kc - - - 7.2475
+6c - - Kc 9h - - - 7d 8d - - - 7.27125
+9h - - 8d 7d - - - 6c Kc - - - 7.73875
+Kc - - 9h 6c - - - 7d 8d - - - 8.52938
+- - - Kc 9h 6c - - 7d 8d - - - 8.7375
+
+6c 7d 8d 8h Kc 
+8h - - 8d 7d - - - 6c Kc - - - 7.76813
+7d - - Kc 6c - - - 8d 8h - - - 8.81625
+- - - Kc 6c - - - 7d 8d 8h - - 9.61375
+6c - - Kc 7d - - - 8d 8h - - - 11.0044
+Kc - - 7d 6c - - - 8d 8h - - - 12.07
+
+6c 7d 7h 8d Kc 
+7d - - 8d 7h - - - 6c Kc - - - 7.73
+6c - - Kc 8d - - - 7d 7h - - - 9.14062
+- - - Kc 8d 6c - - 7d 7h - - - 9.51812
+8d - - Kc 6c - - - 7d 7h - - - 10.19
+Kc - - 8d 6c - - - 7d 7h - - - 10.9969
+
+6c 6h 7d 8d Kc 
+6h - - Kc 6c - - - 7d 8d - - - 7.60563
+7d - - Kc 8d - - - 6c 6h - - - 8.45562
+8d - - Kc 7d - - - 6c 6h - - - 8.61875
+- - - Kc 6h 6c - - 7d 8d - - - 10.3831
+Kc - - 6h 6c - - - 7d 8d - - - 12.9919
+
+5h 6c 7d 8d Kc 
+5h - - Kc 6c - - - 7d 8d - - - 7.89375
+6c - - Kc 5h - - - 7d 8d - - - 8.11125
+7d - - 8d 5h - - - 6c Kc - - - 8.38562
+- - - 8d 7d 5h - - 6c Kc - - - 8.67188
+Kc - - 6c 5h - - - 7d 8d - - - 10.3162
+
+4h 6c 7d 8d Kc 
+4h - - Kc 6c - - - 7d 8d - - - 7.77812
+7d - - 8d 4h - - - 6c Kc - - - 8.29438
+- - - Kc 6c 4h - - 7d 8d - - - 8.62313
+6c - - Kc 4h - - - 7d 8d - - - 8.65187
+Kc - - 6c 4h - - - 7d 8d - - - 10.5256
+
+3h 6c 7d 8d Kc 
+7d - - 8d 3h - - - 6c Kc - - - 7.365
+3h - - 8d 7d - - - 6c Kc - - - 7.41
+6c - - Kc 3h - - - 7d 8d - - - 8.25625
+- - - 8d 7d 3h - - 6c Kc - - - 8.47437
+Kc - - 3h - - - - 6c 7d 8d - - 9.89937
+
+2h 6c 7d 8d Kc 
+2h - - Kc 6c - - - 7d 8d - - - 7.29125
+7d - - 8d 2h - - - 6c Kc - - - 7.58187
+6c - - Kc 2h - - - 7d 8d - - - 7.695
+- - - Kc 6c 2h - - 7d 8d - - - 8.74938
+Kc - - 6c 2h - - - 7d 8d - - - 9.88437
+
+6c 6d 8d Ah Kc 
+Ah 6c - 8d 6d - - - Kc - - - - 20.73
+Ah 6d - 8d 6c - - - Kc - - - - 20.8444
+Ah 8d - 6d 6c - - - Kc - - - - 23.0175
+Ah - - Kc 6d 6c - - 8d - - - - 24.37
+Kc Ah - 6d 6c - - - 8d - - - - 25.0244
+
+6c 6d 8d Kc Kh 
+Kh - - Kc 8d - - - 6c 6d - - - 9.33
+6d - - 8d 6c - - - Kc Kh - - - 9.60063
+6c - - 8d 6d - - - Kc Kh - - - 10.3719
+8d - - Kh Kc - - - 6c 6d - - - 11.7731
+- - - 8d - - - - 6c 6d Kc Kh - 12.6525
+
+6c 6d 8d Kc Qh 
+6c - - 8d 6d - - - Kc Qh - - - 7.19063
+8d - - Kc - - - - 6c 6d Qh - - 8.93563
+- - - Kc 8d - - - 6c 6d Qh - - 9.23188
+Kc - - 8d 6d 6c - - Qh - - - - 9.9325
+Qh - - Kc 8d - - - 6c 6d - - - 10.0056
+
+6c 6d 8d Jh Kc 
+6d - - 8d 6c - - - Jh Kc - - - 7.44688
+8d - - Kc Jh - - - 6c 6d - - - 8.765
+Jh - - Kc 8d - - - 6c 6d - - - 9.27563
+- - - Kc Jh 8d - - 6c 6d - - - 9.91813
+Kc - - 6d 6c - - - 8d Jh - - - 10.9537
+
+6c 6d 8d Kc Th 
+6c - - 8d 6d - - - Kc Th - - - 6.7925
+8d - - Th Kc - - - 6c 6d - - - 8.49375
+- - - Kc 8d - - - 6c 6d Th - - 8.71625
+Th - - Kc - - - - 6c 6d 8d - - 9.05188
+Kc - - 6d 6c - - - 8d Th - - - 12.1181
+
+6c 6d 8d 9h Kc 
+6d - - 9h 8d - - - 6c Kc - - - 7.26937
+9h - - 8d - - - - 6c 6d Kc - - 8.45
+- - - Kc 9h - - - 6c 6d 8d - - 9.085
+8d - - Kc 9h - - - 6c 6d - - - 9.10188
+Kc - - 6d 6c - - - 8d 9h - - - 11.0813
+
+6c 6d 8d 8h Kc 
+8h - - Kc 8d - - - 6c 6d - - - 8.66438
+6c - - Kc 6d - - - 8d 8h - - - 9.3975
+6d - - Kc 6c - - - 8d 8h - - - 9.65375
+- - - Kc - - - - 6c 6d 8d 8h - 13.1862
+Kc - - 6d 6c - - - 8d 8h - - - 15.6669
+
+6c 6d 7h 8d Kc 
+6c - - Kc 7h - - - 6d 8d - - - 7.7775
+7h - - Kc - - - - 6c 6d 8d - - 8.5175
+8d - - Kc 7h - - - 6c 6d - - - 9.15187
+- - - Kc 7h - - - 6c 6d 8d - - 9.50562
+Kc - - 6d 6c - - - 7h 8d - - - 11.6313
+
+6c 6d 6h 8d Kc 
+6d - - Kc 6h 6c - - 8d - - - - 8.13625
+Kc 8d - - - - - - 6c 6d 6h - - 9.94
+8d - - Kc - - - - 6c 6d 6h - - 15.7281
+- - - Kc 8d - - - 6c 6d 6h - - 15.8125
+Kc - - 8d - - - - 6c 6d 6h - - 19.7213
+
+5h 6c 6d 8d Kc 
+6c - - Kc 5h - - - 6d 8d - - - 7.3975
+5h - - Kc 8d - - - 6c 6d - - - 8.17937
+8d - - Kc 5h - - - 6c 6d - - - 9.67562
+- - - Kc 8d 5h - - 6c 6d - - - 10.035
+Kc - - 8d 5h - - - 6c 6d - - - 10.6462
+
+4h 6c 6d 8d Kc 
+6c - - Kc 4h - - - 6d 8d - - - 7.33375
+4h - - Kc 8d - - - 6c 6d - - - 8.45375
+8d - - Kc 4h - - - 6c 6d - - - 9.40375
+Kc - - 8d 4h - - - 6c 6d - - - 10.225
+- - - Kc 8d 4h - - 6c 6d - - - 10.6663
+
+3h 6c 6d 8d Kc 
+6c - - 8d 3h - - - 6d Kc - - - 6.94875
+3h - - Kc 8d - - - 6c 6d - - - 8.525
+8d - - Kc 3h - - - 6c 6d - - - 9.48687
+- - - Kc 8d 3h - - 6c 6d - - - 9.80875
+Kc - - 8d 3h - - - 6c 6d - - - 10.1175
+
+2h 6c 6d 8d Kc 
+6c - - 6d 2h - - - 8d Kc - - - 7.1625
+2h - - Kc - - - - 6c 6d 8d - - 8.1675
+8d - - Kc 2h - - - 6c 6d - - - 10.0212
+- - - 8d 2h - - - 6c 6d Kc - - 10.26
+Kc - - 8d 2h - - - 6c 6d - - - 10.385
+
+5d 6c 8d Ah Kc 
+Ah 5d - 8d 6c - - - Kc - - - - 19.7537
+Kc Ah - 6c 5d - - - 8d - - - - 19.7594
+Ah 6c - Kc 5d - - - 8d - - - - 20.0938
+Ah 8d - 5d - - - - 6c Kc - - - 22.0112
+Ah - - 6c 5d - - - 8d Kc - - - 23.1294
+
+5d 6c 8d Kc Kh 
+Kh - - 8d 5d - - - 6c Kc - - - 7.60187
+6c - - 8d 5d - - - Kc Kh - - - 10.2969
+8d - - 6c 5d - - - Kc Kh - - - 10.435
+5d - - 8d 6c - - - Kc Kh - - - 10.7881
+- - - 8d 6c 5d - - Kc Kh - - - 11.9881
+
+5d 6c 8d Kc Qh 
+8d - - 6c 5d - - - Kc Qh - - - 7.56375
+6c - - 8d 5d - - - Kc Qh - - - 7.77063
+5d - - 8d 6c - - - Kc Qh - - - 7.8925
+- - - 8d 6c 5d - - Kc Qh - - - 8.54187
+Qh - - Kc 6c - - - 5d 8d - - - 8.58625
+
+5d 6c 8d Jh Kc 
+5d - - 8d 6c - - - Jh Kc - - - 7.29875
+6c - - Kc Jh - - - 5d 8d - - - 7.49625
+Jh - - Kc 6c - - - 5d 8d - - - 7.80375
+- - - Jh 8d 5d - - 6c Kc - - - 8.35625
+Kc - - 6c 5d - - - 8d Jh - - - 8.92625
+
+5d 6c 8d Kc Th 
+6c - - 8d 5d - - - Kc Th - - - 7.24438
+Th - - Kc 6c - - - 5d 8d - - - 7.58063
+8d - - 6c 5d - - - Kc Th - - - 8.1775
+- - - Th 8d 5d - - 6c Kc - - - 8.18937
+Kc - - 6c 5d - - - 8d Th - - - 8.71937
+
+5d 6c 8d 9h Kc 
+5d - - 9h 8d - - - 6c Kc - - - 7.375
+9h - - Kc 6c - - - 5d 8d - - - 7.61875
+8d - - 9h 5d - - - 6c Kc - - - 7.67688
+Kc - - 6c 5d - - - 8d 9h - - - 8.1625
+- - - 9h 8d 5d - - 6c Kc - - - 8.39563
+
+5d 6c 8d 8h Kc 
+8d - - 8h 6c 5d - - Kc - - - - 7.3
+6c - - Kc 5d - - - 8d 8h - - - 9.52125
+5d - - Kc 6c - - - 8d 8h - - - 9.86312
+- - - Kc 5d - - - 6c 8d 8h - - 10.7831
+Kc - - 6c 5d - - - 8d 8h - - - 13.265
+
+5d 6c 7h 8d Kc 
+6c - - Kc 7h - - - 5d 8d - - - 7.07625
+7h - - 8d 5d - - - 6c Kc - - - 7.42063
+8d - - 7h 5d - - - 6c Kc - - - 7.58125
+Kc - - 5d - - - - 6c 7h 8d - - 8.55125
+- - - 8d 7h 5d - - 6c Kc - - - 8.7575
+
+5d 6c 6h 8d Kc 
+6h - - 8d 5d - - - 6c Kc - - - 7.51312
+5d - - 8d - - - - 6c 6h Kc - - 7.77063
+- - - Kc 6h 6c - - 5d 8d - - - 10.2619
+8d - - Kc 5d - - - 6c 6h - - - 10.4006
+Kc - - 6h 6c - - - 5d 8d - - - 11.0256
+
+5d 5h 6c 8d Kc 
+5d - - 8d 5h - - - 6c Kc - - - 7.86062
+6c - - Kc 8d - - - 5d 5h - - - 8.50625
+- - - Kc 5h 5d - - 6c 8d - - - 9.03875
+8d - - 5h 5d - - - 6c Kc - - - 9.68125
+Kc - - 6c 5h 5d - - 8d - - - - 11.0781
+
+4h 5d 6c 8d Kc 
+6c - - Kc 4h - - - 5d 8d - - - 6.9025
+4h - - 8d 5d - - - 6c Kc - - - 7.87
+8d - - 5d 4h - - - 6c Kc - - - 8.15063
+- - - Kc 6c 4h - - 5d 8d - - - 8.27563
+Kc - - 6c 5d 4h - - 8d - - - - 8.92375
+
+3h 5d 6c 8d Kc 
+6c - - Kc 3h - - - 5d 8d - - - 7.50938
+8d - - 5d 3h - - - 6c Kc - - - 7.66375
+5d - - 8d 3h - - - 6c Kc - - - 7.79063
+- - - Kc 3h - - - 5d 6c 8d - - 8.18812
+Kc - - 5d 3h - - - 6c 8d - - - 8.71187
+
+2h 5d 6c 8d Kc 
+2h - - 8d 5d - - - 6c Kc - - - 7.55937
+5d - - 8d 2h - - - 6c Kc - - - 7.57188
+8d - - 5d 2h - - - 6c Kc - - - 8.14563
+Kc - - 6c 2h - - - 5d 8d - - - 8.935
+- - - 8d 5d 2h - - 6c Kc - - - 9.09813
+
+4d 6c 8d Ah Kc 
+Ah 4d - 8d - - - - 6c Kc - - - 19.9438
+Ah 6c - 8d 4d - - - Kc - - - - 20
+Kc Ah - 6c 4d - - - 8d - - - - 21.2831
+Ah 8d - 6c 4d - - - Kc - - - - 21.9494
+Ah - - 8d 4d - - - 6c Kc - - - 23.6806
+
+4d 6c 8d Kc Kh 
+Kc - - Kh 6c - - - 4d 8d - - - 7.97125
+4d - - 8d 6c - - - Kc Kh - - - 10.3813
+8d - - 6c 4d - - - Kc Kh - - - 10.4469
+- - - 8d 6c 4d - - Kc Kh - - - 10.6906
+6c - - 8d 4d - - - Kc Kh - - - 11.2669
+
+4d 6c 8d Kc Qh 
+4d - - Qh 8d - - - 6c Kc - - - 7.55
+8d - - 6c 4d - - - Kc Qh - - - 7.755
+Kc - - 6c 4d - - - 8d Qh - - - 7.9575
+Qh - - Kc 4d - - - 6c 8d - - - 8.34375
+- - - Qh 8d 4d - - 6c Kc - - - 8.37687
+
+4d 6c 8d Jh Kc 
+4d - - Jh 8d - - - 6c Kc - - - 7.44812
+8d - - 6c 4d - - - Jh Kc - - - 8.00125
+Jh - - 8d 4d - - - 6c Kc - - - 8.04062
+- - - Jh 8d 4d - - 6c Kc - - - 8.5
+Kc - - 6c 4d - - - 8d Jh - - - 8.825
+
+4d 6c 8d Kc Th 
+4d - - 8d 6c - - - Kc Th - - - 7.05625
+8d - - Th 4d - - - 6c Kc - - - 7.47188
+- - - Th 8d 4d - - 6c Kc - - - 7.87813
+Th - - 8d 4d - - - 6c Kc - - - 7.95563
+Kc - - 6c 4d - - - 8d Th - - - 8.48
+
+4d 6c 8d 9h Kc 
+6c - - Kc 4d - - - 8d 9h - - - 7.00125
+- - - Kc 4d - - - 6c 8d 9h - - 7.68687
+8d - - 9h 4d - - - 6c Kc - - - 7.70312
+9h - - 8d 4d - - - 6c Kc - - - 7.78312
+Kc - - 4d - - - - 6c 8d 9h - - 8.78625
+
+4d 6c 8d 8h Kc 
+8h - - 8d 4d - - - 6c Kc - - - 7.6325
+4d - - Kc 6c - - - 8d 8h - - - 9.23375
+6c - - Kc 4d - - - 8d 8h - - - 9.25875
+- - - Kc 6c 4d - - 8d 8h - - - 10.3294
+Kc - - 6c 4d - - - 8d 8h - - - 12.9369
+
+4d 6c 7h 8d Kc 
+8d - - 7h 4d - - - 6c Kc - - - 7.5875
+6c - - Kc 7h - - - 4d 8d - - - 7.59
+7h - - 8d 4d - - - 6c Kc - - - 7.64437
+Kc - - 7h 6c - - - 4d 8d - - - 8.9875
+- - - Kc 4d - - - 6c 7h 8d - - 9.11625
+
+4d 6c 6h 8d Kc 
+6h - - 8d 4d - - - 6c Kc - - - 7.95875
+4d - - Kc - - - - 6c 6h 8d - - 8.44
+8d - - Kc - - - - 4d 6c 6h - - 8.62
+- - - Kc 8d 4d - - 6c 6h - - - 9.625
+Kc - - 8d 4d - - - 6c 6h - - - 11.7369
+
+4d 5h 6c 8d Kc 
+5h - - 8d 4d - - - 6c Kc - - - 7.25875
+4d - - 8d 5h - - - 6c Kc - - - 7.40375
+8d - - 5h 4d - - - 6c Kc - - - 8.04187
+- - - 8d 5h 4d - - 6c Kc - - - 8.0425
+Kc - - 6c 5h - - - 4d 8d - - - 9.35
+
+4d 4h 6c 8d Kc 
+4h - - 8d 4d - - - 6c Kc - - - 7.38312
+6c - - 4h 4d - - - 8d Kc - - - 8.72875
+- - - Kc 4h 4d - - 6c 8d - - - 9.28312
+8d - - 4h 4d - - - 6c Kc - - - 9.48312
+Kc - - 6c 4h 4d - - 8d - - - - 12.0731
+
+3h 4d 6c 8d Kc 
+6c - - Kc 3h - - - 4d 8d - - - 7.40938
+3h - - 8d 4d - - - 6c Kc - - - 8.02312
+8d - - 4d 3h - - - 6c Kc - - - 8.34125
+- - - 8d 4d 3h - - 6c Kc - - - 8.65
+Kc - - 4d 3h - - - 6c 8d - - - 8.89125
+
+2h 4d 6c 8d Kc 
+6c - - Kc 2h - - - 4d 8d - - - 7.43062
+8d - - 4d 2h - - - 6c Kc - - - 8.10875
+4d - - 8d 2h - - - 6c Kc - - - 8.4625
+- - - 8d 4d 2h - - 6c Kc - - - 8.57
+Kc - - 6c 2h - - - 4d 8d - - - 9.21562
+
+3d 6c 8d Ah Kc 
+Ah 3d - 8d 6c - - - Kc - - - - 19.745
+Ah 6c - 3d - - - - 8d Kc - - - 20.6625
+Kc Ah - 6c 3d - - - 8d - - - - 21.38
+Ah 8d - 6c 3d - - - Kc - - - - 22.015
+Ah - - 8d 3d - - - 6c Kc - - - 24.6725
+
+3d 6c 8d Kc Kh 
+Kc - - Kh 3d - - - 6c 8d - - - 7.34875
+8d - - 6c 3d - - - Kc Kh - - - 10.51
+6c - - 8d 3d - - - Kc Kh - - - 10.8406
+3d - - 8d 6c - - - Kc Kh - - - 11.0881
+- - - 8d 3d - - - 6c Kc Kh - - 11.76
+
+3d 6c 8d Kc Qh 
+3d - - 8d 6c - - - Kc Qh - - - 6.88125
+Qh - - Kc 3d - - - 6c 8d - - - 8.00313
+Kc - - 8d 6c 3d - - Qh - - - - 8.07
+8d - - Qh 3d - - - 6c Kc - - - 8.11687
+- - - Qh 8d 3d - - 6c Kc - - - 8.505
+
+3d 6c 8d Jh Kc 
+3d - - 8d 6c - - - Jh Kc - - - 7.69812
+8d - - Jh 3d - - - 6c Kc - - - 8.02188
+- - - Jh 8d 3d - - 6c Kc - - - 8.10875
+Jh - - 8d 3d - - - 6c Kc - - - 8.26375
+Kc - - 6c 3d - - - 8d Jh - - - 8.61312
+
+3d 6c 8d Kc Th 
+Th - - Kc 3d - - - 6c 8d - - - 7.24062
+6c - - Kc 3d - - - 8d Th - - - 7.44938
+8d - - Th 3d - - - 6c Kc - - - 8.11812
+- - - Th 8d 3d - - 6c Kc - - - 8.28125
+Kc - - 6c 3d - - - 8d Th - - - 8.9575
+
+3d 6c 8d 9h Kc 
+9h - - 8d 3d - - - 6c Kc - - - 7.04625
+6c - - 8d 3d - - - 9h Kc - - - 8.3475
+Kc - - 6c 3d - - - 8d 9h - - - 8.47375
+- - - 9h 8d 3d - - 6c Kc - - - 8.52
+8d - - 9h 3d - - - 6c Kc - - - 8.67937
+
+3d 6c 8d 8h Kc 
+8h - - 8d 3d - - - 6c Kc - - - 7.355
+3d - - Kc 6c - - - 8d 8h - - - 9.38125
+6c - - Kc 3d - - - 8d 8h - - - 10.475
+- - - Kc 6c 3d - - 8d 8h - - - 11.3994
+Kc - - 6c 3d - - - 8d 8h - - - 11.9169
+
+3d 6c 7h 8d Kc 
+3d - - Kc - - - - 6c 7h 8d - - 7.43062
+8d - - 7h 3d - - - 6c Kc - - - 7.63062
+7h - - 8d 3d - - - 6c Kc - - - 7.805
+- - - Kc 3d - - - 6c 7h 8d - - 8.71313
+Kc - - 3d - - - - 6c 7h 8d - - 9.43312
+
+3d 6c 6h 8d Kc 
+6h - - 8d 3d - - - 6c Kc - - - 7.34188
+3d - - Kc 8d - - - 6c 6h - - - 9
+8d - - Kc 3d - - - 6c 6h - - - 9.36125
+- - - Kc 8d 3d - - 6c 6h - - - 9.59625
+Kc - - 8d 3d - - - 6c 6h - - - 11.6925
+
+3d 5h 6c 8d Kc 
+5h - - 8d 3d - - - 6c Kc - - - 7.4525
+3d - - 8d 5h - - - 6c Kc - - - 7.59438
+8d - - Kc 3d - - - 5h 6c - - - 7.60375
+Kc - - 3d - - - - 5h 6c 8d - - 8.43062
+- - - 8d 5h 3d - - 6c Kc - - - 9.40938
+
+3d 4h 6c 8d Kc 
+3d - - 8d 4h - - - 6c Kc - - - 7.09625
+4h - - 8d 3d - - - 6c Kc - - - 7.735
+8d - - 4h 3d - - - 6c Kc - - - 7.82875
+- - - Kc 4h 3d - - 6c 8d - - - 7.89813
+Kc - - 4h 3d - - - 6c 8d - - - 9.22563
+
+3d 3h 6c 8d Kc 
+3h - - 8d 3d - - - 6c Kc - - - 7.49687
+6c - - 8d 3h 3d - - Kc - - - - 8.40625
+8d - - 3h 3d - - - 6c Kc - - - 9.59125
+- - - 8d 3h 3d - - 6c Kc - - - 10.5019
+Kc - - 3h 3d - - - 6c 8d - - - 12.1856
+
+2h 3d 6c 8d Kc 
+3d - - 8d 2h - - - 6c Kc - - - 7.44438
+- - - Kc 6c 2h - - 3d 8d - - - 7.8975
+8d - - 3d 2h - - - 6c Kc - - - 8.155
+2h - - 8d 3d - - - 6c Kc - - - 8.1975
+Kc - - 3d 2h - - - 6c 8d - - - 9.89188
+
+2d 6c 8d Ah Kc 
+Ah 6c - 8d 2d - - - Kc - - - - 19.7931
+Ah 2d - 8d - - - - 6c Kc - - - 20.1375
+Kc Ah - 6c 2d - - - 8d - - - - 21.2669
+Ah 8d - 2d - - - - 6c Kc - - - 22.2031
+Ah - - 8d 2d - - - 6c Kc - - - 24.4181
+
+2d 6c 8d Kc Kh 
+Kh - - Kc 6c 2d - - 8d - - - - 7.86938
+- - - 8d 2d - - - 6c Kc Kh - - 10.375
+8d - - 6c 2d - - - Kc Kh - - - 10.5387
+2d - - 8d 6c - - - Kc Kh - - - 10.8538
+6c - - 8d 2d - - - Kc Kh - - - 11.0275
+
+2d 6c 8d Kc Qh 
+2d - - Qh 8d 6c - - Kc - - - - 6.825
+8d - - 6c 2d - - - Kc Qh - - - 7.62437
+Qh - - 8d 2d - - - 6c Kc - - - 8.31188
+Kc - - 6c 2d - - - 8d Qh - - - 8.48125
+- - - 8d 6c 2d - - Kc Qh - - - 8.905
+
+2d 6c 8d Jh Kc 
+6c - - 8d 2d - - - Jh Kc - - - 7.71938
+- - - 8d 6c 2d - - Jh Kc - - - 7.95937
+8d - - Jh 2d - - - 6c Kc - - - 8.01625
+Jh - - 8d 2d - - - 6c Kc - - - 8.29375
+Kc - - Jh 2d - - - 6c 8d - - - 8.4375
+
+2d 6c 8d Kc Th 
+6c - - Kc 2d - - - 8d Th - - - 7.45625
+8d - - Th 2d - - - 6c Kc - - - 7.46438
+Th - - 8d 2d - - - 6c Kc - - - 7.85313
+- - - Kc 2d - - - 6c 8d Th - - 8.28
+Kc - - 6c 2d - - - 8d Th - - - 8.67
+
+2d 6c 8d 9h Kc 
+2d - - 9h 8d - - - 6c Kc - - - 6.94375
+9h - - Kc 2d - - - 6c 8d - - - 7.79437
+8d - - 9h 2d - - - 6c Kc - - - 7.9075
+- - - Kc 2d - - - 6c 8d 9h - - 8.65312
+Kc - - 2d - - - - 6c 8d 9h - - 8.80062
+
+2d 6c 8d 8h Kc 
+8d - - 8h 2d - - - 6c Kc - - - 7.68062
+2d - - Kc 6c - - - 8d 8h - - - 9.02063
+6c - - Kc 2d - - - 8d 8h - - - 9.80937
+- - - Kc 6c 2d - - 8d 8h - - - 10.2431
+Kc - - 6c 2d - - - 8d 8h - - - 12.4169
+
+2d 6c 7h 8d Kc 
+6c - - 8d 7h 2d - - Kc - - - - 7.01125
+7h - - 8d 2d - - - 6c Kc - - - 7.28125
+8d - - Kc 2d - - - 6c 7h - - - 7.54563
+Kc - - 2d - - - - 6c 7h 8d - - 9.5325
+- - - Kc 2d - - - 6c 7h 8d - - 9.75125
+
+2d 6c 6h 8d Kc 
+6h - - 8d 2d - - - 6c Kc - - - 6.97188
+2d - - Kc 8d - - - 6c 6h - - - 8.4625
+8d - - Kc 2d - - - 6c 6h - - - 8.9825
+- - - Kc 8d 2d - - 6c 6h - - - 9.71937
+Kc - - 6h 6c - - - 2d 8d - - - 11.6156
+
+2d 5h 6c 8d Kc 
+2d - - 6c 5h - - - 8d Kc - - - 6.8475
+8d - - 5h 2d - - - 6c Kc - - - 7.57188
+- - - Kc 2d - - - 5h 6c 8d - - 8.09813
+Kc - - 5h 2d - - - 6c 8d - - - 8.38313
+5h - - 8d 2d - - - 6c Kc - - - 8.39312
+
+2d 4h 6c 8d Kc 
+4h - - 8d 6c 2d - - Kc - - - - 7.43437
+2d - - 8d 4h - - - 6c Kc - - - 7.46625
+- - - 8d 4h 2d - - 6c Kc - - - 8.52437
+8d - - 4h 2d - - - 6c Kc - - - 8.82938
+Kc - - 6c 4h - - - 2d 8d - - - 9.24063
+
+2d 3h 6c 8d Kc 
+3h - - 8d 2d - - - 6c Kc - - - 6.87937
+2d - - Kc 3h - - - 6c 8d - - - 7.14563
+8d - - 3h 2d - - - 6c Kc - - - 7.92188
+- - - 8d 3h 2d - - 6c Kc - - - 8.19563
+Kc - - 3h 2d - - - 6c 8d - - - 9.78
+
+2d 2h 6c 8d Kc 
+2h - - 8d 2d - - - 6c Kc - - - 7.93875
+6c - - 8d 2h 2d - - Kc - - - - 8.67688
+8d - - 2h 2d - - - 6c Kc - - - 9.72062
+- - - Kc 2h 2d - - 6c 8d - - - 10.5375
+Kc - - 8d 2h 2d - - 6c - - - - 12.3194
+
+6c 6d 7d Ah Kc 
+Ah 6d - 7d 6c - - - Kc - - - - 20.1994
+Ah 6c - Kc - - - - 6d 7d - - - 21.0906
+Ah 7d - 6d 6c - - - Kc - - - - 25.155
+Ah - - 6d 6c - - - 7d Kc - - - 25.1825
+Kc Ah - 6d 6c - - - 7d - - - - 25.9419
+
+6c 6d 7d Kc Kh 
+Kc - - Kh 7d - - - 6c 6d - - - 9.675
+6d - - 7d 6c - - - Kc Kh - - - 10.5494
+6c - - 7d 6d - - - Kc Kh - - - 10.69
+- - - 7d - - - - 6c 6d Kc Kh - 12.4113
+7d - - 6d 6c - - - Kc Kh - - - 12.9225
+
+6c 6d 7d Kc Qh 
+6c - - 7d 6d - - - Kc Qh - - - 7.71688
+Qh - - Kc 7d - - - 6c 6d - - - 9.40687
+- - - Qh Kc 7d - - 6c 6d - - - 9.44063
+Kc - - 7d 6d 6c - - Qh - - - - 9.81563
+7d - - Qh Kc - - - 6c 6d - - - 9.82187
+
+6c 6d 7d Jh Kc 
+6d - - 7d 6c - - - Jh Kc - - - 7.27938
+Jh - - Kc 7d - - - 6c 6d - - - 8.78438
+- - - Kc Jh - - - 6c 6d 7d - - 9.24562
+7d - - Kc Jh - - - 6c 6d - - - 9.25562
+Kc - - Jh 7d - - - 6c 6d - - - 10.1575

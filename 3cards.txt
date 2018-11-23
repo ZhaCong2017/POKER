@@ -1,0 +1,13 @@
+As Ad Ac Ks Kd Kc 1
+As Ad Ac As Ad Ac 0
+Ks Kd Kc As Ad Ac -1
+9s 9h 9c As Ah 8d 1
+As Ah 8d 9s 9h 9c -1
+Js Jh 9d Jc Jd 9s 0
+Js Jh 9d Jc Jd As -1
+Js Jh 9d Jc Jd 8s 1
+As Ts Ks Ad Td Kd 0
+As Qs Jd Js Ks Tc 1
+Td 9c 2d 8d Ts 5d 1
+Ts 8c 6d Td 8d 7d -1
+
