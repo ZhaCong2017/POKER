@@ -8,7 +8,7 @@ OFC::OFC()
 {
 	simu_score = 0;
 	card_num = 0;
-	simu_num = 1600; // 3000;
+	simu_num = 1800; // 3000;
 }
 
 
