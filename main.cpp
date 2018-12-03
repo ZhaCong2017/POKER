@@ -354,24 +354,24 @@ vector<OFC> get_OFC_First5(set<string> aim, vector<string> poker)
 		}
 	}
 	}
-	for (int i = 0; i < 5; i++)
-	{
-		for (int j = 0; j < result[i].up.size(); j++)
-		{
-			if (aim.count(result[i].up[j]) == 0)
-				result[i].up[j] = "Xx";
-		}
-		for (int j = 0; j < result[i].mid.size(); j++)
-		{
-			if (aim.count(result[i].mid[j]) == 0)
-				result[i].mid[j] = "Xx";
-		}
-		for (int j = 0; j < result[i].down.size(); j++)
-		{
-			if (aim.count(result[i].down[j]) == 0)
-				result[i].down[j] = "Xx";
-		}
-	}
+	//for (int i = 0; i < 5; i++)
+	//{
+	//	for (int j = 0; j < result[i].up.size(); j++)
+	//	{
+	//		if (aim.count(result[i].up[j]) == 0)
+	//			result[i].up[j] = "Xx";
+	//	}
+	//	for (int j = 0; j < result[i].mid.size(); j++)
+	//	{
+	//		if (aim.count(result[i].mid[j]) == 0)
+	//			result[i].mid[j] = "Xx";
+	//	}
+	//	for (int j = 0; j < result[i].down.size(); j++)
+	//	{
+	//		if (aim.count(result[i].down[j]) == 0)
+	//			result[i].down[j] = "Xx";
+	//	}
+	//}
 	return result;
 }
 
@@ -450,12 +450,12 @@ vector<OFC> get_OFC_7_answer(OFC now, vector<string> &poker_offer, vector<string
 	vector<int> t(5);
 
 	combine(poker_offer, 3, 2, t, 2, poker_offer_type);
-	for (int i = 0; i < poker_offer_type.size(); i++)
+	/*for (int i = 0; i < poker_offer_type.size(); i++)
 	{
 		for (int j = 0; j < poker_offer_type[i].size(); j++)
 			cout << poker_offer_type[i][j] << " ";
 		cout << endl;
-	}
+	}*/
 
 	now.poker_can_use = poker_can_use;
 	now.card_num = now.up.size() + now.mid.size() + now.down.size() + 2;
@@ -628,13 +628,17 @@ int main()
 			cout << poker_this_step[i] << " ";
 		cout << endl;
 		set<string> tmp;
-
+		OFC now;
 		for (int i = 0; i < 5; i++)
 		{
 			tmp.insert(poker_this_step[i]);
 			poke.erase(remove(poke.begin(), poke.end(), poker_this_step[i]));
 		}
 		vector<OFC> result = get_OFC_First5(tmp, poke);
+
+		now.up = { "As" };
+		now.mid = { "6s", "6d" };
+		now.down = { "9c", "9h" };
 
 		vector<string> tmp1;
 		for(int i = 5; i < 15; i++)
@@ -644,9 +648,10 @@ int main()
 			tmp1.push_back(poker_this_step[i]);
 			poke.erase(remove(poke.begin(), poke.end(), poker_this_step[i]));
 		}
-		result = get_OFC_7_answer(result[4], tmp1, poke);
+		result = get_OFC_7_answer(now, tmp1, poke);   //now -> result[4]
 		tmp1.clear();
 
+	
 		for (int i = 18; i < 22; i++)
 			poke.erase(remove(poke.begin(), poke.end(), poker_this_step[i]));
 		for (int i = 22; i < 25; i++)
@@ -676,6 +681,12 @@ int main()
 		}
 		result = get_OFC_7_answer(result[4], tmp1, poke);
 		tmp1.clear();
+
+		for (int i = 0; i < result.size(); i++)
+		{
+			result[i].print();
+			cout << result[i].simu_score << endl;
+		}
 	}
 
 	//vector<string> p = { "As", "Kc", "5d" };
