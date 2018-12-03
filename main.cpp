@@ -443,12 +443,12 @@ bool get_aim_5_test(set<string> now, set<set<string> > &best_first5)
 		return false;
 }
 
-OFC get_OFC_7_answer(OFC now, vector<string> &poker_offer, vector<string> &poker_can_use)
+vector<OFC> get_OFC_7_answer(OFC now, vector<string> &poker_offer, vector<string> &poker_can_use)
 {
+	priority_queue<OFC, vector<OFC> > best_5;
 	vector<vector<string> > poker_offer_type;
 	vector<int> t(5);
-	OFC result;
-	result.simu_score = -7;
+
 	combine(poker_offer, 3, 2, t, 2, poker_offer_type);
 	for (int i = 0; i < poker_offer_type.size(); i++)
 	{
@@ -465,9 +465,15 @@ OFC get_OFC_7_answer(OFC now, vector<string> &poker_offer, vector<string> &poker
 		{
 			now.up.push_back(poker_offer_type[i][0]);
 			now.up.push_back(poker_offer_type[i][1]);
-			now.scoreis(s); now.print(); cout << now.simu_score << endl;
-			if (result.simu_score < now.simu_score)
-				result = now;
+			now.scoreis(s); 
+			if (best_5.size() < 5)
+				best_5.push(now);
+			else if (best_5.top().simu_score < now.simu_score)
+			{
+				best_5.pop();
+				best_5.push(now);
+			}
+			
 			now.up.pop_back();
 			now.up.pop_back();
 		}
@@ -475,9 +481,14 @@ OFC get_OFC_7_answer(OFC now, vector<string> &poker_offer, vector<string> &poker
 		{
 			now.mid.push_back(poker_offer_type[i][0]);
 			now.mid.push_back(poker_offer_type[i][1]);
-			now.scoreis(s); now.print(); cout << now.simu_score << endl;
-			if (result.simu_score < now.simu_score)
-				result = now;
+			now.scoreis(s); 
+			if (best_5.size() < 5)
+				best_5.push(now);
+			else if (best_5.top().simu_score < now.simu_score)
+			{
+				best_5.pop();
+				best_5.push(now);
+			}
 			now.mid.pop_back();
 			now.mid.pop_back();
 		}
@@ -485,9 +496,14 @@ OFC get_OFC_7_answer(OFC now, vector<string> &poker_offer, vector<string> &poker
 		{
 			now.down.push_back(poker_offer_type[i][0]);
 			now.down.push_back(poker_offer_type[i][1]);
-			now.scoreis(s); now.print(); cout << now.simu_score << endl;
-			if (result.simu_score < now.simu_score)
-				result = now;
+			now.scoreis(s); 
+			if (best_5.size() < 5)
+				best_5.push(now);
+			else if (best_5.top().simu_score < now.simu_score)
+			{
+				best_5.pop();
+				best_5.push(now);
+			}
 			now.down.pop_back();
 			now.down.pop_back();
 		}
@@ -495,13 +511,23 @@ OFC get_OFC_7_answer(OFC now, vector<string> &poker_offer, vector<string> &poker
 		{
 			now.up.push_back(poker_offer_type[i][0]);
 			now.mid.push_back(poker_offer_type[i][1]);
-			now.scoreis(s); now.print(); cout << now.simu_score << endl;
-			if (result.simu_score < now.simu_score)
-				result = now;
+			now.scoreis(s);
+			if (best_5.size() < 5)
+				best_5.push(now);
+			else if (best_5.top().simu_score < now.simu_score)
+			{
+				best_5.pop();
+				best_5.push(now);
+			}
 			swap(now.up[now.up.size() - 1], now.mid[now.mid.size() - 1]);
-			now.scoreis(s); now.print(); cout << now.simu_score << endl;
-			if (result.simu_score < now.simu_score)
-				result = now;
+			now.scoreis(s);
+			if (best_5.size() < 5)
+				best_5.push(now);
+			else if (best_5.top().simu_score < now.simu_score)
+			{
+				best_5.pop();
+				best_5.push(now);
+			}
 			now.up.pop_back();
 			now.mid.pop_back();
 		}
@@ -509,13 +535,23 @@ OFC get_OFC_7_answer(OFC now, vector<string> &poker_offer, vector<string> &poker
 		{
 			now.up.push_back(poker_offer_type[i][0]);
 			now.down.push_back(poker_offer_type[i][1]);
-			now.scoreis(s); now.print(); cout << now.simu_score << endl;
-			if (result.simu_score < now.simu_score)
-				result = now;
+			now.scoreis(s);
+			if (best_5.size() < 5)
+				best_5.push(now);
+			else if (best_5.top().simu_score < now.simu_score)
+			{
+				best_5.pop();
+				best_5.push(now);
+			}
 			swap(now.up[now.up.size() - 1], now.down[now.down.size() - 1]);
-			now.scoreis(s); now.print(); cout << now.simu_score << endl;
-			if (result.simu_score < now.simu_score)
-				result = now;
+			now.scoreis(s); 
+			if (best_5.size() < 5)
+				best_5.push(now);
+			else if (best_5.top().simu_score < now.simu_score)
+			{
+				best_5.pop();
+				best_5.push(now);
+			}
 			now.up.pop_back();
 			now.down.pop_back();
 		}
@@ -523,16 +559,33 @@ OFC get_OFC_7_answer(OFC now, vector<string> &poker_offer, vector<string> &poker
 		{
 			now.mid.push_back(poker_offer_type[i][0]);
 			now.down.push_back(poker_offer_type[i][1]);
-			now.scoreis(s); now.print(); cout << now.simu_score << endl;
-			if (result.simu_score < now.simu_score)
-				result = now;
+			now.scoreis(s); 
+			if (best_5.size() < 5)
+				best_5.push(now);
+			else if (best_5.top().simu_score < now.simu_score)
+			{
+				best_5.pop();
+				best_5.push(now);
+			}
 			swap(now.mid[now.mid.size() - 1], now.down[now.down.size() - 1]);
-			now.scoreis(s); now.print(); cout << now.simu_score << endl;
-			if (result.simu_score < now.simu_score)
-				result = now;
+			now.scoreis(s);
+			if (best_5.size() < 5)
+				best_5.push(now);
+			else if (best_5.top().simu_score < now.simu_score)
+			{
+				best_5.pop();
+				best_5.push(now);
+			}
 			now.mid.pop_back();
 			now.down.pop_back();
 		}
+	}
+
+	vector<OFC> result;
+	while (!best_5.empty())
+	{
+		result.push_back(best_5.top());
+		best_5.pop();
 	}
 	return result;
 }
@@ -565,28 +618,91 @@ int main()
 		cout << First_5[i].simu_score << endl << endl;
 	}*/
 	//cout << "INPUT START" << endl;
-	vector<string> p = { "As", "Kc", "5d" };
-	OFC now;
-	now.up = { "Ac"};
-	now.mid = { "6s", "6d" };
-	now.down = { "9h", "9c" };
-	poker.erase(remove(poker.begin(), poker.end(), "As"));
-	poker.erase(remove(poker.begin(), poker.end(), "Kc"));
-	poker.erase(remove(poker.begin(), poker.end(), "5d"));
-	poker.erase(remove(poker.begin(), poker.end(), "Ac"));
-	poker.erase(remove(poker.begin(), poker.end(), "6s"));
-	poker.erase(remove(poker.begin(), poker.end(), "6d"));
-	poker.erase(remove(poker.begin(), poker.end(), "9h"));
-	poker.erase(remove(poker.begin(), poker.end(), "9c"));
+
+	for (int step = 0; step < 10; step++)
+	{
+		vector<string>poke = poker;
+		vector<string> poker_this_step = poker;
+		random_shuffle(poker_this_step.begin(), poker_this_step.end());
+		for (int i = 0; i < poker_this_step.size(); i++)
+			cout << poker_this_step[i] << " ";
+		cout << endl;
+		set<string> tmp;
+
+		for (int i = 0; i < 5; i++)
+		{
+			tmp.insert(poker_this_step[i]);
+			poke.erase(remove(poke.begin(), poke.end(), poker_this_step[i]));
+		}
+		vector<OFC> result = get_OFC_First5(tmp, poke);
+
+		vector<string> tmp1;
+		for(int i = 5; i < 15; i++)
+			poke.erase(remove(poke.begin(), poke.end(), poker_this_step[i]));
+		for (int i = 15; i < 18; i++)
+		{
+			tmp1.push_back(poker_this_step[i]);
+			poke.erase(remove(poke.begin(), poke.end(), poker_this_step[i]));
+		}
+		result = get_OFC_7_answer(result[4], tmp1, poke);
+		tmp1.clear();
+
+		for (int i = 18; i < 22; i++)
+			poke.erase(remove(poke.begin(), poke.end(), poker_this_step[i]));
+		for (int i = 22; i < 25; i++)
+		{
+			tmp1.push_back(poker_this_step[i]);
+			poke.erase(remove(poke.begin(), poke.end(), poker_this_step[i]));
+		}
+		result = get_OFC_7_answer(result[4], tmp1, poke);
+		tmp1.clear();
+
+		for (int i = 25; i < 29; i++)
+			poke.erase(remove(poke.begin(), poke.end(), poker_this_step[i]));
+		for (int i = 29; i < 32; i++)
+		{
+			tmp1.push_back(poker_this_step[i]);
+			poke.erase(remove(poke.begin(), poke.end(), poker_this_step[i]));
+		}
+		result = get_OFC_7_answer(result[4], tmp1, poke);
+		tmp1.clear();
+
+		for (int i = 32; i < 36; i++)
+			poke.erase(remove(poke.begin(), poke.end(), poker_this_step[i]));
+		for (int i = 36; i < 39; i++)
+		{
+			tmp1.push_back(poker_this_step[i]);
+			poke.erase(remove(poke.begin(), poke.end(), poker_this_step[i]));
+		}
+		result = get_OFC_7_answer(result[4], tmp1, poke);
+		tmp1.clear();
+	}
+
+	//vector<string> p = { "As", "Kc", "5d" };
+	//OFC now;
+	//now.up = { "Ac"};
+	//now.mid = { "6s", "6d" };
+	//now.down = { "9h", "9c" };
+	//poker.erase(remove(poker.begin(), poker.end(), "As"));
+	//poker.erase(remove(poker.begin(), poker.end(), "Kc"));
+	//poker.erase(remove(poker.begin(), poker.end(), "5d"));
+	//poker.erase(remove(poker.begin(), poker.end(), "Ac"));
+	//poker.erase(remove(poker.begin(), poker.end(), "6s"));
+	//poker.erase(remove(poker.begin(), poker.end(), "6d"));
+	//poker.erase(remove(poker.begin(), poker.end(), "9h"));
+	//poker.erase(remove(poker.begin(), poker.end(), "9c"));
 
 	/*now.poker_can_use = poker;
 	now.card_num = now.up.size() + now.mid.size() + now.down.size();
 	now.scoreis(s);
 	cout << now.simu_score << endl;*/
 
-	OFC result = get_OFC_7_answer(now, p, poker);
-	result.print();
-	cout << result.simu_score << endl;
+	//vector<OFC> result = get_OFC_7_answer(now, p, poker);
+	//for (int i = 0; i < result.size(); i++)
+	//{
+	//	result[i].print();
+	//	cout << result[i].simu_score << endl;
+	//}
 
 
 	system("pause");
